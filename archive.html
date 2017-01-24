@@ -1,16 +1,16 @@
 ---
 layout: default
-title: Archive
+title: Archives
 description: 
 permalink: /archive/
 ---
 <section class="archives" itemscope itemtype="http://schema.org/Blog">
   <a class="nav nav--black" href="{{ site.baseurl }}/">
     <i class="fa fa-lg fa-arrow-left"></i>
-    <span>Back to Posts</span>
+    <span>Accueil</span>
   </a>
   <header class="archives__header">
-    <span>Archive</span>
+    <span>Archives</span>
   </header>
   <div class="section-padding archives__container">
     {% for post in site.posts %}
@@ -18,20 +18,21 @@ permalink: /archive/
         <a class="card__link" href="{{ post.url | prepend: site.baseurl }}" itemprop="url">
           <div class="card__img">
             {% if post.image-sm %}
-              <figure class="absolute-bg wow" style="background-image: url('{{ post.image-sm }}');"></figure>
+              <figure class="absolute-bg wow" style="background-image: url('{{site.url}}/images/{{ post.image-sm }}');"></figure>
             {% else %}
-              <figure class="absolute-bg wow" style="background-image: url('{{ post.image }}');"></figure>
+              <figure class="absolute-bg wow" style="background-image: url('{{site.url}}/images/{{ post.image }}');"></figure>
             {% endif %}
           </div>
           <div class="card__container">
             <h2 class="card__header" itemprop="name">{{ post.title }}</h2>
+            {% include date.html date=post.date %}
             <p class="card__count" itemprop="datePublished" datetime="{{ post.date | date_to_xmlschema }}">
-              {{ post.date | date: "%b %-d, %Y" }}
+              Le {{ day }}{{ sup }} {{ month }} {{ year }}
               {% if post.categories.size > 0 %}
-                in {{ post.categories | join: ', ' }}
+                | {{ post.categories | join: ', ' }}
               {% endif %}
             </p>
-            <span class="card__more">Read Post</span>
+            <span class="card__more">Lire</span>
           </div>
         </a>
       </article>

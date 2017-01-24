@@ -57,9 +57,13 @@
 
     color: $color-white;
 
+    h1 {
+      text-shadow: 0 0 5px black;
+    }
+
     span {
       @extend %letter-spacing;
-
+      text-shadow: 0 0 3px black;
       font-family: $font-body;
     }
   }
@@ -280,6 +284,7 @@
   color: $color-white;
   background-color: $color-black;
 
+
   &:after {
     @extend %overlay;
   }
@@ -299,6 +304,11 @@
 
   h1 {
     line-height: 1.2;
+    text-shadow: 0 0 5px black
+  }
+
+  span {
+    text-shadow: 0 0 3px black
   }
 }
 
@@ -375,10 +385,11 @@
   h1, 
   h2 {
     line-height: 1.2;
+    margin: 0.75em 0 0.75em 0;
   }
 
   p:first-child {
-    font-size: 1.25em;
+    font-size: 1.15em;
   }
 
   a {
@@ -387,6 +398,42 @@
 
   img {
     padding-bottom: 0.75em;
+  }
+
+  .photoattrib {
+      text-align: center;
+      padding-bottom: 0.75em;
+      margin-top: -1.5em;
+      font-size: 85%;
+      font-style: italic;
+  }
+
+  blockquote {
+    margin-left: 0;
+    padding-left: 40px;
+    border-left: 5px solid #ccc;
+
+    p {
+      font-style: italic;
+    }
+
+
+  }
+
+  ul {
+      list-style: none;
+      padding:0;
+      margin:0;
+  }
+
+  li { 
+      padding: 0.5em 0 0.25em 2em;
+      text-indent: -.7em;
+  }
+
+  li:before {
+      content: "- ";
+      color: #9f8f68;
   }
 
   figure {

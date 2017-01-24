@@ -108,6 +108,17 @@ ol, ul {
   list-style-type: none;
 }
 
+hr {
+
+    border: none;
+    border-top: 1px dotted #888;
+    color: #fff;
+    background-color: #fff;
+    height: 1px;
+    width: 50%;
+    margin: 2.5em auto;
+}
+
 /**
  * Text Selection
  */
