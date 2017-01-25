@@ -1,5 +1,5 @@
 # Site settings
-email: hoedic@mon-ile.net 
+email: stephane.guidoin[at]gmail.com
 baseurl: ""
 paginate: 5
 paginate_path: "/page-:num"
