@@ -8,8 +8,7 @@ google_analytics:
 # SEO settings
 title: Dataholic 
 description: Données, visualisations, technologies, lectures, politique
-url: "http://dataholic.ca"
-#url: "http://localhost:4000"
+url: "http://localhost:4000"
 twitter_username: hoedic
 default_img: background_principal.png
 
