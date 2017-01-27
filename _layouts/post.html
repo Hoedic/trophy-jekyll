@@ -8,7 +8,9 @@ layout: default
       <i class="fa fa-lg fa-arrow-left"></i>
       <span>Accueil</span>
     </a>
-    <figure class="absolute-bg mast__img" style="background-image: url('{{site.url}}/images/{{ page.image }}');"></figure>
+    <figure class="absolute-bg mast__img" style="background-image: url('{{site.url}}/images/{{ page.image }}');">
+        {% if page.credit %}<div class="image-credit">{% if page.creditlink %}<a href="{{ page.creditlink }}">{% endif %}{{ page.credit }}{% if page.creditlink %}</a>{% endif %}</div><!-- /.image-credit -->{% endif %}
+    </figure>
     <div class="mast__container">
       {% include date.html date=page.date %}
       <span><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">Le {{ day }}{{ sup }} {{ month }} {{ year }}</time></span>

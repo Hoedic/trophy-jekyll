@@ -5,6 +5,8 @@ date: 2017-01-23 18:08
 comments: true
 categories: ["Lecture"]
 image: "2017-01-23-math-destruction.jpg" 
+credit: "Couverture - Weapons of math destruction"
+creditlink: "http://test.com"
 ---
 
 Dans les derniers jours, Martin Lessard a publié [deux](http://ici.radio-canada.ca/nouvelle/1004752/triplex-probleme-de-lintelligence-artificielle) [articles](http://ici.radio-canada.ca/nouvelle/1007099/triplex-intelligence-artificielle-hier-menace-humanite-aujourdhui-majordome)<sup>1</sup> auxquels je peux difficilement ne pas réagir considérant mes positions sur le sujet et ma dernière lecture en date: [Weapons of math destruction](https://weaponsofmathdestructionbook.com/).
