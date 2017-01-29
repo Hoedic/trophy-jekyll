@@ -2,6 +2,7 @@
 layout: post
 title: "Rappelons-nous du mouvement anti-mondialisation"
 date: 2017-01-28 16:06
+description: "Quelque part, la situation grècque, le Brexit et l'élection de Trump devraient être appréciés au regard du mouvement anti-mondialisation de la fin des années 1990 - début 2000."
 comments: true
 categories: ["Politique"]
 image: "2017-01-28-occupy-mtl.jpg" 
