@@ -18,7 +18,7 @@
   <meta name="twitter:creator" content="@{{ site.twitter_username }}">
   <meta name="twitter:title" content="{% if page.title %}{{ page.title | escape }} | {{ site.title }}{% else %}{{ site.title | escape }}{% endif %}">
   <meta name="twitter:description" content="{% if page.description %}{{ page.description | escape }}{% else %}{{ site.description }}{% endif %}">
-  <meta property="twitter:image" content="{% if page.image %}{{site.url}}/images/{{ page.image }}{% else %}{{site.url}}/images/{{ site.default_img }}{% endif %}">
+  <meta name="twitter:image" content="{% if page.image %}{{site.url}}/images/{{ page.image }}{% else %}{{site.url}}/images/{{ site.default_img }}{% endif %}">
 
   <!-- 16x16 -->
   <link rel="shortcut icon" href="{{ site.url }}/favicon.ico">
