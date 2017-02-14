@@ -24,7 +24,7 @@ Variation entre 2014-2015 et 2015-2016: pour la période d'hiver étendu (du 1<s
 Variation sur le long terme: En prenant le même échantillonnage (du 1<sup>er</sup> dec. au 31 mars, six boucles) sur plusieurs années, le portrait est nettement moins rose: une courbe sans réelle tendance. L'année de la hausse de 124% est certes la plus haute mais dépasse difficilement un autre sommet de 2011-2012 qui fut suivi de 3 années de baisse consécutives. On peut difficile tirer de ce graphique que la pratique du vélo d'hiver progresse sur le long terme.
 
 ![Évolution du vélo 2010-2016]({{ root_url }}/images/2017-02-12-graph-velo-1.png)
-<div class="photoattrib">Nombre total de passages annuels de vélos sur six boucles entre le 1<sup>er</sup> dec. et le 31 mars </div>
+<div class="photoattrib">Nombre total de passages annuels de vélos sur six boucles entre le 1<sup>er</sup> dec. et le 31 mars<sup>***</sup> </div>
 
 ---
 
@@ -89,3 +89,5 @@ En conclusion, cela m'a surtout permis de confronter une impression rapide que j
 P.S.: Si par hasard vous réalisez une analyse plus approfondie des données et arrivez à d'autres résultats, il me fera plaisir d'en prendre connaissance et de les partager ici.
 
 <sup>**</sup> par soucis de cohérence, j'utilise pour toutes les analyse la somme de six boucles de comptage actives de manière constante entre 2010 à 2016, à savoir la piste Berri, la piste Cote-Sainte-Catherine, la piste Maisonneuve, la piste Parc, la bande Pierre-Dupuy et la piste Rachel.
+
+<sup>***</sup> Tous les graphiques ont été réalisé avec l'excellent [Plot.ly](https://plot.ly/)
