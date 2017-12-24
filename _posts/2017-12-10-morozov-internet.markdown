@@ -8,6 +8,8 @@ categories: ["Politique"]
 image: "2017-12-12-feu.jpg" 
 ---
 
+*Mise à jour / 23 décembre: Le CCA a [publié la vidéo](https://www.youtube.com/watch?v=f1yJ8eeI2js) sur son canal Youtube*
+
 Ma découverte d'Evgeny Morozov date du début des années 2010, suite à des échanges sur Internet (forum? liste de diffusion?) où il critiquait les données ouvertes, donnant des exemples dans lesquels les données ouvertes avaient plutôt servi ceux qui détenaient le pouvoir que la population dans son ensemble -je me rappelle notamment d'un exemple de spéculateurs fonciers en Inde qui avaient habilement exploité ces données au détriment de la population des slums.
 
 À l'époque j'y avais vu un opposant à l'ouverture des données, donc quelque part opposé au "bien" même si je devais bien être d'accord que les exemples qu'il amenait pouvaient difficilement être ignorés. C'était un des premiers que je lisais à proposer une analyse critique des données ouvertes outre que "ça va couter cher".
