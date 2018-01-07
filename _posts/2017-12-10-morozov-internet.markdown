@@ -18,7 +18,7 @@ Par la suite, j'ai appris à découvrir son point de vue. Bien que je doive bien
 
 Quand j'ai vu qu'il devait intervenir au Centre Canadien d'Architecture, je pouvais difficilement l'ignorer. J'ai fait part sur les medias sociaux de mon étonnement dans le peu de monde ayant assisté à cette allocutation et l'absence de représentant de la *scène* techno montréalaise. Plutôt que d'insister là-dessus, je vais répondre, assez succintement et d'une manière qui ne rend surement pas à sa juste valeur la réflexion de Morozov, à la demande de ceux qui n'ont pas pu assister en personne à cette intervention et souhaitent un résumé. (Note: le tout a été filmé, mais je n'ai pu obtenir confirmation du CCA si cela serait rendu disponible sur leur canal Youtube.)
 
---
+---
 
 L'invitation du CCA manquait de clarté, sous le titre *Venez oublier*, on nous proposait le nom de Evgeny Morozov sans plus d'explication. Arrivé sur place, l'explication est venu: il s'agit d'une série d'allocutions nous proposant de défendre l'oubli d'une idée, d'un objet, d'une personne et de disserter sur le sujet.
 
