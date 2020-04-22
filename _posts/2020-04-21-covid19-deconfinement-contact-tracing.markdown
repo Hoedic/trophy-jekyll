@@ -40,7 +40,7 @@ Bref, beaucoup de limitations pour un mécanisme qui peut jouer un rôle central
 
 Comme souvent dans ce genre de situation, on se dit que la technologie numérique peut nous venir en aide. Si un outil numérique pouvait mémoriser pour nous tous nos "contacts" (même ceux que nous ne connaissons pas) et, le cas échéant, signaler à ces personnes qu'elles ont été proches d'une personne malade, ça rendrait soudainement la vie bien plus facile. C'est l'idée derrière les outils numériques de suivi de contact: maximiser le nombre de personnes averties, minimiser le délais entre l'information d'une personne malade et la notification des personnes susceptibles. 
 
-Il existe plusieurs variantes de ces outils, pour être dans le concret, je vais en prendre un en particulier qui est bien documenté: l'application développée par le National Health Service (NHS) au Royaume-Uni et qui reprend la formule de Singapour pour [TraceTogether](https://www.tracetogether.gov.sg/). Le mode de fonctionnement est expliqué ci-dessous (une version plus [longue](https://ncase.me/contact-tracing/) existe aussi).
+Il existe plusieurs variantes de ces outils, pour être dans le concret, je vais en prendre un en particulier qui est bien documenté: l'application développée par le National Health Service (NHS) au Royaume-Uni et qui reprend la formule de Singapour pour [TraceTogether](https://www.tracetogether.gov.sg/). Le mode de fonctionnement est expliqué ci-dessous (une version plus [longue et en français](https://framablog.org/2020/04/12/une-appli-de-tracage-du-covid-9-qui-echappe-a-big-brother/) existe aussi).
 
 
 ![Explication graphique de l'application de contact tracing]({{ root_url }}/images/2020-04-21_contact-tracing.png)
