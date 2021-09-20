@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Quand les villes se mordent la queue"
-date: 2021-01-03 18:44
+date: 2021-09-05 18:44
 description: "L'ère Tremblay ou l'éternel bégaiement municipal"
 comments: true
 categories: ["Politique"]
