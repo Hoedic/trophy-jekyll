@@ -4,7 +4,7 @@ title: "COVID19 - Quelle stratégie pour le Québec"
 date: 2020-03-30 19:43
 description: "Où en est le Québec dans la gestion de la crise COVID-19"
 comments: true
-categories: ["Donnees"]
+categories: ["Données & visualisation"]
 image: "2020-03-30_evolution_log.png" 
 ---
 

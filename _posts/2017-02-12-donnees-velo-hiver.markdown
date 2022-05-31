@@ -4,7 +4,7 @@ title: "Le vélo d'hiver progresse-t-il vraiment?"
 date: 2017-02-12 00:00
 description: "La pratique du vélo d'hiver au milieu de l'échantillonage sélectif, des 'petites' données et de l'interprétation qualitative"
 comments: true
-categories: ["Données"]
+categories: ["Données & visualisation"]
 image: "2017-02-12-photo-velo-graph.jpg" 
 credit: ""
 ---
