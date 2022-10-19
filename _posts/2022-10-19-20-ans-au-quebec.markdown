@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "20 ans au Québec <br/>et quelques réflexions"
+title: "20 ans au Québec et quelques réflexions"
 date: 2022-10-19 00:00
 description: "Être immigrant pour toujours et les identités qui vont avec"
 comments: true
