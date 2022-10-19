@@ -1,0 +1,75 @@
+---
+layout: post
+title: "20 ans au Québec <br/>et quelques réflexions"
+date: 2022-10-16 00:00
+description: "Être immigrant pour toujours et les identités qui vont avec"
+comments: true
+categories: ["Personnel"]
+image: "2022-10-19_horloge.jpg" 
+---
+
+Il y a 20 ans jour pour jour, je foulais le sol de l'aérogare Montréal-Mirabel (désormais détruit), un visa de résident permanent canadien dans mon passeport. Seul, j'arrivais au bureau de l'immigration avec l'idée saugrenue de changer de pays, de changer de vie. Dans mes poches: l'équivalent de 10 000€, économisés dans mes 13 mois de vie professionnelle. Quelques jours plus tard, mes quelques possessions, tenant dans deux grands cartons, allaient me rejoindre. Au moins, j'avais le luxe d'être attendu par celle qui partage ma vie depuis tout ce temps.
+
+Malgré ce luxe, lorsque je repense à ce moi mal-assuré version 2002, ma seule envie serait de le prendre dans mes bras et de l'encourager. Car j'allais tomber de haut, bien des difficultés m'attendaient, et comme dans toute bonne histoire, j'allais faire quelques apprentissages importants.
+
+Avant d'aller plus loin dans mon témoignage et les réflexions qui en découlent, je veux juste reconnaître que ce n'est là qu'un cheminement parmi d'autres; un cheminement qui malgré ses difficultés avait beaucoup pour lui. Je suis Blanc, venant d'un pays reconnu, je n'ai pas un nom susceptible de me stigmatiser outre mesure, je n'ai pas un accent qui fait plisser des yeux mon interlocuteur. Être immigrant dans ces conditions offre dans bien des cas de meilleures conditions d'évolution que d'être né ici, descendant des Premiers peuples, dépossédé de son territoire et de sa culture, ou de certaines communautés stigmatisées. Hormis l'*a priori*, certes irritant, mais tout de même assez bénin, du Maudit Français<sup>mc</sup>, mon lieu de naissance ne suscitait pas de réel enjeu. 
+
+***
+
+Les discussions entourant l'immigration au Québec omettent souvent la posture de ses représentants à l'étranger et ce que ça implique pour les gens qui immigrent. En 2000, lorsque j'ai entamé mon processus d'immigration, la Délégation générale du Québec opérait selon toute vraisemblance sur un script ayant inspiré le film [La grande séduction](https://fr.wikipedia.org/wiki/La_Grande_S%C3%A9duction). Assister aux réunions d'information donnait l'impression de se faire promettre le jardin d'Éden sur Terre (version froide). Une population accueillante, une économie dynamique, un coût de la vie bas; dans la France de la crise perpétuelle et du disque rayé du *c'était mieux avant*, c'était un bol d'air frais. Malgré ma Québécoise de blonde qui soulignait que la lentille était quelque peu déformante, la décision de vivre ensemble au Québec plutôt que dans la grisaille collective de la France (où nous vivions à ce moment) tenait de l'évidence. Je crois savoir que quelques années plus tard, les sessions d'information furent un peu moins prosélytiques, notamment à cause de plaintes sur l'abus de lunettes roses. Toutefois, j'ai du mal à croire qu'avec la pénurie actuelle de main-d'œuvre, aujourd'hui comme hier, le Québec ne se présente pas comme un territoire qui, de manière explicite ou implicite, a *besoin* d'immigrants (qualifiés). 
+
+Et c'est ici le premier point que je veux souligner: la posture du Québec à l'étranger transpire par tous les pores qu'il y a un besoin de main-d'œuvre. En sortant d'une session d'information dithyrambique, le potentiel immigrant que je suis n'a pas l'impression que le Québec lui ferait une fleur en l'acceptant, mais plus que je lui rends service en m'y installant. Évidemment, dans les faits c'est un échange de bons procédés: pour bien des immigrants, le Québec offre sécurité et opportunités tandis que les immigrants contribuent avec leur capacité de travail et leur formation préalable.
+
+***
+
+Retour en octobre 2002. La situation économique n'est plus la même que deux ans auparavant: l'explosion de la bulle technologique a non seulement plombé le domaine d'activité dans lequel je travaillais, mais aussi l'économie dans son ensemble. Au total, ça me prendra 3 ans pour trouver un emploi m'offrant un minimum de sécurité financière, après être notamment passé par une dépression et beaucoup de remises en cause. Je ne veux pas trop tirer de conclusion sur l'expérience migratoire dans un contexte économique qui était clairement difficile. Je ne cherche pas à faire verser des larmes: 3 ans sans emploi, je ne suis pas le premier à vivre cela. Dans un contexte où j'avais quitté un emploi stable et bien rémunéré pour une nouvelle terre promise, certains jours la pilule passait mal. L'absence d'ami ou simplement de famille à qui se confier pesait lourd. 
+
+D'un point de vue plus général, je veux aussi souligner le choc entre le discours de bienvenue et d'ouverture d'un côté, et de l'autre côté le manque d'intérêt des employeurs et surtout le manque de compréhension du contexte d'un nouvel arrivant. Certes, ce n’étaient pas les zélateurs vantant le Québec en France qui officiaient dans les services RH des entreprises. Toutefois pour une nation qui à l'époque recevait 25 000 immigrants économiques par an, avec une pointe à 40 000 (soit presque 1% de sa population active chaque année), la mécompréhension d'ensemble de la population d'accueil m'a toujours paru frappante.
+
+*Attention!* Je ne veux pas donner l'impression de taper sur les Québécois qui seraient de mauvais hôtes, bien au contraire. Je veux pointer à quel point les discussions en matière d'immigration, hier comme aujourd'hui, se limitent à des chiffres: 10 000 de plus? 20 000 de moins? On se croirait un peu aux souks de la médina de Marrakech. Les discussions font une abstraction quasi totale des conséquences de vie pour les immigrants. Des dizaines de milliers de personnes qui laissent tout derrière elles sur une promesse. Cela fait également abstraction de ce que cela veut dire pour le Québec, comme société d'accueil *a priori demandeuse* de cette immigration. Je ne peux pas en vouloir aux Québécois, la majorité n'a pas conscience de ce qui se passe. Se projeter dans les souliers d'une personne qui immigre est très difficile... Je pense que vu de l'extérieur, c'est l'impression que les immigrants arrivent en terre promise (un soulagement, donc) ou, tout au plus, que c'est comme déménager de Québec à Montréal. Moi-même ce n'est qu'*a posteriori* que je me rends compte de ce que j'ai traversé, ce que tout ceci provoquait en moi.
+
+Et c'est pour cela que j'ai envie de prendre dans mes bras le moi de 2002: je ne savais pas et je n'allais pas comprendre pendant longtemps. Malgré tous les efforts de préparation, ça reste un immense pas dans le vide, sans aucune idée de ce que ça veut dire réellement, de ce qu'on va perdre et gagner, de tout ce qu'on tient pour acquis et qui finalement ne l'est pas tant que ça; et que tout cela se passe sans réel *backup plan*.
+
+***
+
+On me demande parfois si je me sens plus Québécois ou Français. Bienvenue dans mon puits sans fond.
+
+Après 20 ans, je peux le dire: il n'y a pas de réponse à cette question et il n'y en aura surement jamais. Je suis Français **et** Québécois. Et aussi Canadien, Montréalais, immigrant, et petit-fils d'immigrants roumains (en France) et bien d'autres choses. Comme le souligne Amin Maalouf dans [Identités meurtrières](https://fr.wikipedia.org/wiki/Les_Identit%C3%A9s_meurtri%C3%A8res), il est bien difficile de se réduire à une unique identité.
+
+Le fait d'avoir immigré crée, à de multiples occasions, une tension intérieure indicible. Avant d'être Québécois ou Français, je pense que je serais toujours avant tout un immigrant; immigrant au sens d'une personne qui a laissé derrière lui la terre qui l'a vu naître, les souvenirs qui s'y rattachent, une large partie de sa famille. J'aurais surement, jusqu'à la fin de mes jours, un rapport particulier au Québec, une terre et un peuple qui m'ont accueilli, mais où je n'ai pas grandi, où de nombreux référents me manquent. Ce n'est pas que je ne connais pas ces référents, c'est juste que je ne les ai pas vécus dans ma chair. 
+
+Même après 20 ans, mes rêves se passent souvent dans un espace qui a tout l'air d'être en France et où se mêlent joyeusement mes amis d'aujourd'hui et mes amis d'enfance. Je ne suis pas nostalgique, j'ai toujours considéré que je n'étais pas particulièrement attaché à la France. Je ne suis pas attaché à la France comme État-nation, construit social de gens anonymes regroupés sous un même drapeau et un même hymne national. Mais sont attachées à moi toutes ces expériences que j'ai vécues à Paris, en Bretagne, dans le Languedoc ou ailleurs.
+
+Ma vie est à l'image de ces rêves: ne me demandez pas de démêler qu'est-ce qui vient d'où. Demandez-moi encore moins de *choisir*. 
+
+On ne peut pas me demander de trancher mon identité selon ce que j'appelle des *cadres identitaires*, définis par les autres. Je suis un, et indivisible, j'ai mon identité unique. Selon les cadres identitaires, j'ai plusieurs identités, inextricables les unes des autres.
+
+Le fait d'être immigrant crée une tension particulière, évidente. Toutefois cette fusion des identités est vraie chez tout le monde. D'abord parce que les cadres d'identité sont eux-mêmes multidimensionnels: être Français d'un quartier cossu de Paris ou d'un territoire agricole de Bretagne n'est pas la même chose -sous la même identité abstraite de Français se recoupent plusieurs réalités qui ont surement autant de similarités que de différences. Ensuite parce que les personnes restant dans le même "espace identitaire" tout au long de leur vie sont de plus en plus rares: les déménagements au sein d'un même pays, les relations amoureuses et amicales, les voyages transformateurs, tous nourrissent des identités multiples, hybridées.
+
+***
+
+Dans son livre [Tresser les herbes sacrées](https://www.leslibraires.ca/livres/tresser-les-herbes-sacrees-robin-wall-kimmerer-9782016283967.html), Robin Wall Kimmerer, une botaniste issue de la nation Potawatomi de la grande famille des Anichinabés, offre une interprétation éclairante d'un des mythes fondateurs autochtones. Selon elle, le mythe de [La Femme tombée du ciel](https://histoire.wiki/femme-tombee-du-ciel/) souligne à quel point les Premiers peuples eux-mêmes se voient comme des immigrants. La Femme tombée du ciel, premier être humain sur l'Île de la Tortue (en fait cocréatrice de l'Île de la Tortue), fut accueillie par ceux qui la précédaient, les animaux, elle était l'immigrante originelle. Elle ne s'est pas approprié la terre sur laquelle elle a atterri, elle y a contribué; elle et ses descendants sont devenus les premiers autochtones, étymologiquement, ceux qui sont issus du lieu.
+
+Cette interprétation m'a profondément interpelé sur la question de l’identité, ce qui nous définit. Les Premiers peuples, les Québécois (au sens de descendants des Occidentaux, les colonisateurs), les immigrants -dont certains, comme moi, sont aussi descendants de colonisateurs.
+
+Je suis encore loin d'avoir fini de cheminer dans ma réflexion sur tous ces sujets. Après 20 ans au Québec je commence à peine à percevoir ce que j'ai vécu et ce que cela veut dire sur qui je suis. J'en arrive toutefois à la conclusion, partielle, qu'il est difficile de parler d'une identité unique (au sens des cadres identitaires).
+
+*Attention!* Encore une fois. Je vais clarifier: ceci ne veut pas dire que ces cadres identitaires, que l'on pourrait aussi nommer culture, ne sont pas nécessaires. Ils sont nécessaires pour définir une base commune, un sentiment d'appartenance et de réciprocité au sein d'un peuple. J'essaie d'ajouter, j'espère pas trop maladroitement, que chacun doit travailler à ce que ces cadres ne soient pas exclusifs ou excluants. 
+
+***
+
+Au cours des années et des décennies à venir, nous ne manquerons pas d'événements provoquant des lignes de faille au sein de l'Humanité et des peuples. Parmi ces événements, les [migrations massives](https://www.theguardian.com/news/2022/aug/18/century-climate-crisis-migration-why-we-need-plan-great-upheaval) provoquées par les changements climatiques et rendant d'immenses territoires invivables. Que ce soit au Québec ou en France, nous avons une immense responsabilité collective vis-à-vis des victimes des changements climatiques: la majorité des gaz à effet  actuellement dans l'atmosphère sont le fait des pays industrialisés. Ça ne veut pas dire qu'il faut, individuellement, se flageller à l’ortie fraichement coupée pour expier nos voyages en avion, mais décider comment nous devons agir dans une logique de justice climatique. Les enjeux migratoires ne font que commencer, voulons-nous en faire une ligne de faille encore plus clivante?
+
+Alors, pourquoi partager mon expérience personnelle dans ce contexte? D'abord parce que j'aime bien les dates symboliques, les moments qui me parlent; et passer le cap des 20 ans au Québec entre clairement dans cette catégorie. Bien que pour mes 10 ans, j'étais déjà bien en selle comme néo-québécois, je n'avais pas le recul pour méditer sur mon expérience.
+
+Ensuite j’essaie, à ma mesure, d'amener une perspective personnelle sur cette question souvent vécue de loin qu'est l'immigration, une question généralement perçue sous l’angle de l’altérité, mais peu sous l’angle des bouleversements personnels qui viennent avec, même quand c’est voulu. Je ne sais pas si l'immigration est la solution à la pénurie de main-d'œuvre. Je ne sais pas s'il existe une chose comme une capacité d'absorption de l'immigration au sein d'une population. Évidemment, je sais encore moins quel serait le bon nombre d'immigrants à accueillir. Ce que je sais toutefois, c'est qu'accepter et même demander de l'immigration est une responsabilité, une responsabilité relativement peu discutée. À cela s'ajoute la responsabilité climatique, également peu discutée jusqu'à présent.
+
+Comme immigrant, je vis aussi dans ma chair cette tension des identités qui, là aussi, est souvent discutée de manière abstraite et intellectualisée (on adhère ou pas à certaines valeurs) alors que c'est quelque chose de beaucoup plus profond et affectif. L'idée n'est pas de sombrer dans un relativisme total, mais de reconnaître la réalité humaine sous-jacente au déracinement et à la découverte d'un nouveau territoire comme lieu de vie.
+
+Enfin, à l'image du mythe de la femme tombée du ciel, c'est reconnaître pour moi, pour mes prochaines années, que devenir partie du territoire où je vis est un effort constant. Un effort de contribution, de découverte, de curiosité et réciprocité. Je ne pense pas avoir été mauvais élève à ce titre, j'aurais aussi pu en faire plus.
+
+Merci à tous ceux qui ont croisé ma route et m'ont aidé ou soutenu d'une quelconque façon, ne serait-ce que d'un sourire. J'espère être encore *là* pour faire mon bilan de 40 ans! 
+
+
+
+
