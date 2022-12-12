@@ -69,7 +69,3 @@ Comme immigrant, je vis aussi dans ma chair cette tension des identités qui, l�
 Enfin, à l'image du mythe de la femme tombée du ciel, c'est reconnaître pour moi, pour mes prochaines années, que devenir partie du territoire où je vis est un effort constant. Un effort de contribution, de découverte, de curiosité et réciprocité. Je ne pense pas avoir été mauvais élève à ce titre, j'aurais aussi pu en faire plus.
 
 Merci à tous ceux qui ont croisé ma route et m'ont aidé ou soutenu d'une quelconque façon, ne serait-ce que d'un sourire. J'espère être encore *là* pour faire mon bilan de 40 ans! 
-
-
-
-
