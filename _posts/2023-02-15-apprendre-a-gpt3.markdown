@@ -148,7 +148,7 @@ Pour la phase de préparation, on découpe le Code de sécurité routière par a
 
 Ensuite, quand on reçoit une question, on envoie également la question à l'API Embedding, qui nous renvoie un joli vecteur. Ensuite, on fait un produit vectoriel entre le vecteur question et tous les vecteurs articles et on classe le tout par proximité. Histoire d'être digeste, je sélectionne les articles les plus proches de sorte que la longueur des articles fournis en contexte ne dépasse pas 500 tokens. Et enfin on peut envoyer la question avec le contexte:
 
-![Schéma de la phase d'exécution de l'embedding]({{ root_url }}/images/2023-02-18_schema_embedding_bis.png) 
+![Schéma de la phase préparatoire de l'embedding]({{ root_url }}/images/2023-02-18_schema_embedding_1.png)
 <div class="photoattrib">Schéma de la phase d'exécution de l'embedding</div>
 
 Bien franchement, je n'y croyais pas trop trop en me lançant dedans, mais la capacité de l'API Embedding à faire des rapprochements se traduit clairement par les bons chiffres de cette méthode comparativement aux autres. Possiblement qu'un texte de loi, facile à segmenter en article, est un cas d'utilisation particulièrement adapté, mais c'est tout de même significatif.
