@@ -10,9 +10,9 @@ image: "2023-02-18_finetune_create.png"
 
 Vivons-nous un moment iPhone ou Netscape avec ChatGPT? En 1994 ou 2006, ces deux technologies ne représentaient pas un bon technique extraordinaire, toutefois elles ouvraient un nouveau monde à notre imaginaire collectif et à notre quotidien. Il y a beaucoup à dire sur le potentiel, les limites et les dérives potentielles de ChatGPT et ses dérivés, toutefois dans ce billet je partage comment j'ai exploré de manière concrète le fonctionnement et la capacité d'apprentissage de cette technologie.
 
-Comme je le dis souvent, il n'est pas nécessaire d'être mécano pour comprendre l'impact des voitures sur nos villes et nos vies. Toutefois, au moment où une technologie est encore naissante, comprendre et suivre la progression du fonctionnement et des capacités peut s'avérer nécessaire pour comprendre ses conséquences potentielles. La voiture avait un impact différent dans sa forme archaïque: un véhicule peu fiable, relativement lent et à l'autonomie limitée, il en est tout autrement aujourd'hui (je vous fais grâce de mes diatribes sur la nécessité d'infrastructures autour).
+Comme je le dis souvent, il n'est pas nécessaire d'être mécano pour comprendre l'impact des voitures sur nos villes et nos vies. Toutefois, au moment où une technologie est encore naissante, comprendre et suivre la progression du fonctionnement et des capacités peut s'avérer nécessaire pour évaluer ses conséquences potentielles. La voiture avait un impact différent dans sa forme archaïque: un véhicule peu fiable, relativement lent et à l'autonomie limitée, il en est tout autrement aujourd'hui (je vous fais grâce de mes diatribes sur la nécessité d'infrastructures autour).
 
-Par ailleurs, la déferlante ChatGPT, m'a questionné sur deux points en particulier que je voulais creuser:
+Par ailleurs, la déferlante ChatGPT m'a questionné sur deux points en particulier que je voulais creuser:
 
 - Quel pouvait être l'usage de cette technologie sur un de mes projets en cours?
 - Comment une technologie comme GPT est déjà utilisée par entreprises en "intelligence artificielle"? 
