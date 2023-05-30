@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "GPT & Co: ça change rien (2/2)"
-date: 2023-04-26 00:00
+date: 2023-05-30 00:00
 description: "Partie 2: GPT face aux théories critiques de la technologie"
 comments: true
 categories: ["Donnees"]
