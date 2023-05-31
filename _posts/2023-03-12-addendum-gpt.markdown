@@ -4,7 +4,7 @@ title: "GPT et la sécurité routière, addendum"
 date: 2023-03-11 00:00
 description: "les chatbots rêvent-ils (encore) de vélos électriques et de réglementation?"
 comments: true
-categories: ["Donnees"]
+categories: ["Donnees", "Innovation & technologie"]
 image: "2023-03-12_pyramides.jpg" 
 ---
 

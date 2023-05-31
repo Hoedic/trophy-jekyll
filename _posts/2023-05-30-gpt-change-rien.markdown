@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "GPT & Co: ça change rien (2/2)"
+title: "GPT & Co: ça ne change rien (2/2)"
 date: 2023-05-30 00:00
 description: "Partie 2: GPT face aux théories critiques de la technologie"
 comments: true
-categories: ["Donnees"]
+categories: ["Politique", "Innovation & technologie"]
 image: "2023-05-29_arbre2.jpg" 
 ---
 
@@ -22,7 +22,7 @@ Dans un [livre](https://www.leslibraires.ca/livres/notre-monde-a-besoin-de-la-wa
 
 > <span style="font-size: 1.1em;display: block;text-align: right;font-family: &quot;Space Mono&quot;,monospace;"><em>« La science et l’efficacité occidentale ont apporté une contribution majeure à des besoins mineurs. »</em> </span>
 
-Cela met parfaitement la table pour la réflexion sur les modèles comme GPT: répond-on à des besoins majeurs ou mineurs? Et j'ajouterai: pour quels risques?
+Cela met parfaitement la table pour la réflexion sur les modèles de langage comme GPT, les fameux LLM: répond-on à des besoins majeurs ou mineurs? Et j'ajouterai: pour quels risques?
 
 Dire que nous faisons face à de multiples crises est rendu une lapalissade . Certaines perdurent depuis des siècles, comme les inégalités sociales, d'autres ont émergées dans les deux ou trois dernières décennies: crise climatique, extinction massive du vivant, crise de confiance dans les institutions, vieillissement dans les pays ayant passé leur transition démographique au milieu de XXe siècle, etc.
 

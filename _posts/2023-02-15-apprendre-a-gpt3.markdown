@@ -4,7 +4,7 @@ title: "Peut-on apprendre la sécurité routière à GPT-3?"
 date: 2023-02-19 00:00
 description: "Ou, les chatbots rêvent-ils de vélos électriques et de réglementation?"
 comments: true
-categories: ["Donnees"]
+categories: ["Donnees", "Innovation & technologie"]
 image: "2023-02-18_finetune_create.png" 
 ---
 

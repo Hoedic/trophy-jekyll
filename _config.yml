@@ -16,7 +16,7 @@ default_img: background_principal.png
 # Profile settings
 name: Stéphane Guidoin
 profile_img: profil.jpg
-profile: "Stéphane Guidoin est un amateur de chocolat qui s'essaie à l'occasion à une analyse du monde à travers la lentille des données et plus généralement s'intéresse à un concept étrange et abscons nommé Ville intelligente, le tout matiné d'une bonne dose de doute."
+profile: "Stéphane Guidoin est un amateur de chocolat, d'aïkido, de voile et de jardinage et dont le cerveau turbine constamment sur l'impact des technologies, les crises longues et ce qui fait que la vie mérite d'être vécue."
 social:
   github: https://github.com/hoedic
   twitter: http://twitter.com/hoedic

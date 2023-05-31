@@ -4,7 +4,7 @@ title: "GPT & Co: Ça change tout, et ça change rien (1/2)"
 date: 2023-04-26 00:00
 description: "Partie 1: GPT au regard des théories de l'innovation"
 comments: true
-categories: ["Donnees"]
+categories: ["Politique", "Innovation & technologie"]
 image: "2023-04-23_monooeil.jpg" 
 ---
 

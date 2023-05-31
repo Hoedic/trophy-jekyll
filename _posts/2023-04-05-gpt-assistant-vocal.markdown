@@ -4,7 +4,7 @@ title: "Expérimentations GPTiennes: assistant vocal"
 date: 2023-04-05 00:00
 description: "GPT peut-il s'intégrer avec des outils comme Gmail? Et pourquoi le faire?"
 comments: true
-categories: ["Donnees"]
+categories: ["Donnees", "Innovation & technologie"]
 image: "2023-04-05_ciel.jpg" 
 ---
 

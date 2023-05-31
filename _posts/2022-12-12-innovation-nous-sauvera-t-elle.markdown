@@ -4,7 +4,7 @@ title: "L'innovation va-t-elle nous sauver?"
 date: 2022-12-12 00:00
 description: "Ou une certaine typologie de l'innovation"
 comments: true
-categories: ["Politique"]
+categories: ["Politique", "Innovation & technologie"]
 image: "2022-12-12_herbe_macro.jpg" 
 ---
 
