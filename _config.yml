@@ -8,7 +8,7 @@ google_analytics:
 # SEO settings
 title: Dataholic 
 description: Données, visualisations, technologies, lectures, politique
-url: "http://dataholic.ca"
+url: "https://dataholic.ca"
 #url: "http://localhost:4000"
 twitter_username: hoedic
 default_img: background_principal.png
@@ -19,7 +19,6 @@ profile_img: profil.jpg
 profile: "Stéphane Guidoin est un amateur de chocolat, d'aïkido, de voile et de jardinage et dont le cerveau turbine constamment sur l'impact des technologies, les crises longues et ce qui fait que la vie mérite d'être vécue."
 social:
   github: https://github.com/hoedic
-  twitter: http://twitter.com/hoedic
   linkedin: https://www.linkedin.com/in/stephaneguidoin
 
 # Build settings
