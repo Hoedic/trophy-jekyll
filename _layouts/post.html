@@ -39,12 +39,12 @@ layout: default
         <p>{{ site.profile }}</p>
         {% if site.email or site.social %}
           <ul class="profile__social">
-            <li><a class="fa fa-lg fa-rss }}" href="{{ site.baseurl }}/feed.xml" target="_blank"></a></li>
+            <li><a class="fa fa-lg fa-rss }}" href="{{ site.baseurl }}/feed.xml" target="_blank" aria-label="Lien vers feed RSS"></a></li>
             {% if site.email %}
-              <li><a class="fa fa-lg fa-envelope-o" href="mailto:{{ site.email }}"></a></li>
+              <li><a class="fa fa-lg fa-envelope-o" href="mailto:{{ site.email }}" aria-label="Lien vers envoi de courriel"></a></li>
             {% endif %}
             {% for social in site.social %}
-              <li><a class="fa fa-lg fa-{{ social[0] }}" href="{{ social[1] }}" target="_blank"></a></li>
+              <li><a class="fa fa-lg fa-{{ social[0] }}" href="{{ social[1] }}" target="_blank" aria-label="Lien vers profil externe"></a></li>
             {% endfor %}
           </ul>
         {% endif %}
