@@ -34,22 +34,6 @@
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="canonical" href="{{ page.url | replace: 'index.html', '' | prepend: site.baseurl | prepend: site.url }}">
 
-  <!-- Piwik -->
-  <script type="text/javascript">
-    var _paq = _paq || [];
-    // tracker methods like "setCustomDimension" should be called before "trackPageView"
-    _paq.push(['trackPageView']);
-    _paq.push(['enableLinkTracking']);
-    (function() {
-      var u="http://mon-ile.net/piwik/";
-      _paq.push(['setTrackerUrl', u+'piwik.php']);
-      _paq.push(['setSiteId', '1']);
-      var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-      g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
-    })();
-  </script>
-  <!-- End Piwik Code -->
-
   {% if site.google_analytics %}
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
