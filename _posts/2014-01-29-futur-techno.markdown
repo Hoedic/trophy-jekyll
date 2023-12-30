@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "Notre futur technologique - Introduction"
-date: 2014-01-29 21:40
+categories:
+- Innovation & technologie
 comments: true
-categories: ["Innovation & technologie"] 
-image: "2014-01-29-flat-earth.jpg"
+date: 2014-01-29 21:40
+image: 2014-01-29-flat-earth.webp
+layout: post
+title: Notre futur technologique - Introduction
 ---
 
 Cet article est le premier d'une série en 6 parties

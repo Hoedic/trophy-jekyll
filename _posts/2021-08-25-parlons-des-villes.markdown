@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "Quand les villes se mordent la queue"
-date: 2021-09-05 18:44
-description: "L'ère Tremblay ou l'éternel bégaiement municipal"
+categories:
+- Politique
 comments: true
-categories: ["Politique"]
-image: "2021-09-05-eclipse-municipale.jpg" 
+date: 2021-09-05 18:44
+description: L'ère Tremblay ou l'éternel bégaiement municipal
+image: 2021-09-05-eclipse-municipale.webp
+layout: post
+title: Quand les villes se mordent la queue
 ---
 
 La période pré-électorale est l'occasion de la publication de livres sur la politique municipale. Il y a bien entendu eu le livre de Denis Coderre, [Retrouver Montréal](https://www.renaud-bray.com/Livres_Produit.aspx?id=3357007). La sortie de [L'Expérience Tremblay](https://www.renaud-bray.com/Livres_Produit.aspx?id=3380645) qui relate la vie de Gérald Tremblay, en tant que maire de Montréal mais aussi dans ses rôles précédents, notamment de ministre et d'administrateur, ajoute à la réflexion. L'objet du livre a fait l'objet de railleries et de boutades diverses. Parti dans la disgrâce, la nécessité pour Gérald Tremblay de rester dans l'ombre semblait évidente pour la coterie municipale et médiatique. Même si le livre n'est pas écrit par Tremblay lui-même mais par Claude Laferrière, il est évident que l'ex-édile montréalais a donné son aval. 
@@ -56,4 +57,3 @@ Ce contexte général a contribué à ma décision de quitter le monde municipal
 
 > « Sous d'autres vocables, mais toujours dominée par le *statu quo* constitutionnel, le même culte des délais et du chaos stratégique, orchestré par les paliers supérieurs de gouvernement, *L'Expérience Tremblay* se continue... »
 > <div class="attrib">Claude Laferrière, L'expérience Tremblay, 2021.</div>
-

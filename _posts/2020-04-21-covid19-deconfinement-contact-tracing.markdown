@@ -1,11 +1,13 @@
 ---
-layout: post
-title: "COVID19 - Comment le déconfinement et le 'contact tracing' pourraient se faire"
-date: 2020-04-21 18:44
-description: "Le suivi de contact est un outil à notre dispositions pour 'déconfiner'. Comment évaluer s'il est utile?"
+categories:
+- Politique
 comments: true
-categories: ["Politique"]
-image: "2020-04-trace-together.jpg" 
+date: 2020-04-21 18:44
+description: Le suivi de contact est un outil à notre dispositions pour 'déconfiner'.
+  Comment évaluer s'il est utile?
+image: 2020-04-trace-together.webp
+layout: post
+title: COVID19 - Comment le déconfinement et le 'contact tracing' pourraient se faire
 ---
 
 Alors que le gros de la première vague de l'épidémie semble être derrière nous, tout le monde veut savoir **quand** aura lieu le déconfinement. Toutefois, la principale question devrait surtout être **comment**.
@@ -43,7 +45,7 @@ Comme souvent dans ce genre de situation, on se dit que la technologie numériqu
 Il existe plusieurs variantes de ces outils, pour être dans le concret, je vais en prendre un en particulier qui est bien documenté: l'application développée par le National Health Service (NHS) au Royaume-Uni et qui reprend la formule de Singapour pour [TraceTogether](https://www.tracetogether.gov.sg/). Le mode de fonctionnement est expliqué ci-dessous (une version plus [longue et en français](https://framablog.org/2020/04/12/une-appli-de-tracage-du-covid-9-qui-echappe-a-big-brother/) existe aussi).
 
 
-![Explication graphique de l'application de contact tracing]({{ root_url }}/images/2020-04-21_contact-tracing.png)
+![Explication graphique de l'application de contact tracing]({{ root_url }}/images/2020-04-21_contact-tracing.webp)
 <div class="photoattrib">Explication sommaire du fonctionnement du protocole DP3T par <a href="https://ncase.me/contact-tracing/">Nicky Case</a></div>
 
 D'un point de vue vie privée, les avantages de cette solutions sont nombreux, notamment en évitant de collecter des informations personnelles et des traces de déplacement (pas d'utilisation du GPS). Comme les identifiants diffusés changent, il faudrait vraiment mettre en place un stratagème complexe pour être en mesure de remonter des contacts entre différentes personnes. Enfin, l'application conserve le statut médical secret: une personne notifiée n'a pas connaissance de la personne dont la présence a déclenché l'alerte. En bout de ligne, ça limite grandement les risques de dérive dans l'utilisation des données. D'autres variantes existent, certaines ajoutent les données GPS, mais ça change assez peu le propos de ce qui suit.
@@ -125,4 +127,3 @@ Ces réflexions doivent se faire maintenant et avec une certaine transparence. L
 Enfin, et c'est un peu le fond de ce billet: reconnaitre ce qu'on ne sait pas. Bien franchement, je serais bien mal pris de devoir décider si on met en oeuvre une telle approche. Au-delà des enjeux de surveillance, la situation est terriblement complexe et les conséquences énormes. Comme beaucoup de décisions de politiques publiques, malgré les meilleures données disponibles, les meilleures évaluations et modélisations, il n'y a qu'en rétrospective qu'il sera possible de juger des décisions. Toutefois, en partageant les réflexions et les enjeux, il est possible décider au mieux de nos connaissance. Cette transparence permet aussi de mobiliser les infrastructures sociales pouvant supporter, par exemple, la décision d'aller de l'avant avec une solution de suivi. Quand on voit le faible taux d'adoption à Singapour, on peut légitimement se demander si les citoyens ont réellement confiance dans leur gouvernement ou si le gouvernement a mis tous les efforts possibles sur le déploiement. Considérant que l'application est d'utilisation volontaire, c'est notamment par le relais d'acteurs de terrain que l'adoption se ferait et donc son succès. 
 
 Ça ne changera pas le monde, pas directement. Mais si de telles décisions se prennent, ce sera des précédents importants, des signaux importants pour les décisions similaires à venir. Ce sera une bifurcation.
-

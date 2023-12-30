@@ -1,10 +1,12 @@
 ---
-layout: post
-title: "Notre futur technologique - Des sirènes et des plateformes"
-date: 2014-02-16 21:44
+categories:
+- Innovation & technologie
+- Lecture
 comments: true
-categories: ["Innovation & technologie", "Lecture"] 
-image: "2014-02-16-iron-worms.jpg"
+date: 2014-02-16 21:44
+image: 2014-02-16-iron-worms.webp
+layout: post
+title: Notre futur technologique - Des sirènes et des plateformes
 ---
 
 Cet article est le cinquième d'une série en 6 parties

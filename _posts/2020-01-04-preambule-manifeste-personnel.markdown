@@ -1,11 +1,13 @@
 ---
-layout: post
-title: "Préambule à une sorte de manifeste personnel"
-date: 2020-01-04 14:48
-description: "Mes apprentissages durant les derniers mois et comment cela oriente ma réflexion pour l'avenir'"
+categories:
+- Politique
 comments: true
-categories: ["Politique"]
-image: "2020-01-07_Neige_et_baies.jpg" 
+date: 2020-01-04 14:48
+description: Mes apprentissages durant les derniers mois et comment cela oriente ma
+  réflexion pour l'avenir'
+image: 2020-01-07_Neige_et_baies.webp
+layout: post
+title: Préambule à une sorte de manifeste personnel
 ---
 
 L'année qui vient de s'écouler fut pour moi riche d'apprentissages et, grâce à mon entourage personnel et professionnel, je pense m'être développé sur des chemins que je n'imaginais pas il y a peu. Ces progrès m'ont également permis de mieux percevoir certaines de mes lacunes et notamment mon manque de constance dans mes aspirations. Après plusieurs mois à y penser de manière dilettante, j'ai fini par en conclure qu'il me fallait investir du temps pour clarifier ce sur quoi je veux concentrer mes énergies.

@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "Vers la fin des hackathons!?"
-date: 2013-06-27 11:28
+categories:
+- Innovation & technologie
 comments: true
-categories: ["Innovation & technologie"] 
-image: 2013-06-27_hacktaville.jpg
+date: 2013-06-27 11:28
+image: 2013-06-27_hacktaville.webp
+layout: post
+title: Vers la fin des hackathons!?
 ---
 
 Fatigue, essouflement, fin? Je suis le premier à m'interroger sur l'avenir des hackathons. Mais attention aussi à une représentation intellectuelle trop monolithique de ce qu'est un hackathon. C'est ce que semble faire un article publié récemment, [Vers la fin des hackathons?](http://pro.01net.com/editorial/597895/vers-la-fin-des-hackathons/): une vision assez utilitariste et centrée sur l'innovation ouverte et le développement économique.

@@ -1,18 +1,19 @@
 ---
-layout: post
-title: "Trump a autant gagné que Clinton a perdu"
-date: 2016-11-10 21:36
+categories:
+- Données & visualisation
+- Politique
 comments: true
-categories: ["Données & visualisation", "Politique"]
-image: "2016-11-10_election-2016_bg.png" 
+date: 2016-11-10 21:36
+image: 2016-11-10_election-2016_bg.webp
+layout: post
+title: Trump a autant gagné que Clinton a perdu
 ---
-
 
 Suite aux résultats des élections américaines, beaucoup de commentateurs de salon et de presse soulignent que ce n'est pas Trump qui a gagné l'élection, c'est Clinton qui l'a perdu. Et c'est vrai que dans un contexte où l'un comme l'autre ont perdu des voix comparativement aux scores de leurs prédécesseurs de 2012, il semble logique de juger coupable du résultat celui qui en perdu tellement qu'il arrive second. Sauf que dans un modèle de suffrage universel indirect, la réalité est souvent plus complexe qu'elle en a l'air. D'ailleurs, en se contentant de chiffres bruts, Hillary Clinton serait présidente à l'heure qu'il est.
 
 Après un différend avec une personne, je me suis demandé comment faire ressortir les éléments centraux de cette élection sans en appeler à 50 graphiques différents comme certains médias ont [essayé](http://www.theglobeandmail.com/news/world/us-election/2012-vs-2016-explore-the-voter-groups-that-turned-out-big-in-the-us-presidential-election/article32789816/) de faire... avec un succès relatif. N'ayant pas beaucoup de temps à y consacrer, j'en arrive un graphique fort peu orthodoxe que voici.
 
-![Colère]({{ root_url }}/images/2016-11-10_election-2016.png)
+![Colère]({{ root_url }}/images/2016-11-10_election-2016.webp)
 <div class="photoattrib">Analyse des résultats de l'élection américaine 2016</div>
 
 Grosso modo, le graphique montre l'évolution du nombre de vote entre 2012 et 2016 en fonction du pourcentage de vote, par état. En rouge les Républicains, en bleu les Démocrates (donc chaque état apparait 2 fois...) Ce que ça montre: effectivement Hillary Clinton a perdu des votes par rapport à Obama dans beaucoup d'état. Mais l'important, ce sont les points de grosse taille: les trois plus gros étaient des châteaux forts votant généralement démocrates (Wisconsin, Pennsylvanie et Michigan) depuis au moins Bill Clinton, qui sont passés aux mains de Trump. Les trois moyens avaient voté pour Obama et sont allés à Trump, sans être des châteaux forts (Floride, Indiana et Ohio). Dans un contexte où il a perdu des voix au total, Trump a gagné un nombre de voix significatif dans ces cinq de ces six états clés, ce qui lui a permis souvent d'obtenir les dits états par une fine marge. Certes, Clinton a également perdu des voix dans ces états, mais on ne peut pas dire que c'est juste le fait que des électeurs démocrates ne se sont pas levés: dans plusieurs de ces états, Clinton l'aurait emporté si Trump n'avait fait que maintenir le résultat de Romney.

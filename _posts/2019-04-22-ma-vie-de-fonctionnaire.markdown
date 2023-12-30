@@ -1,13 +1,14 @@
 ---
-layout: post
-title: "Ma vie de fonctionnaire"
-date: 2019-04-22 11:37
-description: "Où l'auteur partage son expérience en tant que fonctionnaire et essaie en souligne le caractère positif"
+categories:
+- Politique
 comments: true
-categories: ["Politique"]
-image: "2019-04-22-tunnel-detroit.jpg" 
+date: 2019-04-22 11:37
+description: Où l'auteur partage son expérience en tant que fonctionnaire et essaie
+  en souligne le caractère positif
+image: 2019-04-22-tunnel-detroit.webp
+layout: post
+title: Ma vie de fonctionnaire
 ---
-
 
 Lorsque je lis certains medias ou que j'écoute certaines personnes, j'ai l'impression que mon travail, fonctionnaire, et pour être précis gestionnaire fonctionnaire, est la pire engeance sur terre, un ramassis de ce qui se ferait de pire comme parasite de la société: grassement payé à ne rien faire outre prendre des mauvaises décisions pour nuire. J'exagère à peine certains commentaires entendus. 
 

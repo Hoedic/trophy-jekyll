@@ -1,11 +1,13 @@
 ---
-layout: post
-title: "« We're doomed! » Et que faire avec"
-date: 2021-09-19 07:00
-description: "Maintenir le rechauffement climatique sous 1.5°C est impossible. Faut vivre avec."
+categories:
+- Politique
 comments: true
-categories: ["Politique"]
-image: "2021-09-19-brouillard-devant.jpg" 
+date: 2021-09-19 07:00
+description: Maintenir le rechauffement climatique sous 1.5°C est impossible. Faut
+  vivre avec.
+image: 2021-09-19-brouillard-devant.webp
+layout: post
+title: « We're doomed! » Et que faire avec
 ---
 
 Je ne sais pas vous, mais personnellement je pense que nous sommes foutus.
@@ -14,7 +16,7 @@ Attendez, je vais préciser un peu ma pensée: je pense qu'il est désormais imp
 
 Sauf que voilà: la durée de vie du CO2 dans l'atmosphère est de 100 ans, l'inertie est énorme. Donc, mettons qu'on atteigne bientôt le pic de production de GES, on en a encore pour plusieurs années avant de revenir à un niveau acceptable, c'est-à-dire arrêter de faire augmenter la concentration de CO2 dans l'air. Pour vous en convaincre, je vous propose un exercice assez simple: Nous sommes actuellement à une production avoisinant les 30Gt eq.CO2/an. Mettons, pour l'hypothèse, que le niveau acceptable pour arrêter de faire augmenter la concentration atmosphérique, correspondant donc à la capacité d'absorption de la planète est de 15Gt eq.CO2/an<sup>**</sup>. En gros ça veut dire que tant que la courbe ci-dessous est au-dessus de 15, on continue à faire augmenter la température... 
 
-![Évolutions possible de la production de GES]({{ root_url }}/images/2021-09-19-graph-GES.png)
+![Évolutions possible de la production de GES]({{ root_url }}/images/2021-09-19-graph-GES.webp)
 <div class="photoattrib">Scénarios d'évolution des GES anthropiques</div>
 
 Grosso modo, le sommet de la courbe de production annuelle (qu'on simplifie en courbe normale) corresponds à la zone d'augmentation la plus abrupte de la courbe *cumulative*, son intégrale , qui correspond à une courbe logistique. Preuve que les maths, même de base, ça sert. 

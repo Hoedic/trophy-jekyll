@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "Bifurquer, bis repetita"
-date: 2021-01-03 18:44
-description: "Bernard Stiegler et son leg: comprendre et agir sur les crises de l'anthropocène"
+categories:
+- Politique
 comments: true
-categories: ["Politique"]
-image: "2021-01-06_bifurcation-bis.jpg" 
+date: 2021-01-03 18:44
+description: 'Bernard Stiegler et son leg: comprendre et agir sur les crises de l''anthropocène'
+image: 2021-01-06_bifurcation-bis.webp
+layout: post
+title: Bifurquer, bis repetita
 ---
 
 De manière quasi-synchrone à la publication de mon [billet](/2020/04/08/covid19-avenir/) d'avril dernier présentant la logique de bifurcation inspirée des principes de thermodynamique, feu Bernard Stiegler et un collectif d'auteurs publiaient [Bifurquer, il n'y a pas d'alternative](http://www.editionslesliensquiliberent.fr/livre-Bifurquer-9791020908568-1-1-0-1.html), une réflexion majeure sur la nécessité de ... bifurquer! En lisant finalement cet ouvrage, je découvre avec joie une similarité dans les réflexions, évidemment significativement plus abouties!
@@ -83,4 +84,3 @@ Quoiqu'il en soit, il est bien triste que Stiegler ait mis [fin à ses jours](ht
 
 > « L’humanité gémit, à demi écrasée sous le poids des progrès qu’elle a faits. Elle ne sait pas assez que son avenir dépend d’elle. À elle de voir si elle veut continuer à vivre. »
 > <div class="attrib">Henri Bergson, Les deux sources de la morale et de la religion, 1932.</div>
-

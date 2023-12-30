@@ -1,18 +1,20 @@
 ---
-layout: post
-title: "Elon Musk, son Cybertruck et la nécessité de nouveaux modèles"
-date: 2019-12-07 21:25
-description: "Des modèles de réussite toxiques nous envoient dans le mur... ou pas loin"
+categories:
+- Politique
 comments: true
-categories: ["Politique"]
-image: "2019-12-07-tesla-cybertruck-event.jpg" 
-credit: "Source: Tesla"
+credit: 'Source: Tesla'
+date: 2019-12-07 21:25
+description: Des modèles de réussite toxiques nous envoient dans le mur... ou pas
+  loin
+image: 2019-12-07-tesla-cybertruck-event.webp
+layout: post
+title: Elon Musk, son Cybertruck et la nécessité de nouveaux modèles
 ---
 
 Les héros sont partout. Nos héros modernes sont Steve Jobs, Bill Gates, Elon Musk, Mark Zuckerberg, etc. Comme tout héros, ils servent de modèle. Au-delà de la couverture médiatique dont ils bénéficient, on nous invite partout à suivre leur exemple. Un cas récent est celui du partage, sur Facebook et ailleurs, d'une incantation à "être" Elon Musk: _Be like Elon_.
 
 
-![Be like Elon!]({{ root_url }}/images/2019-12-07_This-is-Elon.jpg)
+![Be like Elon!]({{ root_url }}/images/2019-12-07_This-is-Elon.webp)
 
 
 J'ai vaguement commenté une de ces publications en spécifiant qu'il ne serait pas souhaitable que tout le monde soit comme Elon sans nécessairement élaborer ma pensée. L'annonce du Cybertruck me donne toutefois l'occasion d'aller un peu plus loin dans ma remarque. Non, il n'est pas question du flop du lancement. Ou plutôt: au lieu d'expliquer pourquoi la vitre _blindée_ s'est fissurée, pourquoi ne pas expliquer pourquoi le véhicule _est_ blindé. Vivons-nous dans un environnement tellement dangereux que le fait d'avoir un véhicule blindé devient une nécessité pour une partie de la population? L'atmosphère cyberpunk du lancement donnait à croire qu'on vivait désormais dans une dangereuse dystopie, avec le sentiment de danger omni-présent qui va avec.

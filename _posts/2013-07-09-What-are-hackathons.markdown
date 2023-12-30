@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "12 reasons why (civic) hackathons are not stupid"
-date: 2013-07-14 22:01
+categories:
+- Innovation & technologie
 comments: true
-categories: ["Innovation & technologie"] 
-image: "2013-07-14-hackathon.jpg"
+date: 2013-07-14 22:01
+image: 2013-07-14-hackathon.webp
+layout: post
+title: 12 reasons why (civic) hackathons are not stupid
 ---
 
 The discussion "are (civic) hackathons/app contest useful/stupid?" [is](http://www.theatlanticcities.com/technology/2013/07/are-hackathons-stupid/6111/) [back](http://schrier.wordpress.com/)! Since they are gaining more visibility, we find more and more people to criticize these activities... by only looking at one facet. Since I frequently organize and participate to hackathons and sometimes asked to provide some input about hackathon organization, here is my contribution to this discussion (a second post will come about app contest)

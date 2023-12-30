@@ -1,11 +1,13 @@
 ---
-layout: post
-title: "GPT et la sécurité routière, addendum"
-date: 2023-03-11 00:00
-description: "les chatbots rêvent-ils (encore) de vélos électriques et de réglementation?"
+categories:
+- Donnees
+- Innovation & technologie
 comments: true
-categories: ["Donnees", "Innovation & technologie"]
-image: "2023-03-12_pyramides.jpg" 
+date: 2023-03-11 00:00
+description: les chatbots rêvent-ils (encore) de vélos électriques et de réglementation?
+image: 2023-03-12_pyramides.webp
+layout: post
+title: GPT et la sécurité routière, addendum
 ---
 
 Le présent article est un ajout au [précédent](/2023/02/19/apprendre-a-gpt3/) billet où j'expliquais mes tentatives de rendre GPT-3 capable de répondre à des questions spécifiques sur le Code de sécurité routière du Québec. Je terminais l'article en mentionnant qu'il fallait encore voir ce que donneraient ces tests si ChatGPT devenait accessible via une API. Les choses n'ont pas tardé à se [réaliser](https://platform.openai.com/docs/guides/chat) et je n'ai pas tardé à réaliser quelques essais dont voici la synthèse.
@@ -24,7 +26,7 @@ Utilisée avec GPT-3, la méthode de l'embedding avait deux lacunes évidentes:
 
 Mes espoirs n'ont pas été déçus: en combinant l'approche d'embedding avec l'API `gpt-3.5-turbo` (oui, c'est son nom), on arrive à des scores presque parfaits:
 
-![Synthèse des résultats]({{ root_url }}/images/2023-03-12_resultats_chatgpt_API.png)
+![Synthèse des résultats]({{ root_url }}/images/2023-03-12_resultats_chatgpt_API.webp)
 <div class="photoattrib">Performance des différents modèles</div>
 
 Cette méthode obtient 3.81/4 de moyenne, ce qui implique en général 1 ou 2 erreurs pour chacun des types de question. Cette approche permet également d’éviter les situations de réponse complètement erronée. Le détail des résultats est disponible [ici](https://docs.google.com/spreadsheets/d/1M_lYCFBuZ6nJXIXMxIYprET7rPaYOCA1pfi5Fjk8VFY/edit#gid=460853519). Et comme nous allons le voir, par la suite j'ai même été en mesure d'améliorer les résultats. 

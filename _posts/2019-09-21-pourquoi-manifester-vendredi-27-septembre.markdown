@@ -1,12 +1,15 @@
 ---
-layout: post
-title: "Pourquoi je vais manifester vendredi"
-date: 2019-09-21 15:56
-description: "Malgré certains inconforts sur la démarche, la manifestation du 27 septembre est un incontournable de notre univers social"
+categories:
+- Politique
 comments: true
-categories: ["Politique"]
-image: "2019-09-21_Greta-pencil.jpg" 
-credit: "Source: Carsten Smithby - <a href='https://www.flickr.com/photos/caschie/47457747012/'>Stencil Greta Thunberg</a>"
+credit: 'Source: Carsten Smithby - <a href=''https://www.flickr.com/photos/caschie/47457747012/''>Stencil
+  Greta Thunberg</a>'
+date: 2019-09-21 15:56
+description: Malgré certains inconforts sur la démarche, la manifestation du 27 septembre
+  est un incontournable de notre univers social
+image: 2019-09-21_Greta-pencil.webp
+layout: post
+title: Pourquoi je vais manifester vendredi
 ---
 
 Je partage l'avis de certains que le mouvement actuel de grève pour le climat fait quelques erreurs sur les stratégies employées. Toutefois, nous avons largement dépassé le moment où nous pouvons nous permettre de nous arrêter à ces "erreurs" qui font figurent de détail dans le portrait d'ensemble.
@@ -21,7 +24,7 @@ Est-ce une bonne stratégie de mettre cette jeune femme dans cette situation. À
 
 Ceci dit: cela fait des années, des décennies même, que les avertissements fusent. Cette année, le protocole de Kyoto fête les 22 ans de sa signature... et les 11 ans de son abandon. *Il y a 22 ans que 184 des 193 membres de l'ONU ont reconnu la nécessité d'agir rapidement*. Il m'est difficile de ne pas mettre quelques jurons après cette phrase tant il est simplement impensable qu'après 22 ans, des milliers et des milliers d'études, une confirmation quasi-quotidienne que les projections faites dans les années 1990 étaient justes voire inférieures à la réalité, validant ainsi les impacts projetés et graves qui nous attendant, bref qu'après tout ça, si peu soit fait, que nous discutons du bien-fondé de mettre une jeune femme de 16 ans à l'avant plan.
 
-![Évolution des émissions de GES au Québec]({{ root_url }}/images/2019-09-21_Evolution_GES_Qc.png)
+![Évolution des émissions de GES au Québec]({{ root_url }}/images/2019-09-21_Evolution_GES_Qc.webp)
 <div class="photoattrib">Évolution des émissions de GES au Québec depuis 1990. Au moins la production de GES a été désollidarisée du PIB, mais dans l'absolu, ça stagne. Source: <a href="http://www.environnement.gouv.qc.ca/changements/ges/2015/inventaire1990-2015.pdf">Gouvernement du Québec</a></div>
 
 Le prix Nobel de l'économie 2018, William Nordhaus a commencé à démontrer au début des années 2000 l'impact économique désastreux d'ignorer les changements climatiques. Lui et ses collègues ont démontré, alors que le protocole de Kyoto se mourait, que même en prenant en compte un taux d'actualisation élevé (e.g l'argent d'aujourd'hui vaut moins que l'argent du futur), même en mettant une probabilité faible à la réalisation de l'impact négatif des changements climatiques, il était économiquement plus avantageux de prendre les actions nécessaires tôt que d'attendre et devoir gérer les conséquences plus tard.  
@@ -37,7 +40,7 @@ Alors oui: je ne parle pas quotidiennement de mes réflexions sur le sujet à me
 Je ne crois pas au scénario de l'extinction. Ça plait à l'esprit pour se forcer à se bouger, mais la Terre ne disparaitra pas. L'entiereté des espèces vivantes ne disparaitra pas. L'espèce humaine ne disparaitra pas. Du moins, pas avec une augmentation de température de 7°C. En revanche, cela va amener beaucoup de souffrance, beaucoup d'instabilité, beaucoup de misère, pour beaucoup, beaucoup de monde. Les tenants du statu quo vont en avoir pour leur argent lorsque la température aura augmenté de 7°C, ou même de 2°C. Si nous ne disparaitrons pas, en tant qu'espèce, pas mal tout ce à quoi nous tenons aujourd'hui est effectivement très susceptible de foutre le camp. Ce n'est pas pour rien que certains milliardaires cherchent à tout prix à construire un moyen pour s'isoler: ils voient le drame de notre civilisation arriver à grande vitesse.
 
 
-![The planet got destroyer]({{ root_url }}/images/2019-09-21_Planet_got_destroyed_tom_toro.png)
+![The planet got destroyer]({{ root_url }}/images/2019-09-21_Planet_got_destroyed_tom_toro.webp)
 <div class="photoattrib">L'extinction n'est pas pour demain, mais quelle conséquence pour l'inaction et quel modèle protège l'inaction?<br/> Source: <a href="https://www.etsy.com/listing/510225080/signed-print-of-my-new-yorker-cartoon">Tom Toro</a>, The New Yorker</div>
 
 Alors je vois l'extinction comme une métaphore: ce qui est à risque de disparaitre, c'est une conception de l'humain, *Homo Sapiens*. La notion d'Homo Sapiens est le fruit du siècle des Lumières, et représente une vision de l'humain sage, l'humain qui sait, le genre d'*Homo* capable d'une réflexion sur sa propre action. Dans ce refus d'agir adéquatement face aux enjeux climatiques, notre civilisation n'est plus vraiment digne d'être *Sapiens*. Elle pourra être *Homo Miserabilis* ou *Homo Bellum*, l'homme en guerre perpétuelle contre son propre genre et contre son environnement.

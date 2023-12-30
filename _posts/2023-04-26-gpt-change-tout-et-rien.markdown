@@ -1,11 +1,13 @@
 ---
-layout: post
-title: "GPT & Co: Ça change tout, et ça change rien (1/2)"
-date: 2023-04-26 00:00
-description: "Partie 1: GPT au regard des théories de l'innovation"
+categories:
+- Politique
+- Innovation & technologie
 comments: true
-categories: ["Politique", "Innovation & technologie"]
-image: "2023-04-23_monooeil.jpg" 
+date: 2023-04-26 00:00
+description: 'Partie 1: GPT au regard des théories de l''innovation'
+image: 2023-04-23_monooeil.webp
+layout: post
+title: 'GPT & Co: Ça change tout, et ça change rien (1/2)'
 ---
 
 Après avoir abondamment lu et expérimenté avec GPT, je partage ici une réflexion de fond en deux parties sur les modèles dits génératifs qui se résume ainsi: ça change tout (partie 1) et ça ne change rien (partie 2). 
@@ -31,7 +33,7 @@ Il n'est évidemment pas question ici de parler de compréhension, d'intention e
 
 Ceci dit, pour souligner cet aspect de cohérence, et notamment de progression dans cette capacité de cohérence, le meilleur exemple se trouve dans le domaine visuel avec Midjourney. Depuis la version 3, Midjourney arrivait à produire des images non seulement esthétiques, mais aussi cohérentes... sauf à une mauvaise habitude près: mettre plus que 5 doigts aux mains. Toutefois, l'arrivée de la version 5 a permis de dépasser ce problème. Désormais, les images nous font généralement grâce de mains polydactyles. Au-delà de cet aspect, je trouve frappant la cohérence des images; Midjourney est capable de gérer des reflets, des ombres ou encore des plis de vêtement. C'est pour moi un exemple de phénomène émergent où la somme des informations ingérées permet de reproduire des situations cohérentes et réalistes sans avoir besoin de comprendre les lois physiques ou même les principes généraux du concept d'ombre ou de reflet.
 
-<img src="{{ root_url }}/images/2023-04-23_midjourney.jpg" alt="Coucher de soleil Midjourney" style="width: 100%; margin:auto">
+<img src="{{ root_url }}/images/2023-04-23_midjourney.webp" alt="Coucher de soleil Midjourney" style="width: 100%; margin:auto">
 <div class="photoattrib">Cohérence, ombres et reflets par MidJourney v5. <a href="https://www.facebook.com/photo?fbid=3432516783689203&set=gm.668204301980697">Source</a></div>
 
 
@@ -94,7 +96,7 @@ De manière pratico-pratique, cette dynamique est bien décrite par le [Gartner 
 
 Le cycle canonique cache tout de même des variations; par exemple certaines technologies restent coincées dans l'enfer du Creux, n'en sortent que très lentement ou simplement retournent au début du cycle. L'envergure du plateau d'adoption est aussi sujette à variation: alors que certaines technologies finissent par rejoindre voire dépasser les espoirs initiaux (pensons au Web), d'autres ne restent qu’une pale copie des espoirs suscités. Différentes saveurs de ce qu'on nomme globalement *intelligence artificielle* sont déjà passées au travers de ce cycle avec plus ou moins de succès. Les modèles dialogiques sont une nouvelle saveur et on peut facilement les placer bien haut sur le Pic des attentes démesurées: la voie est pavée pour des déceptions.
 
-<img src="{{ root_url }}/images/2023-04-23_hype.jpg" alt="Gartner Hype Cycle" style="width: 85%; margin:auto">
+<img src="{{ root_url }}/images/2023-04-23_hype.webp" alt="Gartner Hype Cycle" style="width: 85%; margin:auto">
 <div class="photoattrib">Satyre du Gartner Hype Cycle tirée de <a href="https://pluralistic.net/2023/03/09/autocomplete-worshippers/">Cory Doctorow</a></div>
 
 ---
@@ -116,7 +118,7 @@ Je lis déjà des analyses « GPT va change comment XYZ se fait d’ici 12 mois
 
 Même si les technologies mettent souvent plus de temps qu'on imagine être adopté, les cycles d'adoption tendent à se réduire. En effet, une nouvelle technologie majeure vient rarement seule: de par les progrès scientifiques, du fait des brèches créées par une nouvelle technologie, une série d'innovations vont apparaitre de manière assez concomitante pour se combiner en un cycle plus grand, sous forme de révolutions industrielles ou de cycles industriels. Et ces cycles vont en s'accélérant. Plusieurs phénomènes sont liés à cette accélération, notamment le fait que les technologies des derniers cycles ont besoin d'infrastructures moins lourdes. On note aussi une professionnalisation de l'innovation. Depuis Schumpeter au milieu du XXe siècle, l'innovation est devenue une valeur positive que l'on peut inciter; et les gouvernements investissent et se structurent pour *produire* plus d'innovation sur leur territoire. Cette notion de cycle est une simplification de la réalité et plusieurs études soulignent les limites de cette simplification, mais dans le cadre de mon propos, c'est suffisant.
 
-<img src="{{ root_url }}/images/2023-04-23_innov_cycle.png" alt="Cycle d'innovation" style="width: 85%; margin:auto">
+<img src="{{ root_url }}/images/2023-04-23_innov_cycle.webp" alt="Cycle d'innovation" style="width: 85%; margin:auto">
 <div class="photoattrib">Les cycles d'innovation depuis la première révolution industrielle. Source: <a href="https://www.visualcapitalist.com/the-history-of-innovation-cycles/">Visual Capitalist</a></div>
 
 Les deux dernières décennies ont vu l'émergence d'un écosystème structuré d'accompagnement des entreprises porteuses de technologies ou de modèles d'affaire de rupture et à fort potentiel de croissance, les fameuses *startups*. Maintenant, à peu près n'importe où sur Terre, et notamment dans l'entourage des universités, est accessible un concentré de substrat à startup allant de l'aide à la détection d'opportunités, à la définition du modèle d'affaire en passant par la stratégie de propriété intellectuelle et aboutissant, évidemment, par des financements majeurs. Même si la Silicon Valley en demeure le mètre étalon et le centre gravitationnel, l'aventure peut se tenter partout.
@@ -160,4 +162,3 @@ En d'autres termes, j'ai l'impression qu'à bien des égards, nos modes de commu
 Les agents conversationnels démontrent d'ores et déjà une capacité à avoir une *autonomie*, une fois intégré avec d'autres outils qui peuvent les aider à agir. J'ai entendu à quelques reprises des personnes dire que ces modèles génératifs ne sont rien sans un input humain (le prompt). Ça me semble partiellement faux. Le sous-entendu de cette affirmation et qu'il faut toujours un huain pour "relancer" la discussion. Un modèle dialogique peut recevoir quotidiennement un prompt automatisé et en faire autre chose. Connecté à d'autres systèmes, il peut "décider" de réaliser une action ou une autre (toujours s'il est supplémenté par un outil que le connecte à d'autres systèmes informatiques). Ce n'est pas de la science fiction, c'est avéré. Et j'ai du mal à imaginer que personne ne va exploiter cette capacité. 
 
 C'est pourquoi, j'en viens au premier bloc de mon titre: les modèles dialogiques risquent d'amener beaucoup de changement. Non pas que ce soit une technologie aidant à rélever des défis importants, mais elle répond à un besoin présent depuis de nombreuses années: interprêter du contenu textuel, service d'interface humain-machine, produire du contenu textuel accessible pour un humain, etc. Et offre aussi des capacités qui dépasent la simple interprétation. La mise en oeuvre généraliste et omnisciente de ChatGPT souffre d'une fiabilité qui limite, à mes yeux, sa capacité d'adoption à court terme. Des mises en oeuvre spécialisées, surtout connectées à d'autres outils, pourraient elles être capables d'atteindre une certaine fiabilité pour des tâches plus spécifique. Même si cette technologie doit encore passer à travers son Creux de la désillusion, à moins qu'elle frappe un mur, une limite de fiabilité par exemple, j'ai du mal à voir comment elle ne s'insérerait pas progressivement dans la société, certes en la changeant mais sans réellement changer la trajectoire d'ensemble; ce sera l'objet de la seconde partie.
-

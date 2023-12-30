@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "Notre futur technologique - En conclusion"
-date: 2014-04-27 14:01
+categories:
+- Innovation & technologie
 comments: true
-categories: ["Innovation & technologie"] 
-image: "2014-04-27-coucher-soleil-poly.jpg"
+date: 2014-04-27 14:01
+image: 2014-04-27-coucher-soleil-poly.webp
+layout: post
+title: Notre futur technologique - En conclusion
 ---
 
 Cet article est le dernier d'une série en 6 parties

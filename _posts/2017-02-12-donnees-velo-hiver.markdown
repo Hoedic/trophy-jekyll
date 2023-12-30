@@ -1,12 +1,14 @@
 ---
-layout: post
-title: "Le vélo d'hiver progresse-t-il vraiment?"
-date: 2017-02-12 00:00
-description: "La pratique du vélo d'hiver au milieu de l'échantillonage sélectif, des 'petites' données et de l'interprétation qualitative"
+categories:
+- Données & visualisation
 comments: true
-categories: ["Données & visualisation"]
-image: "2017-02-12-photo-velo-graph.jpg" 
-credit: ""
+credit: ''
+date: 2017-02-12 00:00
+description: La pratique du vélo d'hiver au milieu de l'échantillonage sélectif, des
+  'petites' données et de l'interprétation qualitative
+image: 2017-02-12-photo-velo-graph.webp
+layout: post
+title: Le vélo d'hiver progresse-t-il vraiment?
 ---
 
 Y a pas juste le *big data* qui mérite notre attention. Les "petites" données, bien plus fréquentes sont tout aussi importantes et fréquemment sujettes à des simplifications et des mauvaises interprétations. Visite guidée au pays des données de vélo d'hiver et des différentes conclusions qu'il est possible de tirer selon différents angles d'analyse.
@@ -23,7 +25,7 @@ Variation entre 2014-2015 et 2015-2016: pour la période d'hiver étendu (du 1<s
 
 Variation sur le long terme: En prenant le même échantillonnage (du 1<sup>er</sup> dec. au 31 mars, six boucles) sur plusieurs années, le portrait est nettement moins rose: une courbe sans réelle tendance. L'année de la hausse de 124% est certes la plus haute mais dépasse difficilement un autre sommet de 2011-2012 qui fut suivi de 3 années de baisse consécutives. On peut difficile tirer de ce graphique que la pratique du vélo d'hiver progresse sur le long terme.
 
-![Évolution du vélo 2010-2016]({{ root_url }}/images/2017-02-12-graph-velo-1.png)
+![Évolution du vélo 2010-2016]({{ root_url }}/images/2017-02-12-graph-velo-1.webp)
 <div class="photoattrib">Nombre total de passages annuels de vélos sur six boucles entre le 1<sup>er</sup> dec. et le 31 mars<sup>***</sup> </div>
 
 ---
@@ -32,7 +34,7 @@ Variation sur le long terme: En prenant le même échantillonnage (du 1<sup>er</
 
 Évidemment, quiconque a vécu au Québec quelques années sait que les hivers des années 2013-2014 et 2014-2015 furent particulièrement rigoureux. Tentons donc l'hypothèse suivante: Le creux des années précédant 2015-2016 était principalement le fait de la météo et non d'une désaffection temporaire du vélo d'hiver. Pour ce faire, nous allons chercher les [données](http://climat.meteo.gc.ca/historical_data/search_historic_data_f.html) d'Environnement Canada qui nous donnent, parmi d'autres choses, la température moyenne et les précipitations de chaque jour depuis 1840. Celles depuis 2009 suffiront. Maintenant regardons rapidement l'évolution de la fréquentation des pistes avec la température moyenne pour chaque hiver.
 
-![Évolution du vélo 2010-2016 comparé à la température moyenne]({{ root_url }}/images/2017-02-12-graph-velo-2.png)
+![Évolution du vélo 2010-2016 comparé à la température moyenne]({{ root_url }}/images/2017-02-12-graph-velo-2.webp)
 <div class="photoattrib">Nombre total de passages annuels de vélos (1<sup>er</sup> dec. et le 31 mars) comparé à la température moyenne pendant la même période</div>
 
 Le lien semble assez convainquant. Un rapide calcul de corrélation donne un beau 0.92 (1 = corrélation parfaite)! En plusiers années d'analyse de données, je n'ai jamais vu un tel résultat. Les corrélations, c'est comme les scores d'élection, quand c'est trop haut, ça en devient louche. Même si on nous met tout le temps en garde à ne pas confondre [correlation et causalité](http://www.tylervigen.com/spurious-correlations), le lien, ici, semble assez clair. En fait, avec une température moyenne de -2.7°C en 2015-2016 contre -8.7°C en 2014-2015, j'aurais pu prévoir à quelques dizaines près le nombre de cyclistes pendant la saison 2015-2016 juste avec la température moyenne.
@@ -47,14 +49,14 @@ Pour analyser une donnée, il est important de se demander ce qu'elle représent
 
 Même si cela enlève la vision d'ensemble, il est nécessaire de regarder les données à leur plus fine résolution: la journée.
 
-![Comptages par boucle quotidiens vs la météo]({{ root_url }}/images/2017-02-12-graph-velo-3.png)
+![Comptages par boucle quotidiens vs la météo]({{ root_url }}/images/2017-02-12-graph-velo-3.webp)
 <div class="photoattrib">Nombre total de passages quotidiens durant la saison 2015-2016 comparé à la température moyenne et aux précipitations</div>
 
 À ce niveau, on constate que la forte corrélation avec la température moyenne semble disparaitre, passant de 0.92 à 0.58 (ce n'est pas zéro, mais c'est loin d'être impressionant. Pour la forme j'ajoute les précipitations qui ont aussi un impact. On note une certains cyclicité de la fréquentation, lié aux fins de semaines qui peut avoir un impact négatif sur la corrélation. Surtout, dans le cas présent, on voit que l'activité demeure assez élevée pendant tout le mois de décembre grâce aux températures clémentes. Les hautes fréquentations annuelles de 2015-2016 semblent surtout le fait d'un hiver tardif.
 
 Serait-il possible d'évaluer, à température controlée, l'évolution de la fréquentation au fil des années? Segmentons les journées de janvier et février des différentes années en fonction de la température quotidienne moyenne par bloc de 5°C, ajoutons des courbes de tendance, nous obtenons ceci: 
 
-![Évolution annuelles en fonction de segments de températures]({{ root_url }}/images/2017-02-12-graph-velo-4.png)
+![Évolution annuelles en fonction de segments de températures]({{ root_url }}/images/2017-02-12-graph-velo-4.webp)
 <div class="photoattrib">Évolution du nombre total de passages annuels (janvier et février) segmentés selon la température moyenne du jour</div>
 
 

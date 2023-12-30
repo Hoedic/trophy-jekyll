@@ -1,12 +1,15 @@
 ---
-layout: post
-title: "Rappelons-nous du mouvement anti-mondialisation"
-date: 2017-01-28 16:06
-description: "Quelque part, la situation grècque, le Brexit et l'élection de Trump devraient être appréciés au regard du mouvement anti-mondialisation de la fin des années 1990 - début 2000."
+categories:
+- Politique
 comments: true
-categories: ["Politique"]
-image: "2017-01-28-occupy-mtl.jpg" 
-credit: "Occupy Montreal, 26 octobre 2011"
+credit: Occupy Montreal, 26 octobre 2011
+date: 2017-01-28 16:06
+description: Quelque part, la situation grècque, le Brexit et l'élection de Trump
+  devraient être appréciés au regard du mouvement anti-mondialisation de la fin des
+  années 1990 - début 2000.
+image: 2017-01-28-occupy-mtl.webp
+layout: post
+title: Rappelons-nous du mouvement anti-mondialisation
 ---
 
 Quelque part, la situation grècque, le Brexit et l'élection de Trump devraient être appréciés au regard du mouvement anti-mondialisation de la fin des années 1990 - début 2000.
@@ -30,4 +33,3 @@ De la même manière, ça ne prend pas grande expertise économique pour relier 
 Certains diront que c'est la nature des choses que les industries ou les personnes non adaptées finissent par disparaître ou devoir se reconvertir. Malheureusement, nous sommes encore en démocratie... ces personnes désormais inutiles votent et suivront quiconque prétendra les protéger et s'attaquant à la source de leur malheur, le libre-échange. Et notons bien que les annonces récentes de certains contructeurs automobiles de revoir à la hausse leur production aux États-Unis leur donne raison, même si en bout de ligne ça risque d'être une victoire à la Pyrrhus.
 
 Alors il est toujours possible d'invoquer Ricardo et Friedman pour justifier la négociation en secret du Grand marché transatlantique et autres Accord transpacifique. Mais les temps qui courent laissent penser qu'il aurait mieux valu écouter le mouvement anti-mondialisation il y a une quinzaine d'années. L'idée n'est pas nécessairement de bloquer le processus de globalisation et de libre-échange mais plus d'accepter de prendre en compte les impacts probables et notamment de laisser une porte aux gouvernements pour atténuer les impacts. Évidemment, soumettre l'ensemble de ces démarches à un processus démocratique serait également une bonne habitude à prendre. À moins de souhaiter avoir plus de Donald Trump un peu partout.
-

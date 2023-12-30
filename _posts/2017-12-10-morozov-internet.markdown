@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "Morozov: oublier internet"
-date: 2017-12-12 21:22
-description: "Petit résumé de l'intervention de Evgeny Morozov au Centre canadien d'architecture"
+categories:
+- Politique
 comments: true
-categories: ["Politique"]
-image: "2017-12-12-feu.jpg" 
+date: 2017-12-12 21:22
+description: Petit résumé de l'intervention de Evgeny Morozov au Centre canadien d'architecture
+image: 2017-12-12-feu.webp
+layout: post
+title: 'Morozov: oublier internet'
 ---
 
 *Mise à jour / 23 décembre: Le CCA a [publié la vidéo](https://www.youtube.com/watch?v=f1yJ8eeI2js) sur son canal Youtube*
@@ -26,7 +27,7 @@ Morozov a vu grand: il proposait d'oublier Internet.
 
 Ayant un style d'écriture assez sec et dur, il était presque surprenant de découvrir une personne assez amicale et jouant sur l'humour. Ceci dit, une fois lancé dans sa dissertation d'une heure, seul dans un fauteuil, il a réussi à élaborer un cheminement intellectuel surprenant.
 
-![Evgeny Morozov @ CCA]({{ root_url }}/images/2017-12-12-morozov.jpg)
+![Evgeny Morozov @ CCA]({{ root_url }}/images/2017-12-12-morozov.webp)
 
 
 Internet devrait être oublié. D'ailleurs, il a confié avoir retiré ce terme de ces écrits depuis plusieurs années. Pour développer son argument, Morozov est reparti de son premier livre, *The Net Delusion : The Dark Side of Internet Freedom* ainsi que ses travaux de doctorat entamé il y a 6 ans sur l'histoire d'Internet. Il note se trouver confirmé dans sa vision des choses depuis l'écriture de ce livre en 2011 à savoir qu'une vision très utopiste d'Internet s'est finalement traduite par un effacement de bien des enjeux de l'ordre de l'économie politique.

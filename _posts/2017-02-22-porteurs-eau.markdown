@@ -1,12 +1,14 @@
 ---
-layout: post
-title: "Les porteurs d'eau du XXI<sup>e</sup> siècle"
-date: 2017-02-22 22:50
-description: "Devenir un centre mondial en intelligence artificielle nous maintient-il dans le rôle de porteurs d'eau?"
+categories:
+- Innovation & technologie
 comments: true
-categories: ["Innovation & technologie"]
-image: "2017-02-22-murale-clandestino.jpg" 
-credit: "Montréal, 15 mai 2016. 151 rue Rachel est"
+credit: Montréal, 15 mai 2016. 151 rue Rachel est
+date: 2017-02-22 22:50
+description: Devenir un centre mondial en intelligence artificielle nous maintient-il
+  dans le rôle de porteurs d'eau?
+image: 2017-02-22-murale-clandestino.webp
+layout: post
+title: Les porteurs d'eau du XXI<sup>e</sup> siècle
 ---
 
 Pour commencer, il est important de souligner que le porteur d'eau jouait un rôle crucial dans la jeune économie du Québec et du Canada comme l'explique ce bref [document](http://www.tlfq.ulaval.ca/chronique/2_porteur.pdf). Certes mal payé et ne nécessitant aucune qualification, c'est sur cet emploi que reposait l'approvisionnement en eau des premières villes québécoises. Il n'en reste pas moins que suite à une harangue d'un Anglais de passage au Québec, ce terme est synonyme, aujourd'hui encore, de "*servitude d'une communauté par rapport à une autre*".

@@ -1,11 +1,13 @@
 ---
-layout: post
-title: "À propos de la neutralité d'Internet"
-date: 2018-01-06 11:30
-description: "Courte explication sur l'importance finalement relative de la neutralité du net"
+categories:
+- Politique
 comments: true
-categories: ["Politique"]
-image: "2018-01-06-feu.jpg" 
+date: 2018-01-06 11:30
+description: Courte explication sur l'importance finalement relative de la neutralité
+  du net
+image: 2018-01-06-feu.webp
+layout: post
+title: À propos de la neutralité d'Internet
 ---
 
 Suite au [précédent billet](/2017/12/12/morozov-internet/), plusieurs personnes m'ont demandé de préciser la question de l'opposition de Morozov à la neutralité d'Internet. Le présent billet vise à répondre à cette demande en extrapolant certains arguments de Morozov puis en étendant la discussion à la question générale, un peu différente, de neutralité technologique.

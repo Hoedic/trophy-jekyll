@@ -1,10 +1,12 @@
 ---
-layout: post
-title: "La ville paramétrique, proto ville intelligente"
-date: 2014-09-24 21:38
+categories:
+- Données & visualisation
+- Politique
 comments: true
-categories: ["Données & visualisation", "Politique"]
-image: "2014-09-24-graph.jpg"
+date: 2014-09-24 21:38
+image: 2014-09-24-graph.webp
+layout: post
+title: La ville paramétrique, proto ville intelligente
 ---
 
 Ce (long) billet va donner un sens au nom de domaine utilisé pour ce blogue: dataholic!
@@ -30,7 +32,7 @@ Les paramètres en question (anciens et nouveaux) sont disponibles dans un docum
 
 Appliqué à l'année 2015, les nouveaux paramètres amènent les changements présentés ci-dessous en matière de budget (notes rapides: dans les faits, les changements seront appliqués progressivement, donc les arrondissements ne vont pas subir ces changements du jour au lendemain. Le graphique contient uniquement les principaux postes budgétaires; la cause étant que les données sont présentées sous forme de PDF et qu'il a donc fallu retranscrire les informations à la main.)
 
-![Variation de budget]({{ root_url }}/images/2014-09-24-budget-absolu.png)
+![Variation de budget]({{ root_url }}/images/2014-09-24-budget-absolu.webp)
 <div class="photoattrib">Variation du budget par arrondissement pour les principaux postes de dépense (en milliers de dollars)</div>
 
 
@@ -39,7 +41,7 @@ Les variations sont importantes et mis en pourcentage, cela implique des variati
 En mettant les changements sur une carte, il appert que les arrondissements périphériques semblent généralement plus dans le positif tandis que les arrondissements centraux souffrent d'une baisse de financement. Comme on peut le voir sous forme [graphique](https://plot.ly/6/~hoedic), on note assez nettement le lien entre variation du budget et éloignement des arrondissements.
 
 <a href="http://cdb.io/1CiKuBv">
-![Variation de budget]({{ root_url }}/images/2014-09-24-carte.png)
+![Variation de budget]({{ root_url }}/images/2014-09-24-carte.webp)
 </a>
 <div class="photoattrib">Carte des variations de budget par arrondissement. <a href="http://cdb.io/1CiKuBv">Accès à la carte interactive</a></div>
 
@@ -53,7 +55,7 @@ Pourtant, en allant chercher les données d'emprunt, le calcul de certains ratio
 
 
 <a href="https://plot.ly/~hoedic/9">
-![Emprunts de livres]({{ root_url }}/images/2014-09-24-emprunts-livres.png)
+![Emprunts de livres]({{ root_url }}/images/2014-09-24-emprunts-livres.webp)
 </a>
 <div class="photoattrib">Emprunts par livres et nombre total d'emprunt par arrondissement. <a href="https://plot.ly/~hoedic/9">Accès au graph interactif</a></div>
 
@@ -80,7 +82,7 @@ Pour arriver à une analyse intéressante, il faut regarder l'empreinte individu
 En prenant ainsi l'empreinte par habitant, on note trouve une correlation assez forte: les augmentations de budgets sont une fonction croissante de l'empreinte. En d'autres termes, la nouvelle formulation du budget tend à favoriser les gens qui s'étalent.
 
 <a href="https://plot.ly/~hoedic/5">
-![Empreinte par habitant]({{ root_url }}/images/2014-09-24-emprunte-habitant.png)
+![Empreinte par habitant]({{ root_url }}/images/2014-09-24-emprunte-habitant.webp)
 </a>
 <div class="photoattrib">Variation du budget en fonction de l'empreinte au sol des résidents. <a href="https://plot.ly/~hoedic/5">Accès au graph interactif</a></div>
 
@@ -126,7 +128,7 @@ Comment cette approche "data sensitive" pourrait se traduire dans un budget para
 Des indicateurs existent. La Ville réalise notamment à intervalle régulier un état des lieux des rues pour évaluer les besoins de réfection. Ces données ont été obtenues par Radio Canada et [utilisées](http://ici.radio-canada.ca/sujet/etat-rues-montreal) lors du hackathon geoHack l'année dernière (j'ai eu la chance de faire partie de l'équipe gagnante avec lesdites données.) Est-ce que les données d'état des rues ont été prises en compte pour la paramétrisation? Non, les paramètres ne les prennent pas en compte et je m'attendais à ne vois aucune corrélation entre variation de budget et état des rues.
 
 <a href="https://plot.ly/~hoedic/4">
-![État des rues]({{ root_url }}/images/2014-09-24-etat-rue.png)
+![État des rues]({{ root_url }}/images/2014-09-24-etat-rue.webp)
 </a>
 <div class="photoattrib">Variation du budget en fonction de l'état des rues <a href="https://plot.ly/~hoedic/4">Accès au graph interactif</a></div>
 
@@ -279,4 +281,3 @@ Analyser des données, c'est beaucoup une histoire de choix. Voici une brève di
 - Plot.ly
 - CartoDB
 - Plusieurs commandes unix (cut, split, awk, etc.)
-

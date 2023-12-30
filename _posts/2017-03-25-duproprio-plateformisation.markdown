@@ -1,12 +1,14 @@
 ---
-layout: post
-title: "Plateformisation: l'exemple DuProprio"
-date: 2017-02-22 22:50
-description: "Les plateformes internet, leurs impacts négatifs et les options pour s'en sortir"
+categories:
+- Innovation & technologie
 comments: true
-categories: ["Innovation & technologie"]
-image: "2017-03-25-rails.jpg" 
-credit: "Montréal, 24 février 2017"
+credit: Montréal, 24 février 2017
+date: 2017-02-22 22:50
+description: Les plateformes internet, leurs impacts négatifs et les options pour
+  s'en sortir
+image: 2017-03-25-rails.webp
+layout: post
+title: 'Plateformisation: l''exemple DuProprio'
 ---
 
 Le présent article pourrait être vu comme le témoignage d'un client frustré. C'est peut-être le cas. Mais si ce n'était que cela, je me serais contenté d'une complainte sur Facebook qui aurait surement rejoint plus de monde. C’est plutôt l’occasion de réfléchir à la "plateformisation” d’Internet et autres considération sur le développement d’un Amazon du Québec.
@@ -33,4 +35,4 @@ La réflexion est intéressante mais il faut bien comprendre qu’elle ne peut p
 
 Par ailleurs, bien qu’il soit vrai qu’Uber ne possède pas grand- chose, les investissements initiaux pour créer une plateforme sont colossaux: logiciel mais surtout recrutement. Les montants disponibles en capital de risque donnent accès à une capacité de déploiement d’une plateforme inaccessible sans cela. Ceci dit, c’est le genre de chose sur lequel les gouvernements pourraient avoir un impact en adaptant certains éléments de fiscalité, ce qui, combiné au capital d’impact, pourrait donner des résultats intéressants. Enfin une telle approche pourrait permettre l’émergence de plateformes plus conformes à la vision historique d’Internet. Beaucoup de chemin reste à faire.
 
-En attendant, Sylvain a promis un autre billet sur comment favoriser l’émergence de projets porteurs, je suis curieux de voir ce qu’il en sera. 
+En attendant, Sylvain a promis un autre billet sur comment favoriser l’émergence de projets porteurs, je suis curieux de voir ce qu’il en sera.

@@ -1,12 +1,12 @@
 ---
-layout: post
-title: "The case for App Contests"
-date: 2013-07-28 21:47
+categories:
+- Innovation & technologie
 comments: true
-categories: ["Innovation & technologie"] 
-image: "2013-07-28-hackathon.jpg"
+date: 2013-07-28 21:47
+image: 2013-07-28-hackathon.webp
+layout: post
+title: The case for App Contests
 ---
-
 
 Let's continue the discussion about "Are civic hackathons/app contests stupid?" In a [previous post](/2013/07/14/What-are-hackathons/), I tried to list what hackathons can bring and why they are fruitful for a variety of reasons. The case of app contests may be more difficult to defend and I cannot really refute some of the arguments raised, for example, by [Bill Shrier](http://schrier.wordpress.com/).
 

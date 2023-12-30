@@ -1,11 +1,13 @@
 ---
-layout: post
-title: "GPT & Co: ça ne change rien (2/2)"
-date: 2023-05-30 09:00
-description: "Partie 2: GPT face aux théories critiques de la technologie"
+categories:
+- Politique
+- Innovation & technologie
 comments: true
-categories: ["Politique", "Innovation & technologie"]
-image: "2023-05-29_arbre2.jpg" 
+date: 2023-05-30 09:00
+description: 'Partie 2: GPT face aux théories critiques de la technologie'
+image: 2023-05-29_arbre2.webp
+layout: post
+title: 'GPT & Co: ça ne change rien (2/2)'
 ---
 
 [Après avoir expliqué](/2023/04/26/gpt-change-tout-et-rien/) pourquoi selon moi GPT est un *game changer*, je vais convoquer certaines théories critiques des technologies et de l'innovation pour souligner que ce nouveau "printemps de l'intelligence artificielle" ne fait que renforcer une trajectoire dans laquelle nous sommes déjà; en d'autres termes, ça ne change rien. Je défends ici une thèse, j'ai un parti pris que je vais m'efforcer de défendre. Toutefois, pour reprendre la citation de Fitzgerald dans mon précédent billet, ça n'exclut pas des interprétations différentes, voire a priori contradictoires. Quand bien même ma thèse serait en partie juste, ça n'empêche pas d'autres thèses antinomiques d'être non seulement défendables, mais de pouvoir également se réaliser.
@@ -47,7 +49,7 @@ De manière plus spécifique, Illich positionne plusieurs phénomènes invariabl
 - La convivialité: La porte de sortie pour Illich est représentée par l'outil convivial, un outil dont les propriétés ne l'amènent pas à se retourner contre la société. Les exemples habituellement cités sont la bicyclette et le téléphone (on parle des années 70). Par extension, Illich définit une société conviviale *« où l'outil moderne est au service de la personne intégrée à la collectivité, et non au service d'un corps de spécialistes. »*
 
 <br/>
-<img src="{{ root_url }}/images/2023-05-29_convivialite.jpg" alt="La convivialité, par  Ivan Illich" style="width: 50%; margin:auto">
+<img src="{{ root_url }}/images/2023-05-29_convivialite.webp" alt="La convivialité, par  Ivan Illich" style="width: 50%; margin:auto">
 <div class="photoattrib">La convivialité, Ivan Illich, 1973</div>
 
 Ces principes sont d'ores et déjà en action dans le déploiement de ce que l'on nomme l'intelligence artificielle et pour les modèles de langage en particulier. Ainsi, il est parfaitement entendu que ces outils *vont* se retourner contre le corps social autant qu'il est clair que ces technologies vont se fusionner avec un monopole absolu existant, celui des technologies numériques pour se rendre incontournable: celui qui décide de ne pas les utiliser va se retrouver inexorablement à la traine. De même, il semble généralement accepté que les outils de gestion (législation, institutions, etc.) ne seront qu'un pis-aller, un moyen d'éviter les dérives les plus graves (et encore! ça ne semble pas convaincre tout le monde). Cela n'empêchera pas l'aliénation massive, la perte de liberté ou la subordination de la majorité à un corps de spécialistes: ceux qui développent et rendent disponibles ces outils.
@@ -99,7 +101,7 @@ Là encore, tout ceci n'apparait pas hors contexte: notre attention est déjà b
 
 Certains proposent de combattre le feu par le feu, comme le propose Philippe Beaudoin avec [Waverly](https://mywaverly.com/). Peut-être que ça va marcher, mais quand? Et surtout pour qui? En attendant, on voit déjà au quotidien l'effet de la production de contenu synthétique incroyablement crédible avec pour conséquence une suractivation du système 2 et une accentuation de la fatigue attentionnelle.
 
-<img src="{{ root_url }}/images/2023-05-29_pape_balenciaga.jpg" alt="Le papen en Balenciaga" style="width: 85%; margin:auto">
+<img src="{{ root_url }}/images/2023-05-29_pape_balenciaga.webp" alt="Le papen en Balenciaga" style="width: 85%; margin:auto">
 <div class="photoattrib">Non, le Pape ne rappe pas en Balenciaga. Source Guerrero Art (Pablo Xavier)</div>
 
 ### Isolement et perte de capacité de l'action collective

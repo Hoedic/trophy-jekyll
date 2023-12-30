@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "Notre futur technologique - Creation très destructrice"
-date: 2014-02-04 20:32
+categories:
+- Innovation & technologie
 comments: true
-categories: ["Innovation & technologie"] 
-image: "2014-02-04-tracteur.jpg"
+date: 2014-02-04 20:32
+image: 2014-02-04-tracteur.webp
+layout: post
+title: Notre futur technologique - Creation très destructrice
 ---
 
 Cet article est le troisième d'une série en 6 parties

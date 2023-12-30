@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "Notre futur technologique - la voiture autonome"
-date: 2014-02-10 20:32
+categories:
+- Innovation & technologie
 comments: true
-categories: ["Innovation & technologie"] 
-image: "2014-02-10-200.jpg"
+date: 2014-02-10 20:32
+image: 2014-02-10-200.webp
+layout: post
+title: Notre futur technologique - la voiture autonome
 ---
 
 Cet article est le quatrième d'une série en 6 parties

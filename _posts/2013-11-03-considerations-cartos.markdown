@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "Considérations de visualisation de données"
-date: 2013-11-03 13:52
+categories:
+- Données & visualisation
 comments: true
-categories: ["Données & visualisation"]
-image: "2013-11-03-cartodb.png"
+date: 2013-11-03 13:52
+image: 2013-11-03-cartodb.webp
+layout: post
+title: Considérations de visualisation de données
 ---
 
 Après plusieurs années, je vais finalement justifier le nom de domaine que j'utilise pour héberger ce blog: parlons données et plus précisément représentation de données géospatiales.
@@ -13,7 +14,7 @@ La Presse a sorti hier une représentation des dons de campagne pour les quatre 
 
 Nous arrivons donc avec la visualisation suivante:
 
-![Dons]({{ root_url }}/images/2013-11-03-carte-lapresse.png)
+![Dons]({{ root_url }}/images/2013-11-03-carte-lapresse.webp)
 <div class="photoattrib"><a href="http://www.lapresse.ca/multimedias/201311/01/01-4706410-carte-du-financement-politique-a-montreal.php">Carte des dons</a>. Source: La Presse</div>
 
 Carte classique obtenue avec Google FusionTables (GFT)... et c'est là que le bât blesse. Le contrôle des marqueurs dans GFT est très limité, ce qui se traduit par des marqueurs trop superposés et sans transparence (donc se masquant mutuellement) et de taille unique -ce qui est bien dommage car des dons de 100$ ou de 1000$ apparaissent de la même manière.
@@ -24,7 +25,7 @@ Enfin, les couleurs disponibles pour les marqueurs de Google ne se valent pas. S
 
 Étant donné que La Presse avait rendu disponibles les données géocodées -merci!, j'ai réalisé une carte semblable essayant de corriger quelques éléments, notamment la superposition des dons et la prise en compte de la taille des dons.
 
-![Dons]({{ root_url }}/images/2013-11-03-cartodb.png)
+![Dons]({{ root_url }}/images/2013-11-03-cartodb.webp)
 <div class="photoattrib"><a href="http://cdb.io/1alnktr">Carte des dons</a>.</div>
 
 Les couleurs restent encore discutables (par manque de volonté pour faire mieux et pour respecter les couleurs des partis) mais à mon goût cela donne une meilleure idée de l'information.
@@ -51,7 +52,7 @@ Quoiqu'il en soit, les représentations graphiques, et surtout en carto, ont tou
 
 Profitant des données travaillées par La Presse, j'ai réalisé une autre carte qui nous donne le parti vainqueur en matière de dons par district électoral. Nous verrons si c'est un "proxy" intéressant pour déterminer les résultats!
 
-![Dons]({{ root_url }}/images/2013-11-03-cartodb2.png)
+![Dons]({{ root_url }}/images/2013-11-03-cartodb2.webp)
 <div class="photoattrib"><a href="http://cdb.io/1alnvFg">Vainqueur (en dons) par district électoral</a>.</div>
 
 Les données ne sont pas tout à fait comparable car la période couverte pour les différents partis n'est pas la même. Ça vaut ce que ça vaut.

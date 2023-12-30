@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "Aikido: 20 ans et une ceinture noire plus tard"
-date: 2023-12-23 09:00
-description: "Le long voyage d'une certaine pratique martiale"
+categories:
+- Perso
 comments: true
-categories: ["Perso"]
-image: "2023-12-25_aikido1.jpg" 
+date: 2023-12-23 09:00
+description: Le long voyage d'une certaine pratique martiale
+image: 2023-12-25_aikido1.webp
+layout: post
+title: 'Aikido: 20 ans et une ceinture noire plus tard'
 ---
 
 Des hauts, des bas, des arrêts, des reprises et, finalement, l'impression de commencer à maîtriser quelque chose.
@@ -32,7 +33,7 @@ Plusieurs arts martiaux intègrent le principe de non-opposition à la force, da
 Avant de pratiquer des frappes (coups de poing, etc.), le parcours d'aikido commence beaucoup par des saisies: saisies aux poignets, aux épaules, par-derrière, etc. Ces attaques ne sont pas nécessairement réalistes, mais elles permettent de sentir combien notre esprit se contracte lorsqu'on est "pris". Au début, la majorité des pratiquants vont 1. se figer et 2. regarder le lieu de la saisie comme si le cerveau avait besoin de voir pour confirmer qu'il est pris. Et la réaction naturelle ensuite est de tirer, de reprendre le contrôle sur notre membre emprisonné -action en général vouée à l'échec pour peu que l'opposant tienne pour de vrai.
 
 
-![Le plaisir de la pratique]({{ root_url }}/images/2023-12-25_aikido2.jpg)
+![Le plaisir de la pratique]({{ root_url }}/images/2023-12-25_aikido2.webp)
 <div class="photoattrib">Le plaisir de la pratique</div>
 
 Pourtant, bien souvent, une simple prise n'est pas suffisante pour immobiliser une personne. Alors que l'esprit est naturellement concentré sur le point de la saisie, être en mouvement permet de percevoir tous les espaces de déplacement possibles.
@@ -49,4 +50,3 @@ Chaque fois que j'ai une bonne pratique, je ressens jusqu'au plus profond de mes
 Je pourrais épiloguer encore longuement sur la pratique de l'aikido. Après chaque pratique, j'écris un billet de blogue au complet dans ma tête. Et en fin de compte, une des raisons pour lesquelles je ne passe que rarement à l'acte d'écriture, c'est la difficulté d'exprimer ce qu'on ressent physiquement dans ce genre de pratique, comment on ressent ses propres états et ceux de ceux avec qui on pratique.
 
 20 ans derrière moi et j'espère encore 20 ans devant, voire plus. La beauté de l'aikido, c'est qu'il est possible de le pratiquer jusqu'à un âge assez avancé -si la santé le permet. Et c'est tant mieux, car la ceinture noire n'est que le début d'une nouvelle étape d'un chemin qui n'a pas vraiment de fin.
-

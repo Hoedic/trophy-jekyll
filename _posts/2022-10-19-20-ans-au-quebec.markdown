@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "20 ans au Québec et quelques réflexions"
-date: 2022-10-19 00:00
-description: "Être immigrant pour toujours et les identités qui vont avec"
+categories:
+- Personnel
 comments: true
-categories: ["Personnel"]
-image: "2022-10-19_horloge.jpg" 
+date: 2022-10-19 00:00
+description: Être immigrant pour toujours et les identités qui vont avec
+image: 2022-10-19_horloge.webp
+layout: post
+title: 20 ans au Québec et quelques réflexions
 ---
 
 Il y a 20 ans jour pour jour, je foulais le sol de l'aérogare Montréal-Mirabel (désormais détruit), un visa de résident permanent canadien dans mon passeport. Seul, j'arrivais au bureau de l'immigration avec l'idée saugrenue de changer de pays, de changer de vie. Dans mes poches: l'équivalent de 10 000€, économisés dans mes 13 mois de vie professionnelle. Quelques jours plus tard, mes quelques possessions, tenant dans deux grands cartons, allaient me rejoindre. Au moins, j'avais le luxe d'être attendu par celle qui partage ma vie depuis tout ce temps.
@@ -68,4 +69,4 @@ Comme immigrant, je vis aussi dans ma chair cette tension des identités qui, l�
 
 Enfin, à l'image du mythe de la femme tombée du ciel, c'est reconnaître pour moi, pour mes prochaines années, que devenir partie du territoire où je vis est un effort constant. Un effort de contribution, de découverte, de curiosité et réciprocité. Je ne pense pas avoir été mauvais élève à ce titre, j'aurais aussi pu en faire plus.
 
-Merci à tous ceux qui ont croisé ma route et m'ont aidé ou soutenu d'une quelconque façon, ne serait-ce que d'un sourire. J'espère être encore *là* pour faire mon bilan de 40 ans! 
+Merci à tous ceux qui ont croisé ma route et m'ont aidé ou soutenu d'une quelconque façon, ne serait-ce que d'un sourire. J'espère être encore *là* pour faire mon bilan de 40 ans!

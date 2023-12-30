@@ -1,10 +1,12 @@
 ---
-layout: post
-title: "Précis de mode de scrutin à l'attention des québécois et des autres"
-date: 2013-05-14 22:32
+categories:
+- Données & visualisation
+- Politique
 comments: true
-categories: ["Données & visualisation", "Politique"]
-image: "2013-05-14-pecheurs.jpg"
+date: 2013-05-14 22:32
+image: 2013-05-14-pecheurs.webp
+layout: post
+title: Précis de mode de scrutin à l'attention des québécois et des autres
 ---
 
 Ces derniers temps, j'entends à tout va "ah, qu'est-ce qu'il nous faudrait un système de vote proportionnel". C'est vrai qu'à tous les niveaux gouvernementaux, des partis politiques essaient de percer et un système propotionnel les aiderait, mais jusqu'à quel point?
@@ -31,7 +33,7 @@ Maintenant évaluons le scenario d'un système à deux tours qui favoriserait le
 
 Dans un contexte un peu plus réaliste, la coalition aurait peut-être 65-70 élus (pour une mahjorité à 63) dont une demi-douzaine aux "petits" partis, ce qui donne à ces derniers l'épée de Damoclès. Contrairement au système à un tour où les partis peuvent difficilement monnayer leur apport à une coalition, il en est tout autrement. Du haut de leurs 8% combinés, O.N et Q.S représentent possiblement 23 sièges de différences! (Et n'allez pas lire dans ces lignes que les "petits" partis devraient se saborder, le propos n'est pas là)
 
-![Résultat de l'élection et projection avec une coalition]({{ root_url }}/images/2013-05-14-proj-elec.png)
+![Résultat de l'élection et projection avec une coalition]({{ root_url }}/images/2013-05-14-proj-elec.webp)
 
 ### Mais la représentation?
 

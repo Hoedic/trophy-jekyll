@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "Trump comme triomphe de la société du spectacle"
-date: 2020-09-11 18:44
-description: "Ce n'est pas à propos de Trump, c'est à propos de nous"
+categories:
+- Politique
 comments: true
-categories: ["Politique"]
-image: "2020-09-12_champignons.jpg" 
+date: 2020-09-11 18:44
+description: Ce n'est pas à propos de Trump, c'est à propos de nous
+image: 2020-09-12_champignons.webp
+layout: post
+title: Trump comme triomphe de la société du spectacle
 ---
 
 Je me force à écrire cet article que j'ai en tête depuis de nombreux mois. La lecture, il y a quelques temps, des écrits de Guy Debord sur la notion de société du spectacle m'a forte inspiré dans mes réflexions récentes et je souhaite les partager ici.

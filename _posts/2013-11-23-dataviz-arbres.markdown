@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "Précis de visualisation de données: Google Fusion Tables et CartoDB"
-date: 2013-11-23 21:26
+categories:
+- Données & visualisation
 comments: true
-categories: ["Données & visualisation"]
-image: "2013-11-23-cartodb_arbres.png"
+date: 2013-11-23 21:26
+image: 2013-11-23-cartodb_arbres.webp
+layout: post
+title: 'Précis de visualisation de données: Google Fusion Tables et CartoDB'
 ---
 
 Le présent texte est un tutorie produit pour un atelier d'[EcoHackMtl](http://www.ecohackmtl.org/). Il vise à démontrer qu'il n'est pas nécessaire d'être un développeur ou d'avoir des compétences informatiques avancées pour faire de la visualisation des données géospatiales. Vous pouvez désormais essayer ces recettes dans le confort de votre chez vous. 
@@ -91,7 +92,7 @@ Ce point est facile à améliorer: cliquez sur le titre de l’onglet *map of la
 
 Sauvegardez les modifications et retournez voir les info-window dans le carte: c’est (un peu) mieux. (Ça pourrait encore être amélioré…)
 
-![Arbres de Ville-Marie avec GFT]({{ root_url }}/images/2013-11-23-gtf.png)
+![Arbres de Ville-Marie avec GFT]({{ root_url }}/images/2013-11-23-gtf.webp)
 <div class="photoattrib">Les arbres de Ville-Marie avec Google Fusion Table. <a href="https://www.google.com/fusiontables/DataSource?docid=1BSrAiEtlUe5AQ3IFI4GgpWnpfBNhc_PtJdDcXZ8">Source</a></div>
 
 Il serait également possible de modifier les icones en fonction de l'essence de l'arbre, mais c'est franchement pénible. Il faudrait créer une nouvelle colonne dans le tableau contenant le nom de l'icône à utiliser. 
@@ -128,7 +129,7 @@ Malheureusement, ce mécanisme certaines limitations (qui se comprennent quand s
 
 C'est notre cas ici: le fichier de la ville utilise une projection locale répondant au doux nom de Québec MTM Zone 8 - Mercator Transverse modifié ayant l'identifiant 2950 et utilisant le mètre comme unité. Nous voulons transformer cette projection en WGS84, le système de coordonnées du système GPS et qui utilise le degré comme unité.
 
-![What your favorite map projection says about you]({{ root_url }}/images/2013-11-23-xkcd.png)
+![What your favorite map projection says about you]({{ root_url }}/images/2013-11-23-xkcd.webp)
 <div class="photoattrib">Un peu d'humour de géomaticien<br/>What your favorite map projection says about you<br/>Source: <a href="http://xkcd.com/977/">xkcd</a></div>
 
 ### Un peu de magie
@@ -245,7 +246,7 @@ Donc nous allons assigner des couleurs spécifiques aux quatre essences les plus
 
 Voilà!
 
-![Arbres de Ville-Marie avec CartoDB]({{ root_url }}/images/2013-11-23-cartodb_arbres.png)
+![Arbres de Ville-Marie avec CartoDB]({{ root_url }}/images/2013-11-23-cartodb_arbres.webp)
 <div class="photoattrib">Les arbres de Ville-Marie avec CartoDB. <a href="http://cdb.io/1i5bLkn">Source</a></div>
 
 ### Forces et faiblesses de CartoDB

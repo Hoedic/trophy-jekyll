@@ -1,13 +1,14 @@
 ---
-layout: post
-title: "COVID19 - Une grande bifurcation pour nos sociétés"
-date: 2020-04-08 20:15
-description: "Nous sommes à l'aube de nombreux changements. Et il faut s'y préparer maintenant."
+categories:
+- Politique
 comments: true
-categories: ["Politique"]
-image: "2020-04-06_bifurcation.jpg" 
+date: 2020-04-08 20:15
+description: Nous sommes à l'aube de nombreux changements. Et il faut s'y préparer
+  maintenant.
+image: 2020-04-06_bifurcation.webp
+layout: post
+title: COVID19 - Une grande bifurcation pour nos sociétés
 ---
-
 
 Selon toute vraisemblance, la crise que nous vivons actuellement n'aura pas de solution facile et rapide. La principale solution, d'ordre médicale, est possiblement dans plusieurs mois. Pour retrouver un semblant de normalité (e.g sortir de chez nous), nous allons devoir prendre, dans les quelques semaines qui arrivent, des décisions qui auraient normalement pris des années à atterrir. Nous vivons à la fois dans un temps suspendu et accéléré. Ces décisions donneront naissance à une nouvelle normale. Ce processus de décision accélérée fera de la COVID-19 une grande bifurcation pour nos sociétés.
 
@@ -122,4 +123,3 @@ Deux choses me semblent certaines toutefois:
 
 > (...) le possible est "plus riche" que le réel. L'univers autour de nous doit être compris à partir du possible, non à partir d'un quelconque état initial dont il pourrait, de quelque manière, être déduit.
 > <div class="attrib">La fin des certitudes, Ilya Prigogine, 1996</div>
-

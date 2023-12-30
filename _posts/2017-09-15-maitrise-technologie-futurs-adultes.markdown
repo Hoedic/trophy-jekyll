@@ -1,12 +1,14 @@
 ---
-layout: post
-title: "La maîtrise de la technologie par les futurs adultes"
-date: 2017-09-15 09:50
-description: "De nouvelles initiatives visent à supporter l'alphabétisation numérique des jeunes Montréalais"
+categories:
+- Innovation & technologie
 comments: true
-categories: ["Innovation & technologie"]
-image: "2017-09-15-codecombat.png" 
-credit: "CodeCombat"
+credit: CodeCombat
+date: 2017-09-15 09:50
+description: De nouvelles initiatives visent à supporter l'alphabétisation numérique
+  des jeunes Montréalais
+image: 2017-09-15-codecombat.webp
+layout: post
+title: La maîtrise de la technologie par les futurs adultes
 ---
 
 Voilà environ deux ans que j'essaie d'aider mon plus grand fils à comprendre les technologies. Tout a commencé par un intérêt débordant pour [Minecraft](https://minecraft.net/) qui s'est rapidement transféré sur MCreator, un logiciel permettant de décompiler [Minecraft](https://mcreator.pylo.co/) pour en modifier le comportement via une interface graphique. La boîte de Pandore était ouverte: le développement informatique devenait une compétence prioritaire pour lui.

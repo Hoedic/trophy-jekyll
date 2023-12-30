@@ -1,11 +1,13 @@
 ---
-layout: post
-title: "Une sorte de manifeste personnel"
-date: 2020-02-01 14:48
-description: "Comment je compte agir à l'avenir pour contribuer à la réalisation d'un meilleur futur et autres considérations du genre"
+categories:
+- Politique
 comments: true
-categories: ["Politique"]
-image: "2020-01-09_bourgeon.jpg" 
+date: 2020-02-01 14:48
+description: Comment je compte agir à l'avenir pour contribuer à la réalisation d'un
+  meilleur futur et autres considérations du genre
+image: 2020-01-09_bourgeon.webp
+layout: post
+title: Une sorte de manifeste personnel
 ---
 
 Le terme manifeste est peut-être un peu grandiloquent, mais l'objectif d'ensemble est de structurer et de partager ce sur quoi je compte mettre mes énergies à l'avenir et notamment comment mon action dans le domaine de l'innovation municipale peut contribuer à réaliser un avenir désirable. Un [billet précédent]({{ root_url }}/2020/01/04/preambule-manifeste-personnel/) contenait plusieurs inspirations récentes, éléments certes théoriques, mais importants à mes yeux. Ce billet va se concentrer sur des éléments plus concrets.
@@ -41,7 +43,7 @@ Comme je l'expliquais dans l'article précédent, dans la série Fondation, Asim
 À défaut de psychohistoire, des cadres d'analyse existent pour nous aider dans notre tâche. Sur ce sujet, je vais m'appuyer sur le modèle dit _[Two loops](https://medium.com/@brittneebond/two-loops-model-9a3d52c7da4e)_, du Berkana Institue, que nous a présenté une collègue de Vancouver. Ce modèle est simple et n'a rien d'extraordinaire, mais il fournit une grille d'analyse sur ce qui nous entoure. Vous pouvez regarder une petite [vidéo](https://vimeo.com/17907928) pour mieux comprendre, mais grosso modo l'idée est que tout système dominant fini par plafonner puis décliner. Généralement, alors même que le modèle dominant atteint son apogée, des modèles alternatifs prennent naissance et se structurent progressivement, au point de finir par prendre le relais. On retrouve un modèle un peu similaire, appliqué aux entreprises et aux produits, dans le Dilemme de l'innovateur de Clayton Christensen.
 
 
-![Two loops!]({{ root_url }}/images/2020-01-20_Two-loop.png)
+![Two loops!]({{ root_url }}/images/2020-01-20_Two-loop.webp)
 
 Il est facile, dans ce modèle, de se concentrer sur la boucle émergente: c'est cool, c'est beau, en tant qu'innovateur, ça fait plaisir à l'esprit. Le modèle du Berkana Institute souligne toutefois l'importance de s'occuper de la boucle déclinante. Pourquoi? Parce qu'au sommet de sa gloire, beaucoup de personnes dépendent du modèle dominant et si on le laisse choir brutalement, ça peut être une dévastation pour de nombreuses personnes, ça peut même se traduire par la ruine d'une société. Par ailleurs, en cherchant à précipiter la chute du modèle dominant, on provoque également une réaction de défense du modèle qui va chercher à perdurer... augmentant ainsi les risques d'une chute brutale. Bref, le modèle Two loops nous invite à préparer des refuges (_giving hospice_) à ceux qui reposent sur le modèle dominant, à reconnaitre la contribution de ce modèle dominant et à conserver ce qu'il avait de bon et qui peut nourrir les nouveaux modèles (le compost). À partir de quoi, il est envisageable d'avoir une transition positive et riche de possibles pour le maximum de personnes.
 

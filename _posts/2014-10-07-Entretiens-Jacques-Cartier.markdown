@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "Villes intelligentes et porosité gouvernementale - Entretiens Jacques Cartier"
+categories:
+- Innovation & technologie
+- Politique
 date: 2014-10-07 21:38
-categories: ["Innovation & technologie", "Politique"]
-image: "2014-10-07-Entretiens.jpg"
+image: 2014-10-07-Entretiens.webp
+layout: post
+title: Villes intelligentes et porosité gouvernementale - Entretiens Jacques Cartier
 ---
 
 Hier j'ai eu le plaisir de participer à un panel sur les villes intelligentes dans le cadre des [Entretiens Jacques Cartier](http://www.centrejacquescartier.com/les-entretiens/). Je manque un peu de temps pour discuter plus en profondeur sur les échanges que j'ai eu avec mes co-panélistes: [Sylvie Daniel](https://www.itis.ulaval.ca/cms/site/itis/page80571.html), [Louise Guay](https://twitter.com/louiseguay) et [Jean-François Gauthier](http://ca.linkedin.com/in/jeanfrancoisgauthier) -j'aurais surement l'occaion d'y revenir. Mais je voulais au moins poster la présentation que j'ai donné (Formule [Pecha Kucha](http://en.wikipedia.org/wiki/PechaKucha))

@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "Le Social dilemma et le manque d'imagination"
-date: 2020-11-07 18:44
-description: "On ne résout pas un problème avec les modes de pensée qui l’ont engendré"
+categories:
+- Politique
 comments: true
-categories: ["Politique"]
-image: "2020-11-07_tours.jpg" 
+date: 2020-11-07 18:44
+description: On ne résout pas un problème avec les modes de pensée qui l’ont engendré
+image: 2020-11-07_tours.webp
+layout: post
+title: Le Social dilemma et le manque d'imagination
 ---
 
 [Pas](https://www.theverge.com/interface/2020/9/16/21437942/social-dilemma-netflix-review-orlowski-sarah-zhang-memo-facebook-buzzfeed) [mal](https://jacobinmag.com/2020/09/social-media-platform-capitalism-the-social-dilemma/
@@ -64,4 +65,3 @@ Les médias sociaux sont un exemple parmi d'autre, la "ville intelligente" un au
 
 > « Le langage des Maîtres parle à l'intérieur des hommes. Il a installé à l'intérieur du corps des sortes de récepteurs, et les ondes arrivent. Les gens, eux, croient qu'ils sont libres. Ils croient qu'ils choisissent leurs mots et leur pensée. Les gens croient que leur langage est à eux, et que personne ne sait ce qu'ils pensent. Ils croient qu'ils sont à l'abri. Il croient qu'ils sont dans des carapaces hermétiques et que rien ne peut y entrer. C'est ça qu'ils s'imaginent. Mais leurs corps sont transparents pour le regard des Maîtres du langage »
 > <div class="attrib">J.M.G Le Clezio, Les Géants, 1973. Cité par Simon Lévesque dans De la ville intelligente à la ville intelligible.</div>
-

@@ -1,11 +1,13 @@
 ---
-layout: post
-title: "Expérimentations GPTiennes: assistant vocal"
-date: 2023-04-05 00:00
-description: "GPT peut-il s'intégrer avec des outils comme Gmail? Et pourquoi le faire?"
+categories:
+- Donnees
+- Innovation & technologie
 comments: true
-categories: ["Donnees", "Innovation & technologie"]
-image: "2023-04-05_ciel.jpg" 
+date: 2023-04-05 00:00
+description: GPT peut-il s'intégrer avec des outils comme Gmail? Et pourquoi le faire?
+image: 2023-04-05_ciel.webp
+layout: post
+title: 'Expérimentations GPTiennes: assistant vocal'
 ---
 
 Dernière exploration avec GPT: est-il possible d'interfacer un [modèle de langage (LLM)](https://fr.wikipedia.org/wiki/Mod%C3%A8le_de_langage) avec des outils logiciels existants, par exemple pour envoyer des courriels? Et d'ailleurs pourquoi?
@@ -35,7 +37,7 @@ Le déclencheur de la séquence est un message vocal qui va comme suit (ceci est
 
 
 
-<img src="{{ root_url }}/images/2023-04-05_echange_telegram.png" alt="Échange via Telegram" style="width: 85%; margin:auto">
+<img src="{{ root_url }}/images/2023-04-05_echange_telegram.webp" alt="Échange via Telegram" style="width: 85%; margin:auto">
 <div class="photoattrib">Échange avec le bot Telegram</div>
 
 ## Comment ça marche

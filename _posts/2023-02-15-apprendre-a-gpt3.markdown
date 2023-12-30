@@ -1,11 +1,13 @@
 ---
-layout: post
-title: "Peut-on apprendre la sécurité routière à GPT-3?"
-date: 2023-02-19 00:00
-description: "Ou, les chatbots rêvent-ils de vélos électriques et de réglementation?"
+categories:
+- Donnees
+- Innovation & technologie
 comments: true
-categories: ["Donnees", "Innovation & technologie"]
-image: "2023-02-18_finetune_create.png" 
+date: 2023-02-19 00:00
+description: Ou, les chatbots rêvent-ils de vélos électriques et de réglementation?
+image: 2023-02-18_finetune_create.webp
+layout: post
+title: Peut-on apprendre la sécurité routière à GPT-3?
 ---
 
 Vivons-nous un moment iPhone ou Netscape avec ChatGPT? En 1994 ou 2006, ces deux technologies ne représentaient pas un bon technique extraordinaire, toutefois elles ouvraient un nouveau monde à notre imaginaire collectif et à notre quotidien. Il y a beaucoup à dire sur le potentiel, les limites et les dérives potentielles de ChatGPT et ses dérivés, toutefois dans ce billet je partage comment j'ai exploré de manière concrète le fonctionnement et la capacité d'apprentissage de cette technologie.
@@ -19,7 +21,7 @@ Par ailleurs, la déferlante ChatGPT m'a questionné sur deux points en particul
 
 
 
-<img src="{{ root_url }}/images/2023-02-18_meme_gpt3_startup.jpg" alt="Meme" style="width: 33%; margin:auto">
+<img src="{{ root_url }}/images/2023-02-18_meme_gpt3_startup.webp" alt="Meme" style="width: 33%; margin:auto">
 <div class="photoattrib">Startup en AI?</div>
 
 
@@ -77,7 +79,7 @@ J'ai fait 4 catégories de questions:
 
 Voici un tableau synthèse des résultats:
 
-![Synthèse des résultats]({{ root_url }}/images/2023-02-18_stats_gpt3.png)
+![Synthèse des résultats]({{ root_url }}/images/2023-02-18_stats_gpt3.webp)
 <div class="photoattrib">Performance des différents modèles</div>
 
 
@@ -87,7 +89,7 @@ Le perdant est le fine-tuning qui répond généralement *moins bien* que le GPT
 
 Voici une autre petite illustration des résultats de manière plus détaillée avec la note de chaque modèle (les lignes) pour chaque question (les colonnes):
 
-![Détail des résultats]({{ root_url }}/images/2023-02-18_detail_gpt3.png)
+![Détail des résultats]({{ root_url }}/images/2023-02-18_detail_gpt3.webp)
 <div class="photoattrib">Résultat de chaque modèle pour chaque question</div>
 
 Quelques remarques:
@@ -143,12 +145,12 @@ Pour faire marcher tout cela, il faut procéder en deux étapes: la préparation
 
 Pour la phase de préparation, on découpe le Code de sécurité routière par article et on envoie chaque article à l'API qui va nous retourner un vecteur que l'on peut stocker dans un fichier JSON combinant chaque article et son vecteur. Schématiquement, ça donne ceci:
 
-![Schéma de la phase préparatoire de l'embedding]({{ root_url }}/images/2023-02-18_schema_embedding_1.png)
+![Schéma de la phase préparatoire de l'embedding]({{ root_url }}/images/2023-02-18_schema_embedding_1.webp)
 <div class="photoattrib">Schéma de la phase préparatoire de l'embedding</div>
 
 Ensuite, quand on reçoit une question, on envoie également la question à l'API Embedding, qui nous renvoie un joli vecteur. Ensuite, on fait un produit vectoriel entre le vecteur question et tous les vecteurs articles et on classe le tout par proximité. Histoire d'être digeste, je sélectionne les articles les plus proches de sorte que la longueur des articles fournis en contexte ne dépasse pas 500 tokens. Et enfin on peut envoyer la question avec le contexte:
 
-![Schéma de la phase préparatoire de l'embedding]({{ root_url }}/images/2023-02-18_Schema_embedding_bis.png)
+![Schéma de la phase préparatoire de l'embedding]({{ root_url }}/images/2023-02-18_Schema_embedding_bis.webp)
 <div class="photoattrib">Schéma de la phase d'exécution de l'embedding</div>
 
 Bien franchement, je n'y croyais pas trop trop en me lançant dedans, mais la capacité de l'API Embedding à faire des rapprochements se traduit clairement par les bons chiffres de cette méthode comparativement aux autres. Possiblement qu'un texte de loi, facile à segmenter en article, est un cas d'utilisation particulièrement adapté, mais c'est tout de même significatif.
@@ -173,7 +175,7 @@ Ce fut quand même assez pénible et ChatGPT n'a pas toujours été un bon élè
 
 L'ensemble des questions-réponses fut formaté comme prescrit par OpenAI. Là, encore la magie d'un appel d'API permettant de créer un nouveau modèle GPT en envoyant les 150 exemples construits et de recevoir l'identifiant unique du modèle créé. Si vous êtes curieux, ici aussi, il existe des [recettes](https://www.youtube.com/watch?v=sIS_OgplWN8) prêtes à l'emploi, ou presque.
 
-![Schéma de la phase préparatoire du fine-tuning]({{ root_url }}/images/2023-02-18_Schema_finetune_1.png)
+![Schéma de la phase préparatoire du fine-tuning]({{ root_url }}/images/2023-02-18_Schema_finetune_1.webp)
 <div class="photoattrib">Schéma de la phase préparatoire du fine-tuning</div>
 
 
@@ -183,12 +185,12 @@ Pour le séparateur de fin de completion, qui doit être fourni comme paramètre
 
 Une fois qu'on a réalisé tout cela, il est possible d'interroger le modèle *fine-tuné* soit à travers un appel d'API, soit à travers le "[Playground](https://platform.openai.com/playground)", une interface graphique simple pour interagir avec GTP-3.
 
-![Schéma de la phase d'execution du fine-tuning]({{ root_url }}/images/2023-02-18_Schema_finetune_2.png)
+![Schéma de la phase d'execution du fine-tuning]({{ root_url }}/images/2023-02-18_Schema_finetune_2.webp)
 <div class="photoattrib">Schéma de la phase d'exécution du fine-tuning</div>
 
 Utiliser GPT-3 via Playground permet de comprendre d'autres choses; par exemple cette incapacité à citer correctement le numéro d'articles du Code. C'est déjà connu que les nombres ne sont pas la force de ChatGPT (et donc de GPT-3). Playground permet de faire apparaitre en code couleur la probabilité de chaque chaine de caractère tel que calculé par le modèle et même les alternatives envisagées. Voici un exemple ci-dessous:
 
-<img src="{{ root_url }}/images/2023-02-18_proba_gpt3.png" alt="Proba" style="width: 66%; margin:auto">
+<img src="{{ root_url }}/images/2023-02-18_proba_gpt3.webp" alt="Proba" style="width: 66%; margin:auto">
 <div class="photoattrib">Probabilité de chaque token produit</div>
 
 En vert, la probabilité de la chaine est élevée, plus on va vers le rouge et moins la probabilité de la chaine sélectionnée était élevée. Non seulement les nombres sont plus dans le rouge, mais plus on "avance" dans un nombre, moins le résultat est probable. Dans le cas ci-dessus, GPT-3 aurait aussi bien pu invoquer l'article 463, 486, ou encore 439.
@@ -198,7 +200,7 @@ Bien qu'un modèle comme GPT ne *comprenne* pas au sens cognitif ce qu'il écrit
 Bizarrement, on retrouve un phénomène similaire chez Midjourney qui peut être considéré comme la version visuelle de GPT. La kryptonite de MidJourney? Les lettres et les doigts, et plus précisément le nombre de doigts. 6, 9, 12 doigts… qu'est-ce que ça change?
 
 
-<img src="{{ root_url }}/images/2023-02-18_midjourney.jpg" alt="Langage des signes" style="width: 50%; margin:auto">
+<img src="{{ root_url }}/images/2023-02-18_midjourney.webp" alt="Langage des signes" style="width: 50%; margin:auto">
 <div class="photoattrib">Le langage des signes selon MidJourney. Source: <a href="https://www.facebook.com/photo/?fbid=10231392520257435&set=pcb.630755499058911">Jeff Foster</a></div>
 
 
@@ -214,4 +216,4 @@ Si je reviens à l'idée de l'utiliser pour comprendre la réglementation en urb
 
 D'autant que ChatGPT a un autre as dans sa manche: il est capable de soutenir une conversation assez longue et il possède une *mémoire de dialogue* comme il me l'a lui-même expliqué. Qu'est-ce que cela change? Lorsqu'on fait de l'embedding avec GPT-3, on atteint rapidement la limite de contexte qu'il est possible de lui fournir. Or la mémoire de dialogue de ChatGPT permettrait, en théorie, de lui envoyer tout le code de sécurité routière comme conversation et puis de le questionner à volonté et à tout moment sur ce contenu. Là encore ChatGPT m'a confirmé que cela serait théoriquement possible (dois-je le croire?)
 
-Il y aurait encore beaucoup à dire sur ce que j'ai appris en jouant ainsi avec GPT-3, toutefois ce texte est déjà assez long. Ce n'est là qu'un début, cette technologie va continuer d'évoluer de manière surprenante. Un prochain billet sera consacré à l'analyse de ChatGPT selon la lentille des principes d'innovation. 
+Il y aurait encore beaucoup à dire sur ce que j'ai appris en jouant ainsi avec GPT-3, toutefois ce texte est déjà assez long. Ce n'est là qu'un début, cette technologie va continuer d'évoluer de manière surprenante. Un prochain billet sera consacré à l'analyse de ChatGPT selon la lentille des principes d'innovation.

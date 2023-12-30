@@ -1,12 +1,12 @@
 ---
-layout: post
-title: "Notre futur technologique - Le moteur du changement"
-date: 2014-01-31 22:30
+categories:
+- Innovation & technologie
 comments: true
-categories: ["Innovation & technologie"] 
-image: "2014-01-31-cactus.jpg"
+date: 2014-01-31 22:30
+image: 2014-01-31-cactus.webp
+layout: post
+title: Notre futur technologique - Le moteur du changement
 ---
-
 
 Cet article est le deuxième d'une série en 6 parties
 
@@ -26,7 +26,7 @@ Comme l'expliquent plusieurs livres et articles, tout ceci se résume à une loi
 
 Dans [Race against the Machine](http://raceagainstthemachine.com/), les auteurs racontent une légende concernant l'inventeur du jeu d'échec qui enchanta l'Empereur de Chine en lui expliquant sa création. En guise de remerciement, l'empereur proposa à l'inventeur choisir le présent qu'il souhaitait. L'inventeur mis un grain riz sur la première case de l'échiquier, deux sur la seconde, et doublant ainsi de suite demanda autant de riz qu'en contiendrait la 64ème case. La demande semblait honnête et l'empereur accepta... jusqu'à ce que ses scribes executent le calcul et se rendent compte qu'à la 32ème case, cela représentait déjà un nombre immense (en l'occurrence 2 milliards de grain de riz, soit 40 tonnes de riz). En bout de ligne, la 64ème case aurait contenu 9 milliards de milliards de grains de riz (9.10<sup>18</sup>, environ 180 milliards de tonnes de riz ou encore, si je ne me trompe pas trop, une montage de riz d'environ 8km de haut et 10km de diamètre au sol), soit plus que toute la production mondiale de riz depuis l'avènement de l'agriculture (voir illustration ci-dessus).
 
-![Grains de riz]({{ root_url }}/images/2014-01-30-grains-riz.jpg)
+![Grains de riz]({{ root_url }}/images/2014-01-30-grains-riz.webp)
 <div class="photoattrib">Doublement du nombre de grains riz sur une échelle log</div>
 
 La conclusion des auteurs: l'entendement humain ne pas appréhender le concept de doublement récurrent qui rapidement amène des quantités simplement inimaginables --sérieusement, qui peut s'imaginer ce que représente 10<sup>18</sup>?). C'est ce que nous fait vivre l'informatique. Cette augmentation constante de la capacité à fourrer plus de transistors et diodes dans moins d'espace nous permet maintenant numériser le monde à grande échelle, d'amener dans le monde virtuel les concepts du réel. À partir de ce moment, ce n'est plus qu'une question de temps avec de pouvoir en faire ce qu'on veut.

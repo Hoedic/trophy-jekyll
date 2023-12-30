@@ -1,10 +1,12 @@
 ---
-layout: post
-title: "Des pierres, un google bus et un bon livre"
-date: 2016-10-23 21:36
+categories:
+- Innovation & technologie
+- Lecture
 comments: true
-categories: ["Innovation & technologie", "Lecture"]
-image: "2016-10-23_colere.jpg" 
+date: 2016-10-23 21:36
+image: 2016-10-23_colere.webp
+layout: post
+title: Des pierres, un google bus et un bon livre
 ---
 
 [Throwing rocks at the Google bus](http://www.rushkoff.com/books/throwing-rocks-at-the-google-bus/): voici un livre que j'ai failli abandonné après 70 pages; mais en bout de ligne je suis satisfait de l'avoir terminé. Malgré les louanges dont bénéficie Rushkoff, la lecture de Present Shock, à mes yeux un ramassis de constats certes intéressants mais sans cohérence, m'avait laissé de glace. J'étais près à retenter l'expérience considérant les thèmes annoncés de son dernier opus: technologie, croissance et prospérité. Malheureusement, le premier chapitre n'est qu'une empilade de lieux communs sur ces thèmes. Reprendre les thèses de [McAfee &  Brynjolfsson](http://raceagainstthemachine.com/), [Lanier](https://en.wikipedia.org/wiki/Who_Owns_the_Future%3F) ou encore [Piketty](https://fr.wikipedia.org/wiki/Le_Capital_au_XXIe_si%C3%A8cle) et les critiquer mollement en sortant des tartes à la crême comme le revenu univerisel garanti... la route paraissait devoir être longue pour obtenir une once de sagacité.

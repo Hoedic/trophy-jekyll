@@ -1,11 +1,13 @@
 ---
-layout: post
-title: "Qui paie la Ville? Densité, fiscalité & équité"
-date: 2022-05-30 20:00
-description: "La fiscalité municipale et la faible densité nous vouent-ils aux gémonies?"
+categories:
+- Politique
+- Données & visualisation
 comments: true
-categories: ["Politique", "Données & visualisation"]
-image: "2022-05-30_accueil_3d_montreal.jpg" 
+date: 2022-05-30 20:00
+description: La fiscalité municipale et la faible densité nous vouent-ils aux gémonies?
+image: 2022-05-30_accueil_3d_montreal.webp
+layout: post
+title: Qui paie la Ville? Densité, fiscalité & équité
 ---
 
 D’où vient l’argent des villes? Qui paie quoi? Combien? Pourquoi les villes [demandent des changements](https://www.lapresse.ca/affaires/economie/quebec/201805/16/01-5182131-impot-foncier-lunion-des-municipalites-du-quebec-sonne-lalarme.php) dans ce qui est leur principale source de revenu? Des questions a priori ennuyeuses et pourtant fondamentales pour la qualité de vie d’une majorité de Québécois (et de l’humanité) puisque désormais l’urbanité est le statut du plus grand nombre; à nous de décider si c'est pour le meilleur ou pour le pire.
@@ -51,7 +53,7 @@ Les données d'unité d'évaluation foncière permettent de catégoriser chaque 
 Pour donner une idée du volume, nous avons 499 784 unités foncières, d’une valeur de 226G$ et rapportant 3.6G$ pour 2021. Petite précision ici: on parle bien de la Ville de Montréal, ce qui exclut donc les villes dites liées: Ville Mont-Royal, Westmount, Baie d'Urfé et une douzaine d'autres.
 
 
-![Répartition des revenus fonciers par type d'usage]({{ root_url }}/images/2022-05-30_Repartition_par_usage.png)
+![Répartition des revenus fonciers par type d'usage]({{ root_url }}/images/2022-05-30_Repartition_par_usage.webp)
 <div class="photoattrib">Répartition des revenus fonciers par type d'usage pour la Ville de Montréal</div>
 
 
@@ -60,7 +62,7 @@ Pour donner une idée du volume, nous avons 499 784 unités foncières, d’une 
 J’explique dans la section méthodologie comment j’obtiens les résultats ci-dessous pour ceux que cela intéresse. À partir de là, le plus simple est de sauter directement les résultats avec des représentations graphiques. 
 
 
-![Revenus fonciers par km de rue]({{ root_url }}/images/2022-05-30_taxe_tot_ratio.jpg)
+![Revenus fonciers par km de rue]({{ root_url }}/images/2022-05-30_taxe_tot_ratio.webp)
 <div class="photoattrib">Tous revenus fonciers par kilomètre de rue</div>
 
 Pour comprendre carte: autant la couleur que la hauteur des blocs sont fonction des revenus fonciers par mètre de rue linéaire. En d’autres termes, ce qui est haut et blanc-jaune génère beaucoup de revenu par mètre de rue, en l’occurrence plus de 25 000$/m pour les zone les plus élevées, tandis que les zones rouge-ocre sont celles qui en génèrent le moins. Le rouge le plus sombre s’applique à des revenus de moins de 300$/m de rue. Chaque zone correspond à une aire de dissémination de Statistique Canada. Les aires de dissémination sont définies pour représenter à la fois une fourchette de population (entre 300 et 1500) et avoir une certaine cohérences socio-démographique. Le premier critère explique pourquoi certaines aires sont très étendues géographiquement: elles représentent relativement peu de monde, soit du fait que ce sont des zones industrielles, des parcs ou toute autre raison.
@@ -113,7 +115,7 @@ Si on fait une régression linéaire, à l’échelle des aires de disséminatio
 Pour pousser l’investigation un peu plus loin, j’ai essayé de faire des regroupements par fourchettes de salaire médian et ici on obtient un portrait plus intéressant qu’une régression linéaire ne peut effectivement pas capter:
 
 
-![Contribution foncière en fonction du salaire]({{ root_url }}/images/2022-05-30_contribution_salaire-1.png)
+![Contribution foncière en fonction du salaire]({{ root_url }}/images/2022-05-30_contribution_salaire-1.webp)
 <div class="photoattrib">Contribution foncière en fonction du salaire médian des ménages après impôts</div>
 
 
@@ -123,7 +125,7 @@ Les barres verticales jaunes fournissent une indication du nombre d’aires de d
 
 Comme on a pu le voir dans les visualisations précédentes, on note une forte disparité géographique entre un centre-ville étendu et les zones plus périphériques. Il est possible d’essayer de représenter celle-ci de manière statistique. De manière visuelle, il m’a semblé que ce centre-ville étendu s’étire de manière concentrique à partir du Mont-Royal à peu près. J’ai donc divisé les aires de dissémination, de manière quelque peu arbitraire, entre celles à moins de 7km du Mont-Royal et celles à plus de 7km, ce qui donne ceci:
 
-![Contribution foncière en fonction du salaire]({{ root_url }}/images/2022-05-30_contribution_salaire-2.png)
+![Contribution foncière en fonction du salaire]({{ root_url }}/images/2022-05-30_contribution_salaire-2.webp)
 <div class="photoattrib">Contribution foncière en fonction du salaire médian des ménages après impôts selon la proximité au centre de la ville</div>
 
 
@@ -191,10 +193,10 @@ Pour commencer, si on regarde du coté de Saint-Laurent, à un jet de pierre d�
 <table style="font-size: 85%; background: #fff;">
   <tr>
     <td>
-      <img src="{{ root_url }}/images/2022-05-30_StLaurent_bungalow.jpg"/>
+      <img src="{{ root_url }}/images/2022-05-30_StLaurent_bungalow.webp"/>
     </td>
     <td>
-      <img src="{{ root_url }}/images/2022-05-30_StLaurent_bloc.jpg"/>
+      <img src="{{ root_url }}/images/2022-05-30_StLaurent_bloc.webp"/>
     </td>
   </tr>
   <tr>
@@ -232,10 +234,10 @@ Dans la visualisation 3D des revenus fonciers par mètre de rue, une bonne parti
 <table style="font-size: 85%; background: #fff;">
   <tr>
     <td>
-      <img src="{{ root_url }}/images/2022-05-30_Outremont Revenus_eleves.jpg"/>
+      <img src="{{ root_url }}/images/2022-05-30_Outremont Revenus_eleves.webp"/>
     </td>
     <td>
-      <img src="{{ root_url }}/images/2022-05-30_CDN_faibles_revenus.jpg"/>
+      <img src="{{ root_url }}/images/2022-05-30_CDN_faibles_revenus.webp"/>
     </td>
   </tr>
   <tr>
@@ -270,10 +272,10 @@ Si on se tourne vers un quartier un peu plus central: Outremont et Cote-des-neig
 <table style="font-size: 85%; background: #fff;">
   <tr>
     <td>
-      <img src="{{ root_url }}/images/2022-05-30_ile-bizard.jpg"/>
+      <img src="{{ root_url }}/images/2022-05-30_ile-bizard.webp"/>
     </td>
     <td>
-      <img src="{{ root_url }}/images/2022-05-30_parc-ex.jpg"/>
+      <img src="{{ root_url }}/images/2022-05-30_parc-ex.webp"/>
     </td>
   </tr>
   <tr>
@@ -313,7 +315,7 @@ Comme le montre cet exemple, en matière de revenu foncier, la valeur élevée d
 <table style="width:50%; font-size: 85%; background: #fff; margin:auto;">
   <tr>
     <td>
-      <img src="{{ root_url }}/images/2022-05-30_centre-ville.jpg"/>
+      <img src="{{ root_url }}/images/2022-05-30_centre-ville.webp"/>
     </td>
   </tr>
   <tr>
@@ -348,7 +350,7 @@ Enfin, la statistique de revenu utilisé, le revenu *par ménage* soulève des q
 
 Là aussi je vais fournir une rapide indication que le nombre d’habitants dans une maison est certes important mais ne reverse pas les conclusions. J’ai fait une analyse complémentaire en calculant les revenus par mètre carré habitable et *par habitant*. Mis sur une carte nous obtenons ceci: 
 
-![Revenus fonciers par metre carré par habitant]({{ root_url }}/images/2022-05-30_empreinte_habitant.jpg)
+![Revenus fonciers par metre carré par habitant]({{ root_url }}/images/2022-05-30_empreinte_habitant.webp)
 <div class="photoattrib">Revenus fonciers par metre carré par habitant</div>
 
 Les zones les plus claires représentent des revenus inférieurs à 2$/m<sup>2</sup>/habitant, tandis que les zones plus foncées sont autour de 20$/m<sup>2</sup>/habitant. Encore une fois, on note des différences très significatives, même en intégrant le fait que les quartiers périphériques ont généralement plus d’habitant par logement.
@@ -449,6 +451,3 @@ Les graduations avec des intervalles constants permettent de bien voir les valeu
 - La suite [GDAL](https://gdal.org/) (ogr2ogr et shp2psql) pour le traitement et l’import des données
 - [Google Street View](https://www.google.ca/maps) pour illustrer les quartiers utilisés comme référence
 - Les outils (et cerveaux) d'[Anagraph](https://anagraph.io/)
-
-
-

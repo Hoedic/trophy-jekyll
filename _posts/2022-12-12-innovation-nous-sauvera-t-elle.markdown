@@ -1,11 +1,13 @@
 ---
-layout: post
-title: "L'innovation va-t-elle nous sauver?"
-date: 2022-12-12 00:00
-description: "Ou une certaine typologie de l'innovation"
+categories:
+- Politique
+- Innovation & technologie
 comments: true
-categories: ["Politique", "Innovation & technologie"]
-image: "2022-12-12_herbe_macro.jpg" 
+date: 2022-12-12 00:00
+description: Ou une certaine typologie de l'innovation
+image: 2022-12-12_herbe_macro.webp
+layout: post
+title: L'innovation va-t-elle nous sauver?
 ---
 
 [Geneviève](https://www.linkedin.com/in/genevi%C3%A8ve-leclerc-1b25a178/), [Alejandro](https://www.linkedin.com/in/alejandromartinezramos/) et [Simon](https://www.linkedin.com/in/simon-tr%C3%A9panier/) ont lancé une réflexion intéressante à laquelle je vais me permettre de contribuer, comme à l'âge d'or des blogues.
@@ -57,11 +59,3 @@ Je n'ai pas vraiment de crainte que nous allons continuer à produire des innova
 La bonne nouvelle, c’est qu’à l’image du mouvement des droits civiques, par exemple, on voit poindre de nouvelles perspectives: des auteurs comme Descola et d’autres ont débuté le travail de décentrage du modèle que lui-même nomme naturaliste pour penser d’autres modèles d’être au monde. Cela se fait en parallèle avec un intérêt et un rapprochement avec les modes de pensées traditionnels, parmi lesquels on retrouve les Premiers peuples nord-américains, qui à travers les siècles ont développé une attention aux relations qui est venue à nous manquer.  
 
 Est-ce que l'innovation va nous sauver? L'innovation de fonction seule peut surement repousser un précipice, éloigner un mal (les changements climatiques) au risque toutefois de n'en rendre que plus saillant un autre (crise de la démocratie). Si on accepte une innovation au sens plus large, qui nous amène dans la dimension du relationnel et de l’être au monde, il est possible d’entrevoir un effet en profondeur, de sortir de l’hubris du créateur-contrôleur et de retrouver des savoirs oubliés, de favoriser les équilibres et la régénération plutôt que des solutions. Certains diront qu’à ce stade-ci, le terme innovation n’est plus vraiment approprié; si tel est le cas, c’est possible que la notion d’innovation soit à classer dans la panoplie de l’hubris humain et à reléguer aux oubliettes.
-
-
-
-
-
-
-
-

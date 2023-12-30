@@ -1,13 +1,13 @@
 ---
-layout: post
-title: "COVID19 - Quelle stratégie pour le Québec"
-date: 2020-03-30 19:43
-description: "Où en est le Québec dans la gestion de la crise COVID-19"
+categories:
+- Données & visualisation
 comments: true
-categories: ["Données & visualisation"]
-image: "2020-03-30_evolution_log.png" 
+date: 2020-03-30 19:43
+description: Où en est le Québec dans la gestion de la crise COVID-19
+image: 2020-03-30_evolution_log.webp
+layout: post
+title: COVID19 - Quelle stratégie pour le Québec
 ---
-
 
 En quelques semaines, ce qui était une année mal commencée s'est transformé en un monde suspendu. L'ampleur des décisions prises à travers le monde pour arrêter la propagation d'un brin d'ARN piratant les cellules humaines dépasse certains romans d'anticipation. Et nous nous retrouvons tous là, dans l'expectative, à nous demander de quoi demain sera fait. 
 
@@ -98,7 +98,7 @@ C'est là que j'ai du mal avec l'expression d'aplanir la courbe. Quelle courbe? 
 
 L'évolution des cas de Norvège montre un exemple de progression ralentie du virus (même s'ils ont combiné plusieurs stratégie). Après le 10 mars, l'évolution du nombre de cas cumulatifs est linéaire, le nombre de nouveaux cas quotidien est relativement constant.
 
-![Evolution des cas de covid-19 en Norvège]({{ root_url }}/images/2020-03-30_evolution norvege.png)
+![Evolution des cas de covid-19 en Norvège]({{ root_url }}/images/2020-03-30_evolution norvege.webp)
 <div class="photoattrib">Évolution du cumulatif de cas de COVID-19 en Norvège. Source: <a href="https://www.worldometers.info/coronavirus/country/norway/">Worldometers</a></div>
 
 Quoiqu'il en soit, c'est dans cette stratégie que la distanciation sociale est importante. On n'arrête pas vivre, mais on arrête tout de même certaines activités plus propices au partage de virus et on garde une saine distance avec les autres. On protège aussi, par isolement, les populations les plus vulnérables. Cette stratégie permet de continuer à vivre à peu près normalement (en théorie) tout en gérant les cas qui apparaissent. C'est ce qui fut mis en place initialement au Québec avec l'interdiction des ressemblements et les fermeture d'école.

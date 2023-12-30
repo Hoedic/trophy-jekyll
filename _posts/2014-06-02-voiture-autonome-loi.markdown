@@ -1,13 +1,12 @@
 ---
-layout: post
-title: "Les enjeux de la voiture autonome"
-date: 2014-06-02 15:39
+categories:
+- Innovation & technologie
 comments: true
-categories: ["Innovation & technologie"] 
-image: "2014-06-02-course-morts.jpg"
+date: 2014-06-02 15:39
+image: 2014-06-02-course-morts.webp
+layout: post
+title: Les enjeux de la voiture autonome
 ---
-
-
 
 Téléscopage des échelles de temps: alors qu'on nous promet un nouveau pont au-dessus du Saint-Laurent d'ici 2018 et peut-être un système sur rail d'ici 2023, Google lance la production d'une mini-série de voiture autonome. Ce qu'on nous promettait pour dans une vingtaine d'année voilà deux ans est sur le point d'entrer en période de test intensif dans les mois à venir. On peut facilement comparer cela à la phase III des tests de médicament, celle qui précède la commercialisation.
 

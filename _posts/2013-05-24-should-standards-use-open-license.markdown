@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "Should open data standards use an open license?"
-date: 2013-05-24 21:04
+categories:
+- Innovation & technologie
 comments: true
-categories: ["Innovation & technologie"] 
-image: "2013-05-24-sable.jpg"
+date: 2013-05-24 21:04
+image: 2013-05-24-sable.webp
+layout: post
+title: Should open data standards use an open license?
 ---
 
 Earlier this month, Robin Berjon published a refreshing piece: [W3c specifications should use an open license](http://www.berjon.com/blog/2013/04/w3c-open-license.html). Insightful and right in my current subject of interest.
