@@ -1,6 +1,6 @@
 ---
 categories:
-- Perso
+- Personnel
 comments: true
 date: 2023-12-23 09:00
 description: Le long voyage d'une certaine pratique martiale
