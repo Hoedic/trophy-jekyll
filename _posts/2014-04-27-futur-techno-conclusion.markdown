@@ -16,8 +16,8 @@ Cet article est le dernier d'une série en 6 parties
 - 4ème partie: [La voiture autonome](/2014/02/10/voiture-autonome/)
 - 5ème partie: [Des sirènes et des plateformes](/2014/02/16/sirenes-plateformes/)
 - 6ème partie: [Conclusion](/2014/04/27/futur-techno-conclusion/)
-
---
+-
+-
 
 
 Personne n'a de boule de cristal et tous les potentiels technologiques ne deviendront pas nécessairment réalité. Loin s'en faut. Il apparait toutefois inévitable que les évolutions technologiques des dernières années couplées à des nouveaux modèles économiques sont porteurs de disruptions mettant en péril l'économie telle que nous la connaissons.
@@ -38,14 +38,4 @@ C'est l'impression que me donnent les changements technologiques et économiques
 
 ⁂
 
-> Que c'est une chose agréable<br/>
-> D'être sur le bord de la mer,<br/>
-> Quand elle vient à se calmer<br/>
-> Après quelque orage effroyable<br/>
-> Et que les chevelus tritons,<br/>
-> Hauts sur les vagues secouées,<br/>
-> Frappent les airs d'étranges tons<br/>
-> Avec leurs trompes enrouées,<br/>
-> Dont l'éclat rend respectueux<br/>
-> Les vents les plus impétueux!
-> <div class="attrib">Théophile de Viau, Le plaisir d'être au bord de la mer</div>
+> Que c'est une chose agréable<br/>> D'être sur le bord de la mer,<br/>> Quand elle vient à se calmer<br/>> Après quelque orage effroyable<br/>> Et que les chevelus tritons,<br/>> Hauts sur les vagues secouées,<br/>> Frappent les airs d'étranges tons<br/>> Avec leurs trompes enrouées,<br/>> Dont l'éclat rend respectueux<br/>> Les vents les plus impétueux!> <div class="attrib">Théophile de Viau, Le plaisir d'être au bord de la mer</div>

@@ -28,7 +28,6 @@ Les blocs Lego utilisés pour l'occasion:
 - Une interface me permettant d'envoyer des messages vocaux, de récupérer ces messages vocaux dans un script de ma conception (via une [API](https://fr.wikipedia.org/wiki/Interface_de_programmation)) et de renvoyer des réponses écrites à l'utilisateur. J'étais parti pour utiliser Discord, mais ça ne marchait pas à mon goût. En donnant mes contraintes à ChatGPT, il m'a conseillé [Telegram](https://telegram.org/) qui s'est avéré effectivement un très bon choix.
 - Un outil parole-vers-texte, là aussi pouvant être appelé par script/API, en l'occurrence le module [Whisper API](https://platform.openai.com/docs/guides/speech-to-text) d'OpenAI
 - Évidemment GPT et Gmail, les deux offrant là aussi des API pour être contrôlés par un script.
-
 Je m'étais fixé un objectif supplémentaire: avoir un mécanisme modulaire qui serait capable de recevoir d'autres commandes de manière flexible: par exemple, créer des événements dans un agenda, gérer des tâches, etc. J'ai donc mis en place un mécanisme de recette: un fichier de configuration définit l'ensemble des étapes et des fonctions à appeler pour réaliser une tâche particulière. 
 
 Résultat net: un succès, avec quelques bémols. Ci-dessous une capture d'écran montrant l'échange sur l'interface web de Telegram. 
@@ -54,14 +53,13 @@ Une fois la recette sélectionnée, une confirmation est envoyée à l'utilisate
 3. La requête de l'utilisateur est de nouveau envoyée à GPT avec l'instruction, cette fois-ci, de générer un titre et un contenu de courriel;
 4. Mon script produit un brouillon de courriel qui est envoyé à l'utilisateur via Telegram pour confirmation;
 5. Sur approbation de l'utilisateur, grâce un bouton oui/non, le courriel est envoyé.
-
 ## Est-ce que ça marche? 
 
-Ça fonctionne étonnamment bien, considérant que mon code ferait surement hurler un vrai développeur. De manière générale, GPT interprète de manière fiable les requêtes. Quand on lui fournit un canevas de réponse (ici une structure JSON avec des trous à remplir), il comprend toujours comment faire. Sur des dizaines d’essai, il a toujours bien procédé. Tel qu'expliqué dans la méthodologie, il a juste fallu que je gère les excès verbomoteurs de GPT.
+Ça fonctionne étonnamment bien, considérant que mon code ferait sûrement hurler un vrai développeur. De manière générale, GPT interprète de manière fiable les requêtes. Quand on lui fournit un canevas de réponse (ici une structure JSON avec des trous à remplir), il comprend toujours comment faire. Sur des dizaines d’essai, il a toujours bien procédé. Tel qu'expliqué dans la méthodologie, il a juste fallu que je gère les excès verbomoteurs de GPT.
 
-Je dois dire que Whisper API m'a aussi impressionné pour la transcription: à peu près pas d'erreur, il ôte les onomatopées diverses et variées et autres hésitations et arrive même à bien épelé la majorité des noms de famille.
+Je dois dire que Whisper API m'a aussi impressionné pour la transcription: à peu près pas d'erreur, il ôte les onomatopées diverses et variées et autres hésitations et arrive même à bien épeler la majorité des noms de famille.
 
-Mon produit est loin d’être « production ready », mais les quelques heures que j'ai passé dessus m'ont confirmé ce dont j'avais l'impression: la capacité de GPT à interpréter les demandes fait des LLM un candidat vraiment sérieux pour servir d'interface flexible. Vous me direz que Siri, Alexa et autres font déjà cela. C’est en partie vrai: Siri et Alexa font plus d'erreurs (à mes yeux) et surtout ce sont des systèmes pour lesquels il est plus difficile de s'intégrer. Ici, il est possible de faire des intégrations multiples et jusqu'à un certain point de contrôler ces intégrations. Nombre de plateformes proposent d'ores et déjà des fonctionnalités "AI-improved" et cela va surement exploser dans les prochains mois.
+Mon produit est loin d’être « production ready », mais les quelques heures que j'ai passé dessus m'ont confirmé ce dont j'avais l'impression: la capacité de GPT à interpréter les demandes fait des LLM un candidat vraiment sérieux pour servir d'interface flexible. Vous me direz que Siri, Alexa et autres font déjà cela. C’est en partie vrai: Siri et Alexa font plus d'erreurs (à mes yeux) et surtout ce sont des systèmes pour lesquels il est plus difficile de s'intégrer. Ici, il est possible de faire des intégrations multiples et jusqu'à un certain point de contrôler ces intégrations. Nombre de plateformes proposent d'ores et déjà des fonctionnalités "AI-improved" et cela va sûrement exploser dans les prochains mois.
 
 Évidemment, reste la question de la réelle fiabilité de la chose. C'est à travers des intégrations à grand volume qu'il sera possible d'évaluer réellement si la fiabilité est de l'ordre de 99% ou de 90%, la différence entre un bidule perçu comme fiable ou pas fiable. 
 

@@ -16,8 +16,8 @@ Cet article est le troisième d'une série en 6 parties
 - 4ème partie: [La voiture autonome](/2014/02/10/voiture-autonome/)
 - 5ème partie: [Des sirènes et des plateformes](/2014/02/16/sirenes-plateformes/)
 - 6ème partie: [Conclusion](/2014/04/27/futur-techno-conclusion/)
-
---
+-
+-
 
 
 
@@ -33,7 +33,6 @@ Dans The second machine age, les auteurs proposent deux types de technologies: c
 - Les technologies qui remplacent une industrie ou un modèle d'affaire au complet. C'est par exemple le cas des photos qui de manière croissante sont prises par des téléphones cellulaires et partagées en ligne, faisant disparaitre l'industrie de la pellicule photo et promettant un avenir difficile de l'industrie de la photo en général. Le cas du cheval entre dans cette catégorie. Dans ce cas, en plus de certains métiers spécifiques qui disparaissent, plusieurs emplois de support sont également supprimés.
 - Les technologies collaboratives ou de mise en contact: Ceci pourrait être considéré comme une sous catégorie des deux précédents, mais mérite tout de même sa place propre. Cette catégories est particulièrement bien représentée à l'ère d'Internet et les exemples ne manquent pas: [Airbnb](https://www.airbnb.ca/), [Bixi](https://bixi.com/), [Communauto](http://www.communauto.com/), [DuProprio](http://duproprio.com/), [Zoomission](http://www.zoomission.com/) ou encore [OkCupid](https://www.okcupid.com/). Et les effets sont variés. De nombreux métiers consistent à mettre les bonnes personnes en contact. Dans certains cas, ces technologies vont remplacer un intermédiaire humain existant, comme c'est le cas des agents d'immeuble avec DuProprio ou les agences matrimoniales pour OkCupid. Dans d'autres, cela peut durement affecter une industrie qui jouait le rôle de centralisateur du besoin alors que les technologies de mise en contact vont décentraliser le processus, c'est par exemple le cas de Airbnb et de l'industrie hotelière ou les sites de locations entre particuliers. Enfin, dans certains cas, cela ne fait que fluidifier le marché comme Zoomission qui met en contact les gens voulant faire des rénovations avec des entrepreneurs.
 - Les technologies d'aide aux humains. Souvent des algos capables d'ingérer de grandes quantités d'information peuvent aider les humains. On peut par exemple penser à des systèmes [aidant](http://www.ncbi.nlm.nih.gov/pubmed/22465077) les radiologues à extraire certains éléments pertinents sur des radiographies, mais pas au point de poser un diagnostic. Ces technologies sont moins anodines qu'il n'y parait: en "augmentant" un radiologue, il lui sera possible de traiter plus de cas donc, à terme, de faire que moins de personnes seront nécessaires à ce poste.
-
 Les modes d'action des technologies (pas juste informatique) sont vastes et peuvent donc affecter autant le travail d'individus spécifiques, de par leur métiers, que des industries entières. Maintenant, en quoi l'informatique (je serais tenté de dire la "numérique"), est-elle particulière.
 
 Première particularité, c'est une technologie à large spectre. Elle ne concerne pas seulement un domaine. L'automobile affectait surtout le transport, un secteur important, mais pas toute l'économie. Comme expliqué dans l'article précédent, les technologies de l'information affectent tout ce qui peut être exprimé et utilisé sous forme de bits, soit à peu près tout sauf ce qu'on mange. En d'autres termes, l'informatique peut faire subir à tous les domaines ce que l'automobile a fait au transport équestre. Les deux seules autres technologies ayant un tel spectre d'action sont la machine à vapeur et l'électricité.
@@ -46,5 +45,4 @@ Le prochain article traitera du potentiel d'innovation (et de destruction) de la
 
 ⁂
 
- > We haven't just weakened old-fashioned power mongers. We've weakened ourselves.
- > <div class="attrib">Jaron Lanier, Who owns the future</div>
+ > We haven't just weakened old-fashioned power mongers. We've weakened ourselves. > <div class="attrib">Jaron Lanier, Who owns the future</div>

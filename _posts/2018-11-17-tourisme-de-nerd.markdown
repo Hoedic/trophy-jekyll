@@ -27,13 +27,13 @@ Une fois sorti des transports en commun? Les taxis sont nombreux, peu couteux et
 Vélo-partage, c’est un peu plus difficile. Le système [Bicing](https://www.bicing.cat/) de Barcelone nécessite de s’inscrire annuellement. Pas d’option pour une journée ou quelques jours comme permet Bixi. Par ailleurs, les vélos ne donnent pas trop envie, vieux et dans un état discutable. J’ai noté qu’une offre électrique est en développement; ce sont des vélos de PBSC (les mêmes que Bixi), ce qui laisse peut-être entrevoir une transitions complète vers ce système. Les infrastructures cyclables semblent de qualité, mais c’est difficile de juger sans utilisation. Je dois dire que l’usage du vélo (incluant les Bicing) ne semblait pas délirant. Pourtant, avec une température clémente (15-20°C) et un ciel généralement bleu, rien n’aurait du limiter l’usage.
 
 
-![Aménagement type vélo-rue]({{ root_url }}/images/2018-11-17-supergrid.webp)
+![Aménagement type vélo-rue]({{ root_url}}/images/2018-11-17-supergrid.webp)
 
 Barcelone refuse les vélos en libre service sans ancrage mais ces derniers sont acceptés à L'hospitalet de llobregat, la ville voisine à se trouve le palais des congrès. Là encore, en matière d’intégration de l’offre, on a déjà vu mieux. À L’Hospitalet, j’ai également eu l’occasion de voir un stationnement à vélo sécurisé (des boites) que je n’ai pas vu à Barcelone.
 
-![Vélo en libre service à L'hospitalet de llobregat]({{ root_url }}/images/2018-11-17_mobike.webp)
+![Vélo en libre service à L'hospitalet de llobregat]({{ root_url}}/images/2018-11-17_mobike.webp)
 
-![Rangement à vélo à L'hospitalet de llobregat]({{ root_url }}/images/2018-11-17-range-velo.webp)
+![Rangement à vélo à L'hospitalet de llobregat]({{ root_url}}/images/2018-11-17-range-velo.webp)
 
 
 Dans l’ensemble l’expérience de transport est simple et agréable, bien que j’ai relativement peu utilisé l’offre pendant l’heure de pointe (ceci dit, même vers 17h-18h, ça semblait très raisonnable). Il est intéressant de noter que Barcelone a à peu près la même population que Montréal (1,6 vs 1,7 millions d’habitants) mais pour une superficie presque 4 fois moindre (100 vs 365km<sup>2</sup>) ce qui explique la facilité (et nécessité) d’avoir des infrastructures de transport en commun efficace. À vue de nez, la congestion ne semblait pas un problème outre mesure, mais d’après Tomtom, la métropole catalane est plus congestionnée que Montréal (ceci dit, j’ai toujours été sceptique sur l’[index du trafic de Tomtom](https://www.tomtom.com/en_gb/trafficindex/)). Bref, les comparaisons sont difficiles, mais ça vaut toujours la peine de regarder ce qui se fait ailleurs et en l’occurrence c’est très intéressant!

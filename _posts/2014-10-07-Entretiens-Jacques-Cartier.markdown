@@ -8,10 +8,10 @@ layout: post
 title: Villes intelligentes et porosité gouvernementale - Entretiens Jacques Cartier
 ---
 
-Hier j'ai eu le plaisir de participer à un panel sur les villes intelligentes dans le cadre des [Entretiens Jacques Cartier](http://www.centrejacquescartier.com/les-entretiens/). Je manque un peu de temps pour discuter plus en profondeur sur les échanges que j'ai eu avec mes co-panélistes: [Sylvie Daniel](https://www.itis.ulaval.ca/cms/site/itis/page80571.html), [Louise Guay](https://twitter.com/louiseguay) et [Jean-François Gauthier](http://ca.linkedin.com/in/jeanfrancoisgauthier) -j'aurais surement l'occaion d'y revenir. Mais je voulais au moins poster la présentation que j'ai donné (Formule [Pecha Kucha](http://en.wikipedia.org/wiki/PechaKucha))
+Hier j'ai eu le plaisir de participer à un panel sur les villes intelligentes dans le cadre des [Entretiens Jacques Cartier](http://www.centrejacquescartier.com/les-entretiens/). Je manque un peu de temps pour discuter plus en profondeur sur les échanges que j'ai eus avec mes co-panélistes: [Sylvie Daniel](https://www.itis.ulaval.ca/cms/site/itis/page80571.html), [Louise Guay](https://twitter.com/louiseguay) et [Jean-François Gauthier](http://ca.linkedin.com/in/jeanfrancoisgauthier) - j'aurais sûrement l'occasion d'y revenir. Mais je voulais au moins poster la présentation que j'ai donnée (Formule [Pecha Kucha](http://en.wikipedia.org/wiki/PechaKucha))
 
 <div style="margin:0 auto 10px auto; width:580px;"><iframe width="560" height="315" src="//www.youtube.com/embed/PoXrOWEPLwg" frameborder="0" allowfullscreen></iframe> </div>
-<div class="photoattrib" style="margin-bottom:5px"> <strong> <a href="https://www.youtube.com/watch?v=PoXrOWEPLwg#t=1160" title="Vers une porosité accrue - Stéphane Guidoin @ Entretiens Jacques Cartier" target="_blank">Vers une porosité accrue - Stéphane Guidoin @ Entretiens Jacques Cartier</a> </strong></div>
+<div class="photoattrib" style="margin-bottom:5px"> <strong> <a href="@@PROT5@@ title="Vers une porosité accrue - Stéphane Guidoin @ Entretiens Jacques Cartier" target="_blank">Vers une porosité accrue - Stéphane Guidoin @ Entretiens Jacques Cartier</a> </strong></div>
 
 Et le "script" (pour ceux qui préfèrent lire)
 
@@ -24,21 +24,21 @@ Aujourd'hui, je vais vous partager l'état de ma réflexion sur le sujet, quelqu
 
 ⁂
 
-Quand on parle d'organisation gouvernementale, la meilleure analogie est souvent une boite noire.
+Quand on parle d'organisation gouvernementale, la meilleure analogie est souvent une boîte noire.
 
-Et ce qu'il y a de commun entre la plupart des (bons) projets de ville intelligente, c'est de créer des échanges, d'augmenter la porosité de la boite. Je vous invite à explorer quelques exemples de cette porosité véhiculée par les technologies.
+Et ce qu'il y a de commun entre la plupart des (bons) projets de ville intelligente, c'est de créer des échanges, d'augmenter la porosité de la boîte. Je vous invite à explorer quelques exemples de cette porosité véhiculée par les technologies.
 
 ⁂
 
-Les hackathons sont ces événements où des gens se rassemblent pour résoudre des problèmes, souvent à l'aide de la technologie. Les hackathons sont souvent considérés pour leur résultats (des apps) mais c'est un leurre. 
+Les hackathons sont ces événements où des gens se rassemblent pour résoudre des problèmes, souvent à l'aide de la technologie. Les hackathons sont souvent considérés pour leurs résultats (des apps) mais c'est un leurre. 
 
 L'important c'est le processus: agile, dynamique, itératif. Mais le mieux, c'est lorsque des employés gouvernementaux viennent participer... et contaminent leurs organisations.
 
 ⁂
 
-Comme ça se traduit? Par exemple la ville d’Ottawa ou le gouvernement fédéral organisent des événements de [speed dating](http://www.gtec.ca/open-data-speed-dating-at-gtec-2013/) pour mettre en relation utilisateurs de données ouvertes et employés gouvernementaux.
+Comment ça se traduit ? Par exemple la ville d’Ottawa ou le gouvernement fédéral organisent des événements de [speed dating](http://www.gtec.ca/open-data-speed-dating-at-gtec-2013/) pour mettre en relation utilisateurs de données ouvertes et employés gouvernementaux.
 
-Ou encore lorsque la ville d'Honolulu organise un [Write-a-thon](http://www.codeforamerica.org/blog/2012/08/13/honolulu-answers/), un événement de co-rédaction où les citoyens participent à rédaction des fiches d’informations de la ville à l'attenion du publique pour qu'elles soient rédigées dans un langage accessible.
+Ou encore lorsque la ville d'Honolulu organise un [Write-a-thon](http://www.codeforamerica.org/blog/2012/08/13/honolulu-answers/), un événement de co-rédaction où les citoyens participent à la rédaction des fiches d’informations de la ville à l'attention du public pour qu'elles soient rédigées dans un langage accessible.
 
 ⁂
 
@@ -57,24 +57,24 @@ Mais ce que j’aime le plus, c’est l’[accord](http://www.forbes.com/sites/p
 
 ⁂
 
-Porosité dans les processus de résolution de problème: La ville de Philadelphie participe à [Fast-Fwd](http://fast-fwd.org/about/), un accelerateur d'innovations urbaines. 
-Philadelphie y contribue en amenant du financement, des ressources humaines… et ses problèmes... Toute sorte de problème: logement, réinsertion des prisonier et j’en passe.
+Porosité dans les processus de résolution de problème: La ville de Philadelphie participe à [Fast-Fwd](http://fast-fwd.org/about/), un accélérateur d'innovations urbaines. 
+Philadelphie y contribue en amenant du financement, des ressources humaines… et ses problèmes... Toutes sortes de problèmes: logement, réinsertion des prisonniers et j’en passe.
 
 ⁂
 
-On parle aussi de processus de consultation en ligne qui utilisent l'interactivité pour rendre des problématique plus concrètes et pour attirer plus de monde. 
+On parle aussi de processus de consultation en ligne qui utilisent l'interactivité pour rendre des problématiques plus concrètes et pour attirer plus de monde. 
 
 Nord Ouvert fait des [consultations budgétaires](http://www.budgetcitoyen.com/) avec beaucoup de succès, et nous avons aussi collaboré avec le Living Lab sur des [consultations](http://www.quartierdelagare.ca/) en aménagement du territoire.
 
 ⁂
 
-Enfin les technologies peuvent créer une relation parmi les citoyens. Par exemple l’outil 311 utilisé par New Haven permet aux autres citoyens de commenter ou répondre aux demandes. Pour un [cas](http://techpresident.com/news/25206/civic-tech-and-engagement-how-seeclickfix-changing-fabric-local-reality) de chien abandonné, non seulement un citoyen est allé s'en occuper, mais cela a déclencher une discussion plus large.
+Enfin les technologies peuvent créer une relation parmi les citoyens. Par exemple l’outil 311 utilisé par New Haven permet aux autres citoyens de commenter ou répondre aux demandes. Pour un [cas](http://techpresident.com/news/25206/civic-tech-and-engagement-how-seeclickfix-changing-fabric-local-reality) de chien abandonné, non seulement un citoyen est allé s'en occuper, mais cela a déclenché une discussion plus large.
 
-Ça (re)créé un lien entre les citoyens... via la technologie.
+Ça (re) crée un lien entre les citoyens... via la technologie.
 
 ⁂
 
-Tout ces exemples pour quoi? Pour faire ressortir 4 modes d’interaction.
+Tous ces exemples, pour quoi ? Pour faire ressortir 4 modes d’interaction.
 
 Le mode classique de communication où la technologie permet de personnaliser pour ne communiquer que l'information pertinente. C'est par exemple ce que vise le défi info-neige.
 
@@ -120,17 +120,17 @@ Cet article, [People, not data](https://medium.com/@lippytak/people-not-data-474
 
 Il est facile de se cacher derrière son écran et se donner l’impression de comprendre la ville. J’y ai cru moi-même.
 
-Mais si New York ou Boston ont réussi à progresser, c’est qu’ils ont su utiliser les données pour donner plus d’informations à leurs employés sans pour autant essayer de les controler plus. Ils leur ont donné du contexte pour agir plus librement.
+Mais si New York ou Boston ont réussi à progresser, c’est qu’ils ont su utiliser les données pour donner plus d’informations à leurs employés sans pour autant essayer de les contrôler plus. Ils leur ont donné du contexte pour agir plus librement.
 
 ⁂
 
-Enfin, il faut être conscient que les données et les indicateurs sont aveugles à ce pour quoi ils n’ont pas été desginé. Surtout ils sont aveugles à ce que *souhaitent* les gens.
+Enfin, il faut être conscient que les données et les indicateurs sont aveugles à ce pour quoi ils n’ont pas été conçus. Surtout, ils sont aveugles à ce que *souhaitent* les gens.
 
 Le principal risque avec les approches orientées « performance » c’est de chercher à optimiser non pas ce que les gens veulent, mais ce qu’on les voit faire, parfois par dépit.
 
 ⁂
 
-N'allez pas croire qu’il ne faut pas utiliser de données ou d’indicateur.Sinon, je viens de me mettre au chômage! Mais il faut comprendre le rôle de chacun.
+N'allez pas croire qu’il ne faut pas utiliser de données ou d’indicateur. Sinon, je viens de me mettre au chômage! Mais il faut comprendre le rôle de chacun.
 
 Les métriques, les indicateurs, la performance, c’est le quantitatif, c’est le squelette que nous bâtissons
 

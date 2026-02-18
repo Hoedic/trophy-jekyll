@@ -16,7 +16,7 @@ Pourtant quand je me regarde dans le miroir le matin, je suis content de mon tra
 
 ## À propos de moi
 
-Je ne me suis jamais vu comme ayant le potentiel d'être fonctionnaire. Avant d'être à la Ville de Montréal, j'ai principalement travaillé dans des organisations relativement  petites (entre 3 et 200 personnes) sauf un douloureux et court passage dans une grande firme de consultation au début de ma carrière. J'ai toujours valorisé l'autonomie dans mon travail, ce qui ne me prédisposait pas, a priori, à travailler dans une bureaucratie, publique ou privée. Enfin j'ai souvent besoin de "nouveaux défis" ce qui ne m'amène pas à penser ma carrière dans une même organisation. Bref, je suis venu à la fonction publique par intérêt pour ma ville.
+Je ne me suis jamais vu comme ayant le potentiel d'être fonctionnaire. Avant d'être à la Ville de Montréal, j'ai principalement travaillé dans des organisations relativement petites (entre 3 et 200 personnes) sauf un douloureux et court passage dans une grande firme de consultation au début de ma carrière. J'ai toujours valorisé l'autonomie dans mon travail, ce qui ne me prédisposait pas, a priori, à travailler dans une bureaucratie, publique ou privée. Enfin j'ai souvent besoin de "nouveaux défis" ce qui ne m'amène pas à penser ma carrière dans une même organisation. Bref, je suis venu à la fonction publique par intérêt pour ma ville.
 
 Le contraste entre la perception négative véhiculée et mon quotidien m'a particulièrement frappé récemment alors que j'ai assisté au départ à la retraite de plusieurs "piliers" de l'organisation. Des personnes qui ont dédié leur vie à leur ville et qui ont le citoyen tatoué sur le cœur. J'ai découvert des personnes qui avaient poussé corps et âmes pour des grands projets, comme la transformation du centre d'enfouissement Miron, une des pires balafres sur l’île en ce qui est maintenant le parc Frédéric-Back, un des plus grand parc de Montréal avec celui du Mont-Royal. J'ai compris que bien des personnes qui restent à la ville pendant toute leur carrière le font plus par conviction que par peur du privé ou en pensant à leur retraite. Est-ce que les ronds de cuir existent? Oui, certainement! Est-ce que c'est la norme: non.
 
@@ -50,7 +50,7 @@ Je parlais plus haut des délégations. On ne se rend pas compte du nombre de vi
 
 Je n'ai pas la prétention de faire que le monde va changer massivement d'avis au sujet des fonctionnaires, mais j'espère que certains regarderont les choses un peu différemment lorsqu'ils entendront parler de la fonction publique, qu'ils verront les projets qui se font dans la rue comme le travail de personnes qui croient en ce qu'elles font. Ce serait déjà un bon début!
 
----
+--
+-
 
-> (...) dans une bureaucratie pleinement développée, il ne reste plus personne avec qui l’on puisse discuter, à qui l’on puisse présenter des griefs, sur qui les pressions du pouvoir pourraient être exercées. 
-> <div class="attrib">Hannah Arendt, Du mensonge à la violence</div>
+> (...) dans une bureaucratie pleinement développée, il ne reste plus personne avec qui l’on puisse discuter, à qui l’on puisse présenter des griefs, sur qui les pressions du pouvoir pourraient être exercées. > <div class="attrib">Hannah Arendt, Du mensonge à la violence</div>

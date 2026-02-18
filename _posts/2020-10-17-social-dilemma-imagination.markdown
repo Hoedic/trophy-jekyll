@@ -10,16 +10,14 @@ title: Le Social dilemma et le manque d'imagination
 ---
 
 [Pas](https://www.theverge.com/interface/2020/9/16/21437942/social-dilemma-netflix-review-orlowski-sarah-zhang-memo-facebook-buzzfeed) [mal](https://jacobinmag.com/2020/09/social-media-platform-capitalism-the-social-dilemma/
-) [d'encre](http://www.gregorybufithis.com/2020/10/10/a-critique-of-the-netflix-film-the-social-dilemma/) a coulé suite à la sortie de [The Social Dilemma / Derrière nos écrans de fumée](https://fr.wikipedia.org/wiki/Derri%C3%A8re_nos_%C3%A9crans_de_fum%C3%A9e). Je crois en la vertu pédagogique de ce docu-film, malgré quelques énormités -à commencer par le le fait que la plateforme qui le présente en "exclusivité" est coupable de certains vices qui y sont dénoncés et que plus généralement le film lui-même utilse certains principes (de manipulation narrative) qu'il dénonce. Toutefois j'aimerais aller un peu plus loin que les critiques que j'ai pu lire sur le sujet. 
+) [d'encre](http://www.gregorybufithis.com/2020/10/10/a-critique-of-the-netflix-film-the-social-dilemma/) a coulé suite à la sortie de [The Social Dilemma / Derrière nos écrans de fumée](https://fr.wikipedia.org/wiki/Derri%C3%A8re_nos_%C3%A9crans_de_fum%C3%A9e). Je crois en la vertu pédagogique de ce docu-film, malgré quelques énormités - à commencer par le fait que la plateforme qui le présente en "exclusivité" est coupable de certains vices qui y sont dénoncés et que plus généralement le film lui-même utilise certains principes (de manipulation narrative) qu'il dénonce. Toutefois j'aimerais aller un peu plus loin que les critiques que j'ai pu lire sur le sujet. 
 
 À leur corps défendant, les "acteurs" (au sens que tout en essayant de prendre un air naturel, ils jouent "leur" rôle) de ce film exemplifient une limite fondamentale de la manière d'appréhender bien des problèmes de nature technologique.
 
-> « On ne résout pas un problème avec les modes de pensée qui l’ont engendré »
-> <div class="attrib">Albert Einstein</div>
-
+> « On ne résout pas un problème avec les modes de pensée qui l’ont engendré »> <div class="attrib">Albert Einstein</div>
 Citation on ne peut plus classique qui saute aux yeux en regardant ces ex-hauts cadres de grandes entreprises essayer de fournir des réponses aux problèmes qu'ils ont activement participé à créer -et dont ils ont retiré des fruits bien juteux.
 
-Les modes de pensées peuvent être considéré à différentes échelles. Ici, il faut le prendre au plus large: la situation critiquée par les intervenants du film ne sont pas la panacée de Facebook et Twitter. Plusieurs critiques ont déjà souligné que les problèmes d'addiction, de terreau pour les extrêmismes divers, de division sociale, etc. ne sont pas propres aux géants de web. Au mieux ces derniers ont industrialisé des principes pré-existant, des principes qui continuent à vivre à plus petite échelle sur toutes sortes de forums, de chats et de sites variés -ça ne dédouane pas pour autant le géants du web.
+Les modes de pensées peuvent être considérés à différentes échelles. Ici, il faut le prendre au plus large: la situation critiquée par les intervenants du film n'est pas la panacée de Facebook et Twitter. Plusieurs critiques ont déjà souligné que les problèmes d'addiction, de terreau pour les extrêmismes divers, de division sociale, etc. ne sont pas propres aux géants du web. Au mieux ces derniers ont industrialisé des principes préexistants, des principes qui continuent à vivre à plus petite échelle sur toutes sortes de forums, de chats et de sites variés - ça ne dédouane pas pour autant les géants du web.
 
 Bref, les protagonistes présentés sont un peu trop dans leur monde, dans le même mode de pensée que celui qui a engendré la situation actuelle, pour pouvoir fournir ne serait-ce qu'une analyse sérieuse. Sans prétendre pouvoir moi-même fournir une analyse sérieuse et complète, voici tout de même quelques pistes importantes et qui nous invitent surtout à regarder ailleurs que les vire-capots du Social Dilemma.
 
@@ -27,7 +25,7 @@ Bref, les protagonistes présentés sont un peu trop dans leur monde, dans le m�
 
 Premièrement, il est impensable de faire une critique de la situation des géants du web sans faire une critique du capitalisme. Le sujet est abordé du bout des lèvres dans le documentaire et pourtant... Si vous voulez une réflexion plus approfondie, vous pouvez lire l'[analyse](https://thebaffler.com/latest/capitalisms-new-clothes-morozov) de Evgeny Morozov sur le concept de Capitalisme de surveillance de Soshana Zubov (présente dans le film); cette dernière semble tout mettre sur le dos de la surveillance en oubliant un peu trop qu'elle utilise elle-même le terme capitalisme, pourtant central dans tout ceci: la surveillance est *au service* du système capitaliste.
 
-On peut bien décortiquer les technologies, les outils, les décisions (ou leur absence de décision) des plateformes sociales (et d'autres), ignorer le système économique dans lequels elles évoluent amène à passer à coté du gros de la réflexion...
+On peut bien décortiquer les technologies, les outils, les décisions (ou leur absence de décision) des plateformes sociales (et d'autres), ignorer le système économique dans lequel elles évoluent amène à passer à côté du gros de la réflexion...
 
 ### Biais de confirmation et vision techno-déterministe
 
@@ -35,7 +33,7 @@ Les protagonistes semblent trop croire à leur propre modèle explicatif, celui 
 
 Ce faisant, les acteurs donne un effet dramatique au documentaire. Ça marche, c'est poignant, le personne central des séquences fictives répond parfaitement aux "nudges" du réseau social. Cette manière d'aborder la situation ne fait que participer à l'exagération de l'impact de ces plateformes plutôt que de contextualiser correctement leur influence.
 
-Leur propos renforce ainsi la vision techno-déterministe voire transhumaniste selon laquelle la technologie va "manger" l'humain. Les algo sont désormais si puissants qu'ils sont en mesure de dépasser l'entendement l'humain. Dans ce contexte, l'humain ne devient qu'une pauvre petite chose, manipulé par un marionnetiste invisible --marionnetiste-algorithme dont les créateurs auraient eux-mêmes plus ou moins perdu le controle. C'est évidemment une vision horriblement réductrice: ce n'est pas parce qu'un système basé sur de l'apprentissage automatisé peut extraire de l'information dans une quantité d'information inaccessible par un humain que l'humain devient sans défense.
+Leur propos renforce ainsi la vision techno-déterministe voire transhumaniste selon laquelle la technologie va "manger" l'humain. Les algo sont désormais si puissants qu'ils sont en mesure de dépasser l'entendement l'humain. Dans ce contexte, l'humain ne devient qu'une pauvre petite chose, manipulé par un marionnetiste invisible --marionnetiste-algorithme dont les créateurs auraient eux-mêmes plus ou moins perdu le contrôle. C'est évidemment une vision horriblement réductrice: ce n'est pas parce qu'un système basé sur de l'apprentissage automatisé peut extraire de l'information dans une quantité d'information inaccessible par un humain que l'humain devient sans défense.
 
 ### Penser autrement 
 
@@ -56,12 +54,12 @@ Un mode de pensée est une choses ancrée très profondément. Il n'y a pas de b
 Pour revenir au Social Dilemma, cette réflexion nous informe sur quelques éléments: 
 
 1. Les pistes proposées (assez peu nombreuses par ailleurs) par les protagonistes ne peuvent suffire;
-2. Les meilleures pistes seront surement celles qui incarnent une diversité de modes de pensée;
+2. Les meilleures pistes seront sûrement celles qui incarnent une diversité de modes de pensée;
 3. Aborder sérieusement les enjeux des réseaux sociaux et des géants du web impliquera la remise en cause de bien plus que simplement les algo ou même les modèles d'affaires des plateformes concernées.
-
 Les médias sociaux sont un exemple parmi d'autre, la "ville intelligente" un autre exemple; dans les deux cas les "praticiens" de ces domaines ne peuvent être ceux qui fournissent la réponse au problèmes qu'ils créent.
 
----
+--
+-
 
-> « Le langage des Maîtres parle à l'intérieur des hommes. Il a installé à l'intérieur du corps des sortes de récepteurs, et les ondes arrivent. Les gens, eux, croient qu'ils sont libres. Ils croient qu'ils choisissent leurs mots et leur pensée. Les gens croient que leur langage est à eux, et que personne ne sait ce qu'ils pensent. Ils croient qu'ils sont à l'abri. Il croient qu'ils sont dans des carapaces hermétiques et que rien ne peut y entrer. C'est ça qu'ils s'imaginent. Mais leurs corps sont transparents pour le regard des Maîtres du langage »
-> <div class="attrib">J.M.G Le Clezio, Les Géants, 1973. Cité par Simon Lévesque dans De la ville intelligente à la ville intelligible.</div>
+> « Le langage des Maîtres parle à l'intérieur des hommes. Il a installé à l'intérieur du corps des sortes de récepteurs, et les ondes arrivent. Les gens, eux, croient qu'ils sont libres. Ils croient qu'ils choisissent leurs mots et leur pensée. Les gens croient que leur langage est à eux, et que personne ne sait ce qu'ils pensent. Ils croient qu'ils sont à l'abri. Il croient qu'ils sont dans des carapaces hermétiques et que rien ne peut y entrer. C'est ça qu'ils s'imaginent. Mais leurs corps sont transparents pour le regard des Maîtres du langage »> <div class="attrib">J. M. G Le Clezio, Les Géants, 1
+973. Cité par Simon Lévesque dans De la ville intelligente à la ville intelligible.</div>

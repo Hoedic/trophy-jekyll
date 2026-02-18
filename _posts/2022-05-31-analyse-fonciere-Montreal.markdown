@@ -44,16 +44,17 @@ Avant de me lancer dans le contenu, j’ajoute qu’en cours d’analyse, l’é
 ## Une vue à 30 000 pieds d’altitude
 En l’absence de données de dépenses géolocalisées, j’ai utilisé un proxy pour évaluer les revenus par “unité de dépense d'infrastructure", à savoir des kilomètres linéaires de rue. Pour le dire plus concrètement: pour l'analyse principale, je vais évaluer le nombre de dollars générés par mètre linéaire de rue dans différents secteurs. Dans une section de discussion des résultats, je vais élaborer un peu plus en détail ce choix mais pour l'expliquer le plus simplement possible, un mètre de rue représente une approximation facile pour les dépenses les plus liées à la forme de la ville, notamment voirie et réseaux d’eaux qui représentent 55% du budget d’investissement de la ville. Ceci va donner des dollars de revenu foncier par mètre linéaire de rue qui seront regroupés par quartiers, en l’occurrence les aires de dissémination de Statistique Canada. 
 
-Avant d'entrer dans la présentation des résultats, il est important de préciser que cette analyse n'est pas une critique ou une reconnaissance du mode de vie en fonction d'où vivent  les gens, ce n'est pas une critique sociale. C'est une contribution à la réflexion sur les politiques publiques, plus précisément quels sont les incitatifs et les contradictions créés par les politiques en place et l'impôt foncier en particulier. 
+Avant d'entrer dans la présentation des résultats, il est important de préciser que cette analyse n'est pas une critique ou une reconnaissance du mode de vie en fonction d'où vivent les gens, ce n'est pas une critique sociale. C'est une contribution à la réflexion sur les politiques publiques, plus précisément quels sont les incitatifs et les contradictions créés par les politiques en place et l'impôt foncier en particulier. 
 
 ### Quelques statistiques d'ensemble
 
 Les données d'unité d'évaluation foncière permettent de catégoriser chaque unité en fonction de son usage: résidentiel, commercial, industriel, etc. Le gros de la discussion sur les villes se concentre sur le résidentiel; c'est effectivement ce qui a le plus d'impact sur tout un chacun. Toutefois, le résidentiel n'est qu'une partie de l'histoire puisque que seulement la moitié des revenus viennent du résidentiel (1.8G$ pour le résidentiel et le même chiffre pour le non résidentiel). Le non-résidentiel a donc une part non négligeable qui mériterait aussi d’être analysé.
 
-Pour donner une idée du volume, nous avons 499 784 unités foncières, d’une valeur de 226G$ et rapportant 3.6G$ pour 2021. Petite précision ici: on parle bien de la Ville de Montréal, ce qui exclut donc les villes dites liées: Ville Mont-Royal, Westmount, Baie d'Urfé et une douzaine d'autres.
+Pour donner une idée du volume, nous avons 499 784 unités foncières, d’une valeur de 226G$ et rapportant 3.6G$ pour 2
+021. Petite précision ici: on parle bien de la Ville de Montréal, ce qui exclut donc les villes dites liées: Ville Mont-Royal, Westmount, Baie d'Urfé et une douzaine d'autres.
 
 
-![Répartition des revenus fonciers par type d'usage]({{ root_url }}/images/2022-05-30_Repartition_par_usage.webp)
+![Répartition des revenus fonciers par type d'usage]({{ root_url}}/images/2022-05-30_Repartition_par_usage.webp)
 <div class="photoattrib">Répartition des revenus fonciers par type d'usage pour la Ville de Montréal</div>
 
 
@@ -62,12 +63,12 @@ Pour donner une idée du volume, nous avons 499 784 unités foncières, d’une 
 J’explique dans la section méthodologie comment j’obtiens les résultats ci-dessous pour ceux que cela intéresse. À partir de là, le plus simple est de sauter directement les résultats avec des représentations graphiques. 
 
 
-![Revenus fonciers par km de rue]({{ root_url }}/images/2022-05-30_taxe_tot_ratio.webp)
+![Revenus fonciers par km de rue]({{ root_url}}/images/2022-05-30_taxe_tot_ratio.webp)
 <div class="photoattrib">Tous revenus fonciers par kilomètre de rue</div>
 
 Pour comprendre carte: autant la couleur que la hauteur des blocs sont fonction des revenus fonciers par mètre de rue linéaire. En d’autres termes, ce qui est haut et blanc-jaune génère beaucoup de revenu par mètre de rue, en l’occurrence plus de 25 000$/m pour les zone les plus élevées, tandis que les zones rouge-ocre sont celles qui en génèrent le moins. Le rouge le plus sombre s’applique à des revenus de moins de 300$/m de rue. Chaque zone correspond à une aire de dissémination de Statistique Canada. Les aires de dissémination sont définies pour représenter à la fois une fourchette de population (entre 300 et 1500) et avoir une certaine cohérences socio-démographique. Le premier critère explique pourquoi certaines aires sont très étendues géographiquement: elles représentent relativement peu de monde, soit du fait que ce sont des zones industrielles, des parcs ou toute autre raison.
 
-La première chose qui saute aux yeux: la contribution sans commune mesure du Centre-Ville dans les revenus municipaux. Cette première visualisation comprend tous les types de revenus fonciers et clairement les tours à bureaux et les commerces sont une source importante de revenus fonciers. On comprendra, à juste titre, les préoccupations de nombreux acteurs concernant la santé du Centre-ville dans un contexte (post-)pandémique. Évidemment, il y a du résidentiel au centre-ville, mais c'est avant tout le commercial qui pèse lourd dans la balance. L'aire de dissémination qui rapporte le plus par mètre de rue comprend plusieurs des principales tours à bureau de Montréal, dont la tour Ville-Marie. En fait le Centre-Ville génère tellement de revenu, qu'il "écrase" tout le reste et ça rend difficilement intelligible le reste des résultats.
+La première chose qui saute aux yeux: la contribution sans commune mesure du Centre-Ville dans les revenus municipaux. Cette première visualisation comprend tous les types de revenus fonciers et clairement les tours à bureaux et les commerces sont une source importante de revenus fonciers. On comprendra, à juste titre, les préoccupations de nombreux acteurs concernant la santé du Centre-ville dans un contexte (post-) pandémique. Évidemment, il y a du résidentiel au centre-ville, mais c'est avant tout le commercial qui pèse lourd dans la balance. L'aire de dissémination qui rapporte le plus par mètre de rue comprend plusieurs des principales tours à bureau de Montréal, dont la tour Ville-Marie. En fait le Centre-Ville génère tellement de revenu, qu'il "écrase" tout le reste et ça rend difficilement intelligible le reste des résultats.
 
 On notera aussi la contribution notable des secteurs industriels de Saint-Laurent, le port de Montréal, et le secteur de l’intersection entre le 40 et la 25, des zones assez étendues car industrielles et qui vont "disparaître" quand on va se concentrer sur les revenus résidentiels.
 
@@ -80,9 +81,9 @@ Donc si on retire le non résidentiel de l’équation, nous obtenons ceci:
 .responsive-wrap iframe{ max-width: 100%;}
 </style>
 <div class="responsive-wrap" style="margin-bottom: 10px">
-  <iframe src="https://kepler.gl/demo/map/carto?mapId=a0672617-9f1c-a9c6-0f0a-74d0cf4613b7&owner=sguidoin&privateMap=false" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+ <iframe src="@@PROT8@@ frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
-<div class="photoattrib"><br/>Visualisation 3D interactive des revenus fonciers résidentiels par kilomètre linéaire de rue selon les aires dissémination. Pour changer la perspective 3D, appuyez sur la touche *Ctlr* en même temps que vous déplacez la souris. Accès en <a href="https://kepler.gl/demo/map/carto?mapId=a0672617-9f1c-a9c6-0f0a-74d0cf4613b7&owner=sguidoin&privateMap=false">plein écran</a></div>
+<div class="photoattrib"><br/>Visualisation 3D interactive des revenus fonciers résidentiels par kilomètre linéaire de rue selon les aires dissémination. Pour changer la perspective 3D, appuyez sur la touche *Ctlr* en même temps que vous déplacez la souris. Accès en <a href="@@PROT9@@>plein écran</a></div>
 
 
 Ici, on peut se permettre de comparer des pommes avec des pommes: les revenus générés par des gens qui ont besoin de se loger. Commençons par quelques constats avant de discuter de la conséquence de ce qu’on voit:
@@ -100,22 +101,22 @@ Le portrait d’ensemble est tout de même semblable à celui obtenu par Urban3:
 .responsive-wrap iframe{ max-width: 100%;}
 </style>
 <div class="responsive-wrap" style="margin-bottom: 10px">
-  <iframe src="https://urban-dev-29e2f.web.app/" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+ <iframe src="@@PROT11@@ frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
-<div class="photoattrib"><br/>Visualisation 3D interactive des revenus fonciers développée par Anagraph. Maintenir la touche <i>Ctrl</i> en déplaçant la souris pour changer le point de vue. Accès en <a href="https://urban.anagraph.io/">plein écran</a></div>
+<div class="photoattrib"><br/>Visualisation 3D interactive des revenus fonciers développée par Anagraph. Maintenir la touche <i>Ctrl</i> en déplaçant la souris pour changer le point de vue. Accès en <a href="@@PROT12@@>plein écran</a></div>
 
 ### Les revenus fonciers et les revenus familiaux
 
 L’argumentaire de Urban3 repose en partie sur le fait que les quartiers centraux sont plus modestes et pourtant génèrent plus de revenus. Toutefois, Urban3 ne fournit pas vraiment de démonstration en se contentant d’une analyse géospatiale sans coupler avec des données socio-démographiques. Considérant que Montréal présente possiblement une plus grande mixité sociale dans ses quartiers (du moins c’est une hypothèse plausible), on ne peut pas se contenter de dire que les quartiers centraux sont généralement plus modestes, L’avantage d’utiliser les aires de dissémination de Statistique Canada comme découpage, c’est qu’il est possible de conjuguer les données foncières avec des indicateurs socio-démographiques. 
 
-L’équipe d’Anagraph a eu la gentillesse de me partager un ensemble de données qu’ils ont monté permettant de mettre les revenus fonciers en rapport avec le revenu médian après impôt des ménages dans chaque aires de dissémination .
+L’équipe d’Anagraph a eu la gentillesse de me partager un ensemble de données qu’ils ont monté permettant de mettre les revenus fonciers en rapport avec le revenu médian après impôt des ménages dans chaque aires de dissémination.
 
 Si on fait une régression linéaire, à l’échelle des aires de dissémination entre ces deux variables, on obtient un nuage de point sans tendance visibles. En calculant le facteur de corrélation on obtient -0.17, ce qui est une absence de corrélation (ou si corrélation il y a, c’est très faible). L’absence de corrélation signifie que peu importe le revenu des ménages, chacun paie *en moyenne* une part à peu près égale. La majorité des politiques publiques essaient d’avoir un effet progressif, c’est-à-dire que les personnes aisées contribuent plus que celles qui le sont moins. Avec cette première régression, il apparaît assez clairement que la taxe foncière n’est pas progressive.
 
 Pour pousser l’investigation un peu plus loin, j’ai essayé de faire des regroupements par fourchettes de salaire médian et ici on obtient un portrait plus intéressant qu’une régression linéaire ne peut effectivement pas capter:
 
 
-![Contribution foncière en fonction du salaire]({{ root_url }}/images/2022-05-30_contribution_salaire-1.webp)
+![Contribution foncière en fonction du salaire]({{ root_url}}/images/2022-05-30_contribution_salaire-1.webp)
 <div class="photoattrib">Contribution foncière en fonction du salaire médian des ménages après impôts</div>
 
 
@@ -125,7 +126,7 @@ Les barres verticales jaunes fournissent une indication du nombre d’aires de d
 
 Comme on a pu le voir dans les visualisations précédentes, on note une forte disparité géographique entre un centre-ville étendu et les zones plus périphériques. Il est possible d’essayer de représenter celle-ci de manière statistique. De manière visuelle, il m’a semblé que ce centre-ville étendu s’étire de manière concentrique à partir du Mont-Royal à peu près. J’ai donc divisé les aires de dissémination, de manière quelque peu arbitraire, entre celles à moins de 7km du Mont-Royal et celles à plus de 7km, ce qui donne ceci:
 
-![Contribution foncière en fonction du salaire]({{ root_url }}/images/2022-05-30_contribution_salaire-2.webp)
+![Contribution foncière en fonction du salaire]({{ root_url}}/images/2022-05-30_contribution_salaire-2.webp)
 <div class="photoattrib">Contribution foncière en fonction du salaire médian des ménages après impôts selon la proximité au centre de la ville</div>
 
 
@@ -137,7 +138,6 @@ Portrait très différent dans les zones périphériques où la courbe de contri
 Dans la section discussion, je vais amener certains bémols liés à mes hypothèses mais dans l’ensemble, on peut tirer deux grandes conclusions:
 - Premièrement, on confirme de manière plus statistique la surcontribution des quartiers centraux;
 - Deuxièmement, on note, à la grandeur du territoire, une certaine regressivité de la contribution foncière, c’est-à-dire une plus grande contribution des revenus les plus faibles. Toutefois, cette tendance à la regressivité a une variable géographique et se manifeste surtout dans les quartiers périphériques.
-
 En d’autres termes, pour reprendre un peu le vocabulaire de l’article de StrongTown, les infrastructures des quartiers riches *et* périphériques sont subventionnées par le reste de la population.
 
 ### Digression sur l’impôt foncier et les finances municipales
@@ -185,42 +185,41 @@ En plus des indicateurs utilisés jusqu’ici, j’ajoute quelques autres donné
 - Le nombre moyen d’habitants par logement
 - L’empreinte au sol de chaque habitant, obtenu en prenant la somme des surfaces des terrains résidentiel divisée par le nombre d’habitant
 - La valeur moyenne du compte de taxe par logement.
-
 Pour commencer, si on regarde du coté de Saint-Laurent, à un jet de pierre d’un de l’autre, nous avons deux situations très différentes:
 
 
 
 <table style="font-size: 85%; background: #fff;">
-  <tr>
-    <td>
-      <img src="{{ root_url }}/images/2022-05-30_StLaurent_bungalow.webp"/>
-    </td>
-    <td>
-      <img src="{{ root_url }}/images/2022-05-30_StLaurent_bloc.webp"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      Saint-Laurent - Bungalows
-      <ul>
-        <li>Revenu foncier par km: 261$/m</li>
-        <li>Revenu médian après taxe des foyers: 56 576$</li>
-        <li>Habitant par logement: 2.71</li>
-        <li>Empreinte au sol par habitant: 117m<sup>2</sup></li>
-        <li>Taxe par logement: 2626$/an</li>
-      </ul> 
-    </td>
-    <td>
-      Saint-Laurent - Blocs appartements
-        <ul>
-        <li>Revenu foncier par km: 2241$/m</li>
-        <li>Revenu médian après taxe des foyers: 41 600$</li>
-        <li>Habitant par logement: 1.99</li>
-        <li>Empreinte au sol par habitant: 18.4m<sup>2</sup></li>
-        <li>Taxe par logement: 959$/an</li>
-      </ul>
-    </td>
-  </tr>
+ <tr>
+ <td>
+ <img src="{{ root_url }}/images/2022-05-30_StLaurent_bungalow.webp"/>
+ </td>
+ <td>
+ <img src="{{ root_url }}/images/2022-05-30_StLaurent_bloc.webp"/>
+ </td>
+ </tr>
+ <tr>
+ <td>
+ Saint-Laurent - Bungalows
+ <ul>
+ <li>Revenu foncier par km: 261$/m</li>
+ <li>Revenu médian après taxe des foyers: 56 576$</li>
+ <li>Habitant par logement: 2.71</li>
+ <li>Empreinte au sol par habitant: 117m<sup>2</sup></li>
+ <li>Taxe par logement: 2626$/an</li>
+ </ul> 
+ </td>
+ <td>
+ Saint-Laurent - Blocs appartements
+ <ul>
+ <li>Revenu foncier par km: 2241$/m</li>
+ <li>Revenu médian après taxe des foyers: 41 600$</li>
+ <li>Habitant par logement: 1.99</li>
+ <li>Empreinte au sol par habitant: 18.4m<sup>2</sup></li>
+ <li>Taxe par logement: 959$/an</li>
+ </ul>
+ </td>
+ </tr>
 </table>
 <br/>
 
@@ -229,77 +228,79 @@ D’un coté, une zone peu dense, avec des bungalows et des terrains assez gén�
 
 Dans la visualisation 3D des revenus fonciers par mètre de rue, une bonne partie des “pics” (les zones plus hautes et plus claires) dans les secteurs hors du centre-ville étendu sont des zones à forte densité comme ici: tours d’habitation, blocs appartements et autres au milieu de zones généralement caractérisées par une densité moindre comme c’est le cas avec les bungalows.
 
----
+--
+-
 
 <table style="font-size: 85%; background: #fff;">
-  <tr>
-    <td>
-      <img src="{{ root_url }}/images/2022-05-30_Outremont Revenus_eleves.webp"/>
-    </td>
-    <td>
-      <img src="{{ root_url }}/images/2022-05-30_CDN_faibles_revenus.webp"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      Outremont - Quartier à hauts revenus
-      <ul>
-        <li>Revenu foncier par km: 1543$/m</li>
-        <li>Revenu médian après taxe des foyers: 105 856$</li>
-        <li>Habitant par logement: 2.48</li>
-        <li>Empreinte au sol par habitant: 91m<sup>2</sup></li>
-        <li>Taxe par logement: 4934$/an</li>
-      </ul> 
-    </td>
-    <td>
-      Cote-des-Neiges - Quartier à faibles revenus
-        <ul>
-        <li>Revenu foncier par km: 618$/m</li>
-        <li>Revenu médian après taxe des foyers: 34 355$</li>
-        <li>Habitant par logement: 1.94</li>
-        <li>Empreinte au sol par habitant: 26.7m<sup>2</sup></li>
-        <li>Taxe par logement: 930$/an</li>
-      </ul>
-    </td>
-  </tr>
+ <tr>
+ <td>
+ <img src="{{ root_url }}/images/2022-05-30_Outremont Revenus_eleves.webp"/>
+ </td>
+ <td>
+ <img src="{{ root_url }}/images/2022-05-30_CDN_faibles_revenus.webp"/>
+ </td>
+ </tr>
+ <tr>
+ <td>
+ Outremont - Quartier à hauts revenus
+ <ul>
+ <li>Revenu foncier par km: 1543$/m</li>
+ <li>Revenu médian après taxe des foyers: 105 856$</li>
+ <li>Habitant par logement: 2.48</li>
+ <li>Empreinte au sol par habitant: 91m<sup>2</sup></li>
+ <li>Taxe par logement: 4934$/an</li>
+ </ul> 
+ </td>
+ <td>
+ Cote-des-Neiges - Quartier à faibles revenus
+ <ul>
+ <li>Revenu foncier par km: 618$/m</li>
+ <li>Revenu médian après taxe des foyers: 34 355$</li>
+ <li>Habitant par logement: 1.94</li>
+ <li>Empreinte au sol par habitant: 26.7m<sup>2</sup></li>
+ <li>Taxe par logement: 930$/an</li>
+ </ul>
+ </td>
+ </tr>
 </table>
 <br/>
 
 Si on se tourne vers un quartier un peu plus central: Outremont et Cote-des-neiges. Là aussi à un jet de pierre l’un de l’autre, deux réalités très différentes: un quartier riche, avec un revenu médian par foyer de 105 856$ mais aussi une certaine densité, relativement peu de terrain, générant 1543$/m de rue; significativement plus que les bungalows de Saint-Laurent. Non loin de là, un secteur avec des revenus de ménage significativement plus faibles à 34 355$/an, des habitations en appartement moins serrées que des barres d’immeuble, avec une élévation assez limitée (3-4 étages) et produisant des revenus fonciers de 618$/mètre de rue, un chiffre plus faible que le quartier voisin mieux nanti à côté, mais toujours significativement plus élevé que les bungalows.
 
----
+--
+-
 
 <table style="font-size: 85%; background: #fff;">
-  <tr>
-    <td>
-      <img src="{{ root_url }}/images/2022-05-30_ile-bizard.webp"/>
-    </td>
-    <td>
-      <img src="{{ root_url }}/images/2022-05-30_parc-ex.webp"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      Île-Bizard - Quartier à hauts revenus excentré
-      <ul>
-        <li>Revenu foncier par km: 284$/m</li>
-        <li>Revenu médian après taxe des foyers: 112 640$</li>
-        <li>Habitant par logement: 3.21</li>
-        <li>Empreinte au sol par habitant: 261m<sup>2</sup></li>
-        <li>Taxe par logement: 4384$/an</li>
-      </ul> 
-    </td>
-    <td>
-      Parc-Extension - Quartier à faibles revenus plus central
-        <ul>
-        <li>Revenu foncier par km: 918$/m</li>
-        <li>Revenu médian après taxe des foyers: 25 232$</li>
-        <li>Habitant par logement: 1.66</li>
-        <li>Empreinte au sol par habitant: 23.8m<sup>2</sup></li>
-        <li>Taxe par logement: 967$/an</li>
-      </ul>
-    </td>
-  </tr>
+ <tr>
+ <td>
+ <img src="{{ root_url }}/images/2022-05-30_ile-bizard.webp"/>
+ </td>
+ <td>
+ <img src="{{ root_url }}/images/2022-05-30_parc-ex.webp"/>
+ </td>
+ </tr>
+ <tr>
+ <td>
+ Île-Bizard - Quartier à hauts revenus excentré
+ <ul>
+ <li>Revenu foncier par km: 284$/m</li>
+ <li>Revenu médian après taxe des foyers: 112 640$</li>
+ <li>Habitant par logement: 3.21</li>
+ <li>Empreinte au sol par habitant: 261m<sup>2</sup></li>
+ <li>Taxe par logement: 4384$/an</li>
+ </ul> 
+ </td>
+ <td>
+ Parc-Extension - Quartier à faibles revenus plus central
+ <ul>
+ <li>Revenu foncier par km: 918$/m</li>
+ <li>Revenu médian après taxe des foyers: 25 232$</li>
+ <li>Habitant par logement: 1.66</li>
+ <li>Empreinte au sol par habitant: 23.8m<sup>2</sup></li>
+ <li>Taxe par logement: 967$/an</li>
+ </ul>
+ </td>
+ </tr>
 </table>
 <br/>
 
@@ -310,26 +311,27 @@ Comme le montre cet exemple, en matière de revenu foncier, la valeur élevée d
 
 À l’autre bout du spectre des revenus, le secteur Acadie de Parc-Extension. Des logements compacts mais avec une élévation limitée (3 niveaux). Des revenus des ménages très modestes à 25 232$/an, parmi les plus bas de Montréal, et une contribution financière de l’ordre de 918$/mètre de rue, soit nettement plus que les deux quartiers à faible densité de Saint-Laurent ou L’Île-Bizard
 
----
+--
+-
 
 <table style="width:50%; font-size: 85%; background: #fff; margin:auto;">
-  <tr>
-    <td>
-      <img src="{{ root_url }}/images/2022-05-30_centre-ville.webp"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      Centre-Ville
-      <ul>
-        <li>Revenu foncier par km: 3323$/m</li>
-        <li>Revenu médian après taxe des foyers: 24 256$</li>
-        <li>Habitant par logement: 1.3</li>
-        <li>Empreinte au sol par habitant: 12.3m<sup>2</sup></li>
-        <li>Taxe par logement: 1446$/an</li>
-      </ul> 
-    </td>
-  </tr>
+ <tr>
+ <td>
+ <img src="{{ root_url }}/images/2022-05-30_centre-ville.webp"/>
+ </td>
+ </tr>
+ <tr>
+ <td>
+ Centre-Ville
+ <ul>
+ <li>Revenu foncier par km: 3323$/m</li>
+ <li>Revenu médian après taxe des foyers: 24 256$</li>
+ <li>Habitant par logement: 1.3</li>
+ <li>Empreinte au sol par habitant: 12.3m<sup>2</sup></li>
+ <li>Taxe par logement: 1446$/an</li>
+ </ul> 
+ </td>
+ </tr>
 </table>
 <br/>
 
@@ -346,11 +348,12 @@ On pourrait ainsi rétorquer que ce n’est pas la personne qui réside (et dont
 
 Autre élément qui mélange sûrement les choses: les étudiants. L’exemple dans le Centre-Ville, proche de Concordia, n’est pas évident. Il y a dans le secteur des blocs clairement dédiés aux étudiants qui ont évidemment des revenus faibles. Ont-ils des bourses? Ont-ils des jobs étudiantes? Sont-ils aidés par leurs parents? S’endettent-ils? Impossible à dire évidemment. Mettons qu' ici, on peut s’arrêter au fait qu’a priori ce n’est pas la population qui a le plus de revenus discrétionnaires. Malgré tout, là encore, ils contribuent (indirectement) de manière significative aux revenus de la ville.
 
-Enfin, la statistique de revenu utilisé, le revenu *par ménage* soulève des questions sur le nombre de personnes par ménage. Une grande maison a plus de chances d’abriter une famille, potentiellement avec deux adultes à revenus alors qu’un logement au centre-ville peut ne contenir qu’un étudiant… à moins que ce soit 3 étudiants en colocation! Ainsi, dans les exemples au-dessus, le quartier de l'Île-Bizard avait une moyenne de 3.21 habitants par logement alors que pour Parc-Extension et le Centre-ville c'était respectivement 1.66 et 1.3.
+Enfin, la statistique de revenu utilisé, le revenu *par ménage* soulève des questions sur le nombre de personnes par ménage. Une grande maison a plus de chances d’abriter une famille, potentiellement avec deux adultes à revenus alors qu’un logement au centre-ville peut ne contenir qu’un étudiant… à moins que ce soit 3 étudiants en colocation! Ainsi, dans les exemples au-dessus, le quartier de l'Île-Bizard avait une moyenne de 3.21 habitants par logement alors que pour Parc-Extension et le Centre-ville c'était respectivement 1.66 et 1.
+3.
 
 Là aussi je vais fournir une rapide indication que le nombre d’habitants dans une maison est certes important mais ne reverse pas les conclusions. J’ai fait une analyse complémentaire en calculant les revenus par mètre carré habitable et *par habitant*. Mis sur une carte nous obtenons ceci: 
 
-![Revenus fonciers par metre carré par habitant]({{ root_url }}/images/2022-05-30_empreinte_habitant.webp)
+![Revenus fonciers par metre carré par habitant]({{ root_url}}/images/2022-05-30_empreinte_habitant.webp)
 <div class="photoattrib">Revenus fonciers par metre carré par habitant</div>
 
 Les zones les plus claires représentent des revenus inférieurs à 2$/m<sup>2</sup>/habitant, tandis que les zones plus foncées sont autour de 20$/m<sup>2</sup>/habitant. Encore une fois, on note des différences très significatives, même en intégrant le fait que les quartiers périphériques ont généralement plus d’habitant par logement.
@@ -364,7 +367,6 @@ Leurs principales recommandations tournent autour de deux axes:
 
 - Renforcer la qualité des infrastructures dans les quartiers modestes, ce qui aurait pour effet d’augmenter la valeur foncière et générer donc plus de revenu pour la ville.
 - Densifier.
-
 Le premier point vient d’une hypothèse: les infrastructures dans les centre-villes sont plus usées, ce qui nuit à la valeur foncière des immeubles et donc à la quantité de taxes générées. À contrario, les zones excentrées, souvent plus récentes, sont souvent en meilleur état. Ainsi le potentiel de gain en taxe foncière pour chaque dollar investi est plus élevé dans les quartier centraux. 
 
 Évidemment d’un point de vue des finances de la ville, cela parait très logique… mais à quel coût pour les populations qui y vivent? À n’en pas douter, une augmentation de la valeur foncière serait repassée à ceux qui sont souvent des locataires et qui ont le moins de capacité à payer. En même temps est-ce juste de laisser ceux qui contribuent le plus aux finances publiques dans des infrastructures plus désuètes?
@@ -417,7 +419,6 @@ L’idée est d’envisager la meilleure forme possible pour nos villes: offrir 
 - [Réseau routier de la ville de Montréal](https://donnees.montreal.ca/ville-de-montreal/geobase)
 - [Aires de distribution de Statistique Canada](https://www12.statcan.gc.ca/census-recensement/2011/geo/bound-limit/bound-limit-2016-fra.cfm)
 - Données socio-démographiques de Statistique Canada selon le recensement de 2015, assignées aux aires de distribution (monté et fourni par Anagraph)
-
 ### Version simplifiée des étapes de traitement des données
 
 Le point de départ sont les données de taxes disponible qui doivent être sélectionnées pour seulement une année (en l’occurrence 2021) puis de faire la somme des différentes taxes appliquée à un même unité. Ensuite cette sommation des taxes pour une année peut être combinées avec les unités d’évaluation foncière par la clé qui est l’identifiant d’unité foncière qui est présent dans les deux ensembles. Avec cela il est possible d’avoir pour chaque unité: le territoire géographique couvert par l’unité, l’usage et les taxes.
@@ -439,8 +440,7 @@ Les graduations avec des intervalles constants permettent de bien voir les valeu
 ### Code et données
 
 - Une version simplifiée des requêtes SQL utilisées pour faire le traitement de données est [disponible](https://gist.github.com/Hoedic/700eb03a91eaafb1804d8488b63c3a43) sur Gist.
-- [Extraction des données traitées]({{ root_url }}/images/2022-05-31_Donnees-analyse.zip) en GeoJSON
-
+- [Extraction des données traitées]({{ root_url}}/images/2022-05-31_Donnees-analyse.zip) en GeoJSON
 
 ### Outils utilisés
 

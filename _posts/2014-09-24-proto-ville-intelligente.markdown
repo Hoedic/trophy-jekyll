@@ -17,7 +17,6 @@ Le présent article vise à faire une analyse de la réforme du financement des 
 - Souligner comment les données ouvertes peuvent être utilisées pour mieux comprendre notre environnement et idéalement pour créer une base de discussion et d'engagement avec les citoyens.
 - Montrer ce à quoi pourrait ressembler du journalisme de données de fond. Malheureusement le journalisme de données se contente trop souvent de quelques graphiques sans fournir d'analyse de fond.
 - Suggérer une démarche dans laquelle les citoyens pourraient avoir leur mot à dire sans nécessairement avoir à rentrer en détail dans les données disponibles.
-
 Ce billet est le résultat d'un travail dilétante pendant une partie de l'été où j'ai joué avec plusieurs jeux de données en essayant de faire le lien avec les paramètres utilisés pour définir le financement des arrondissements.
 
 Si vous êtes vraiment pressés, vous pouvez passer directement à la [conclusion](#conclusion), mais vont manquerez comment j'arrive à ce résultat (au risque de mauvaises interprétations!)
@@ -32,7 +31,7 @@ Les paramètres en question (anciens et nouveaux) sont disponibles dans un docum
 
 Appliqué à l'année 2015, les nouveaux paramètres amènent les changements présentés ci-dessous en matière de budget (notes rapides: dans les faits, les changements seront appliqués progressivement, donc les arrondissements ne vont pas subir ces changements du jour au lendemain. Le graphique contient uniquement les principaux postes budgétaires; la cause étant que les données sont présentées sous forme de PDF et qu'il a donc fallu retranscrire les informations à la main.)
 
-![Variation de budget]({{ root_url }}/images/2014-09-24-budget-absolu.webp)
+![Variation de budget]({{ root_url}}/images/2014-09-24-budget-absolu.webp)
 <div class="photoattrib">Variation du budget par arrondissement pour les principaux postes de dépense (en milliers de dollars)</div>
 
 
@@ -40,10 +39,10 @@ Les variations sont importantes et mis en pourcentage, cela implique des variati
 
 En mettant les changements sur une carte, il appert que les arrondissements périphériques semblent généralement plus dans le positif tandis que les arrondissements centraux souffrent d'une baisse de financement. Comme on peut le voir sous forme [graphique](https://plot.ly/6/~hoedic), on note assez nettement le lien entre variation du budget et éloignement des arrondissements.
 
-<a href="http://cdb.io/1CiKuBv">
-![Variation de budget]({{ root_url }}/images/2014-09-24-carte.webp)
+<a href="@@PROT3@@>
+![Variation de budget]({{ root_url}}/images/2014-09-24-carte.webp)
 </a>
-<div class="photoattrib">Carte des variations de budget par arrondissement. <a href="http://cdb.io/1CiKuBv">Accès à la carte interactive</a></div>
+<div class="photoattrib">Carte des variations de budget par arrondissement. <a href="@@PROT4@@>Accès à la carte interactive</a></div>
 
 Sans rentrer dans les détails, il est intéressant de noter que le budget par habitant est très variable d'un arrondissement à l'autre passant de 0.89$ pour Saint-Laurent et Ville-Marie à 0.45$ pour Cote-des-neiges--Notre-Dame-de-Grace ([données ici](https://plot.ly/7/~hoedic)). On ne trouvera pas de solution facile à se contentant de regarder le coût par habitant.
 
@@ -54,10 +53,10 @@ Sans rentrer dans les détails, il est intéressant de noter que le budget par h
 Pourtant, en allant chercher les données d'emprunt, le calcul de certains ratios (en l'occurrence le nombre de livre par habitant, le nombre d'emprunt par livre et le nombre d'emprunt par habitant -qui détermine en partie le budget alloué aux bibliothèques) donne des résultats assez surprenants.
 
 
-<a href="https://plot.ly/~hoedic/9">
-![Emprunts de livres]({{ root_url }}/images/2014-09-24-emprunts-livres.webp)
+<a href="@@PROT6@@>
+![Emprunts de livres]({{ root_url}}/images/2014-09-24-emprunts-livres.webp)
 </a>
-<div class="photoattrib">Emprunts par livres et nombre total d'emprunt par arrondissement. <a href="https://plot.ly/~hoedic/9">Accès au graph interactif</a></div>
+<div class="photoattrib">Emprunts par livres et nombre total d'emprunt par arrondissement. <a href="@@PROT7@@>Accès au graph interactif</a></div>
 
 Il est presque choquant de voir que certains arrondissements disposent uniquement de 1.4 livres par habitant (Lachine), alors que d'autres sont à 3.86 (Pierrefonds). Tendance générale: les arrondissements avec le plus faible taux de livre par habitant sont ceux avec le plus d'emprunt par livre. Spécifiquement Lachine et le Plateau ont un ratio emprunt/livre supérieur à livre/habitant.
 
@@ -81,10 +80,10 @@ Pour arriver à une analyse intéressante, il faut regarder l'empreinte individu
 
 En prenant ainsi l'empreinte par habitant, on note trouve une correlation assez forte: les augmentations de budgets sont une fonction croissante de l'empreinte. En d'autres termes, la nouvelle formulation du budget tend à favoriser les gens qui s'étalent.
 
-<a href="https://plot.ly/~hoedic/5">
-![Empreinte par habitant]({{ root_url }}/images/2014-09-24-emprunte-habitant.webp)
+<a href="@@PROT9@@>
+![Empreinte par habitant]({{ root_url}}/images/2014-09-24-emprunte-habitant.webp)
 </a>
-<div class="photoattrib">Variation du budget en fonction de l'empreinte au sol des résidents. <a href="https://plot.ly/~hoedic/5">Accès au graph interactif</a></div>
+<div class="photoattrib">Variation du budget en fonction de l'empreinte au sol des résidents. <a href="@@PROT10@@>Accès au graph interactif</a></div>
 
 Certains diront qu'éloignement du centre et étalement sont synonymes. À mes yeux, ça ne l'est pas: l'empreinte par habitant est un attribut important du tissu urbain contrairement à l'éloignement. La densité détermine le type d'organisation urbaine (avec les coûts privés et publics qui s'y rattachent). Par exemple, avec des stratégies "transit oriented", on peut obtenir de bonnes densités dans des lieux éloignés. Je reviendrai sur ces considérations en conclusion mais le résultat de ce graphique n'en demeure pas moins important.
 
@@ -127,10 +126,10 @@ Comment cette approche "data sensitive" pourrait se traduire dans un budget para
 
 Des indicateurs existent. La Ville réalise notamment à intervalle régulier un état des lieux des rues pour évaluer les besoins de réfection. Ces données ont été obtenues par Radio Canada et [utilisées](http://ici.radio-canada.ca/sujet/etat-rues-montreal) lors du hackathon geoHack l'année dernière (j'ai eu la chance de faire partie de l'équipe gagnante avec lesdites données.) Est-ce que les données d'état des rues ont été prises en compte pour la paramétrisation? Non, les paramètres ne les prennent pas en compte et je m'attendais à ne vois aucune corrélation entre variation de budget et état des rues.
 
-<a href="https://plot.ly/~hoedic/4">
-![État des rues]({{ root_url }}/images/2014-09-24-etat-rue.webp)
+<a href="@@PROT15@@>
+![État des rues]({{ root_url}}/images/2014-09-24-etat-rue.webp)
 </a>
-<div class="photoattrib">Variation du budget en fonction de l'état des rues <a href="https://plot.ly/~hoedic/4">Accès au graph interactif</a></div>
+<div class="photoattrib">Variation du budget en fonction de l'état des rues <a href="@@PROT16@@>Accès au graph interactif</a></div>
 
 Le graphique donne une image surprenante. D'abord, on note des clusters: d'un coté les quartiers centraux qui subissent tous une baisse alors que les quartiers périphériques augmentent. Ensuite, on note une corrélation positive assez forte à l'intérieur des deux clusters principaux entre la variation de budget et l'état des rues. En d'autres termes plus votre qualité de rue est bonne, plus vous recevez de l'argent. 
 
@@ -178,7 +177,8 @@ Comme noté précédemment, il est dommage que les données ayant servi au calcu
 
 ### De la qualité de proxy
 
-Comme je le disais en introduction, la question centrale de l'approche paramétrique -et de la ville intelligente- c'est de savoir si les proxys utilisés reflètent la réalité. L'article montre combien il est difficile d'avoir ce genre de proxy. Même pour les données de bibliothéque, où le proxy semblait excellent, on finit par lui trouver de possibles failles.
+Comme je le disais en introduction, la question centrale de l'approche paramétrique -et de la ville intelligente
+- c'est de savoir si les proxys utilisés reflètent la réalité. L'article montre combien il est difficile d'avoir ce genre de proxy. Même pour les données de bibliothéque, où le proxy semblait excellent, on finit par lui trouver de possibles failles.
 
 Pour discuter spéficiquement du choix des proxy dans la réforme, on peut en arriver à la conclusion que les paramètres se concentrent trop sur la comptabilisation des actifs sans prendre en compte leur taux d'utilisation. Des livres empruntés plus fréquemment devront être changés plus souvent. Des mètres carrés de rue ou de parc nécessiteront plus ou moins d'entretien selon l'intensité avec laquelle ils seront utilisés. Les paramètres "statiques" peinent intégrer l'aspect dynamique.
 
@@ -198,7 +198,8 @@ Les paramètres choisis dans la réforme ont tendance à être aveugles à cette
 
 Lors d'une conférence récente pour l'Association des Transports du Canada, M. Aref Salem expliquait qu'on ne pouvait plus développer les villes sur base du tout à l'auto et qu'il est nécessaire de densifier. Le plan métropolitain d'aménagement et de développement (PMAD) adopté par le CMM arrivait à la même conclusion. Mais comment mettre en oeuvre ces recommandations sur les flux budgets continuent de supporter un mode de développement étalé?
 
-Certains argueront que ce qui oriente la ville, ce sont plus les budgets d'investissements et non les budgets d'opération. C'est vrai et ce n'est pas vrai: les investissements permettent de développer des nouvelles infrastructures. Mais si les budgets ne permettent pas de faire "vivre" les infrastructures, si l'opération tend à défavoriser une approche par rapport à une autre -et surtout celle qui repose sur des espaces et services publics- c'est certain que cela va créer un débalancement de la population d'un sens vers l'autre.
+Certains argueront que ce qui oriente la ville, ce sont plus les budgets d'investissements et non les budgets d'opération. C'est vrai et ce n'est pas vrai: les investissements permettent de développer des nouvelles infrastructures. Mais si les budgets ne permettent pas de faire "vivre" les infrastructures, si l'opération tend à défavoriser une approche par rapport à une autre -et surtout celle qui repose sur des espaces et services publics
+- c'est certain que cela va créer un débalancement de la population d'un sens vers l'autre.
 
 Ce qui m'amène donc au dernier point: la nécessité de discuter de ces enjeux.
 
@@ -216,7 +217,6 @@ Plusieurs fois, en lisant ou en écrivant sur les enjeux de ville intelligente, 
 
 - Comment s'assurer que cette approche intelligente et citoyenne est appliqué à l'ensemble des domaines d'activité (le budget et la fiscalité était les moins évidents)
 - Comment le concept de participation doit être appliqué pour être efficace.
-
 Habituellement je me pose la question de manière abstraite. Cette réforme de financement est une belle occasion d'essayer de réfléchir à ceci de manière plus concrète.
 
 Il est difficile d'espérer que tout le monde va se mettre à manipuler ces données. Il est déjà difficile d'obtenir les niveaux d'engagement souhaitables pour des actions assez simples, rares sont ceux qui s'investiront dans de l'analyse de données. Il faut donc trouver un processus permettant de mettre en évidence les choix et leurs impacts sans avoir à traiter les données. 
@@ -255,7 +255,6 @@ Analyser des données, c'est beaucoup une histoire de choix. Voici une brève di
 - Dans certains graphiques, j'ai volontairement homis l'Île-Bizard (et parfois Pierrefonds) à cause du fait que son éloignement et sa densité est complètement hors échelle, "écrasant" ainsi les autres valeurs. L'Île-Bizard (18 097 habitants) est de loin, avec Outremont (23 566), le plus petit arrondissement en population, les suivants font quasiment le double (Lachine et Anjou avec 41 000 habitants.)
 - En allant un peu vite, j'ai oublié de prendre certaines échelles classiques, notamment pour tout ce qui est géospatial. Donc les distances et les superficies sont dans une unité de degré de radian, ça n'a pas d'impact si ce n'est que ça se traduit par des valeurs de distance et de superficie un peu étranges. Une fois les résultats produit, il est un peu difficile de refaire des conversions en kilomètre.
 
-
 ### Jeux de données utilisés 
 
 - [Résultats détaillés des élections municipales de 2013](http://donnees.ville.montreal.qc.ca/dataset/elections-2013-resultats-detailles)
@@ -269,7 +268,6 @@ Analyser des données, c'est beaucoup une histoire de choix. Voici une brève di
 - Rapport de la révision du financment des arrondissements (avec des tableaux PDF...)
 - [Limites des arrondissements](http://donnees.ville.montreal.qc.ca/dataset/polygones-arrondissements) de Montréal
 - Montréal en statistiques (population et revenus par arrondissements)
-
 
 ### Outils utilisées
 

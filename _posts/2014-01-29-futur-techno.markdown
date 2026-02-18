@@ -16,8 +16,8 @@ Cet article est le premier d'une série en 6 parties
 - 4ème partie: [La voiture autonome](/2014/02/10/voiture-autonome/)
 - 5ème partie: [Des sirènes et des plateformes](/2014/02/16/sirenes-plateformes/)
 - 6ème partie: [Conclusion](/2014/04/27/futur-techno-conclusion/)
-
---
+-
+-
 
 Malgré plus de 5000 ans depuis le début de l'Antiquité, les standards de vie n'ont réellement évolués significativement que depuis 200 ans, correspondant à la première révolution industrielle. Cette dernière est d'ailleurs [responsable](http://en.wikipedia.org/wiki/Industrial_Revolution#Population_increase) de l'accroissement massif de la population occidentale puis mondiale. L'humanité est ce qu'elle maintenant grâce aux technologies, grâce aux machines. Depuis la fin du XVIIIème siècle, la technologie a fait espérer un avenir meilleur où les principaux maux seraient choses du passé. Espoirs déçus amenant la majorité de la population ne plus espèrer qu'un gizmo de plus ou de moins. Pourtant les avancées technologiques n'ont pas dit leur dernier mot: l'évolution des systèmes d'information, de la puissance de calcul ou encore de l'intelligence artifielle promettent des boulversements dans les décennies à venir et encore une fois, tout ne sera pas pour le meilleur.
 
@@ -31,9 +31,8 @@ L'autre phénomène en jeu avec Instagram, c'est ce que Lanier appelle les serve
 
 Outre que nous nous retrouvons ainsi dans une prison dorée, ce mode de fonctionnement se traduit par un fonctionnement problématique souvent défini comme [Winner-take-all](http://en.wikipedia.org/wiki/Winner-take-all#Other_uses). À cause de l'effet de réseau, l'acteur dominant rafle une quantité disproportionnée des bénéfices. La situation de second devient devient quasiment invivable économiquement. La conséquence macro-économique est celle énoncée au début de l'article: une concentration des revenus chez les quelques vainqueurs, couplée à une baisse générale (ou au mieux une stagnation) de l'emploi chez les travailleurs. Comme l'aurait dit Marx, les technologies permettent de substituer le travail par le capital.
 
-Le prochain billet essaiera d'expliquer pourquoi les technologies numériques sont plus destructrices que les précédentes et pourquoi ça ne va surement pas s'améliorer.
+Le prochain billet essaiera d'expliquer pourquoi les technologies numériques sont plus destructrices que les précédentes et pourquoi ça ne va sûrement pas s'améliorer.
 
 ⁂
 
- > Your lack of privacy is someone else's wealth
- > <div class="attrib">Jaron Lanier, Who owns the future</div>
+ > Your lack of privacy is someone else's wealth > <div class="attrib">Jaron Lanier, Who owns the future</div>
